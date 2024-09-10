@@ -17,16 +17,6 @@ jobs:
         ref: main  # 替换为你的主分支
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Add upstream remote
-      run: git remote add upstream https://github.com/aiboboxx/clashfree.git
+    - name: Pull upstream changes
+      run: git pull upstream
 
-    - name: Fetch upstream changes
-      run: git fetch upstream
-
-    - name: Merge upstream changes
-      run: |
-        git checkout main
-        git merge upstream/main
-        git push origin main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
