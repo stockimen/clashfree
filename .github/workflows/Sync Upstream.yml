@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: stockimen/clashfree  # 替换为你的 GitHub 用户名和仓库名
         ref: main  # 替换为你的主分支
