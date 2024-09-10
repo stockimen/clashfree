@@ -2,7 +2,7 @@ name: Sync Upstream
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  
+    - cron: '*/5 * * * *'  # 每 5 分钟运行一次
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -11,12 +11,22 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v3  # 使用最新的 v3 版本
       with:
         repository: stockimen/clashfree  # 替换为你的 GitHub 用户名和仓库名
         ref: main  # 替换为你的主分支
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Pull upstream changes
-      run: git pull upstream
+    - name: Add upstream remote
+      run: git remote add upstream https://github.com/aiboboxx/clashfree.git || echo "Upstream already exists"
 
+    - name: Fetch upstream changes
+      run: git fetch upstream
+
+    - name: Merge upstream changes
+      run: |
+        git checkout main
+        git merge upstream/main --ff-only  # 使用快速前进合并
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
