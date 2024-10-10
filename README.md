@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-10-10 04:49:00  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-10-10 13:04:29  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,18 +44,7 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.67.2.238, port: 443, client-fingerprint: randomized, type: trojan, password: bpb-trojan, sni: 403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/trYEKooUVTeXcm8lnU?ed=2560", headers: {Host: 403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 162.159.140.33, port: 2095, client-fingerprint: chrome, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.6016725.xyz}}}
-  - {name: 🇩🇰 丹麦 v2rayfree.eu.org, server: go.alipay.ovh, port: 80, client-fingerprint: chrome, type: vmess, uuid: a94171be-b387-4f02-a5ef-a1b4b7a26c04, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/aries?ed=2048", headers: {Host: open.alipay.ovh}}}
-  - {name: 🇺🇸 美国 Fastly全球Anycast节点, server: gov.uk, port: 443, client-fingerprint: chrome, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}}
-  - {name: 🇩🇪 德国+v2rayfree.eu.org, server: 195.74.86.176, port: 17828, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: OHT1oO1d2IsZM01XZMxiM2, tfo: false}
-  - {name: 🇮🇳 印度 v2rayfree.eu.org, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: pendar.onthewifi.com}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 172.64.166.9, port: 2095, client-fingerprint: chrome, type: vmess, uuid: a63e9c8c-2c04-4b8e-af6a-4a02494a1f0b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.8084726.xyz}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.21.82.183, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server26.beheshtbaneh.com}}}
-  - {name: 🇭🇰 香港 阿里云, server: claw-ali-hkg-1ge.china-next-generation-any-path-smart-route-global.2h.ma, port: 443, client-fingerprint: chrome, type: trojan, password: a3ca0380-8a17-403a-a5b3-a9f6e59be193, sni: claw-ali-hkg-1ge.china-next-generation-any-path-smart-route-global.2h.ma, skip-cert-verify: false, network: ws, ws-opts: {path: /a3ca0380-8a17-403a-a5b3-a9f6e59be193, headers: {Host: claw-ali-hkg-1ge.china-next-generation-any-path-smart-route-global.2h.ma}}}
-  - {name: 🇨🇳 湖南省+联通, server: link.karleynetwork.xyz, port: 23331, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 2b0ea7b4-bd27-4995-bc95-a817174b6f7c, tfo: false}
-  - {name: 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信, server: service.ouluyun9803.com, port: 26667, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: www.darkroom.lol, port: 8080, client-fingerprint: chrome, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.darkroom.lol}}}
+  - {name: 🇸🇬 订阅链接已失效，请重新获取, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -63,36 +52,14 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇩🇰 丹麦 v2rayfree.eu.org
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 阿里云
-      - 🇨🇳 湖南省+联通
-      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇸🇬 订阅链接已失效，请重新获取
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇩🇰 丹麦 v2rayfree.eu.org
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 阿里云
-      - 🇨🇳 湖南省+联通
-      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇸🇬 订阅链接已失效，请重新获取
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -100,23 +67,11 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇩🇰 丹麦 v2rayfree.eu.org
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 阿里云
-      - 🇨🇳 湖南省+联通
-      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇸🇬 订阅链接已失效，请重新获取
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇭🇰 香港 阿里云
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -124,36 +79,14 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇩🇰 丹麦 v2rayfree.eu.org
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 阿里云
-      - 🇨🇳 湖南省+联通
-      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇸🇬 订阅链接已失效，请重新获取
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇩🇰 丹麦 v2rayfree.eu.org
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 阿里云
-      - 🇨🇳 湖南省+联通
-      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇸🇬 订阅链接已失效，请重新获取
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -161,18 +94,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇩🇰 丹麦 v2rayfree.eu.org
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 阿里云
-      - 🇨🇳 湖南省+联通
-      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇸🇬 订阅链接已失效，请重新获取
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -189,18 +111,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇩🇰 丹麦 v2rayfree.eu.org
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国+v2rayfree.eu.org
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇺🇸 美国 CloudFlare节点 4
-      - 🇭🇰 香港 阿里云
-      - 🇨🇳 湖南省+联通
-      - 🇩🇪 德国下萨克森州萨尔茨吉特+德国电信
-      - 🇺🇸 美国 CloudFlare节点 5
+      - 🇸🇬 订阅链接已失效，请重新获取
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
