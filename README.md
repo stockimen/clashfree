@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-10-12 04:49:23  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2024-10-12 13:01:21  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -44,48 +44,48 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司, server: 38.121.43.97, port: 7306, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.26.5.90, port: 2095, client-fingerprint: chrome, type: vmess, uuid: a63e9c8c-2c04-4b8e-af6a-4a02494a1f0b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip2.8084726.xyz}}}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 172.66.168.173, port: 80, client-fingerprint: chrome, type: vmess, uuid: 83452b53-dabc-4d13-b2e6-b904ffee8f5b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS, headers: {Host: 50907082685942059876387799824779.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou}}}
-  - {name: 🇨🇦 加拿大+v2rayfree.eu.org, server: 142.202.49.84, port: 5003, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
-  - {name: 🇺🇸 美国+v2rayfree.eu.org, server: 69.50.95.103, port: 8008, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false}
-  - {name: 🇮🇷 伊朗+v2rayfree.eu.org, server: 185.24.151.214, port: 52952, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 2, server: 38.68.134.9, port: 5500, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 3, server: 38.68.134.9, port: 5001, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 162.159.140.91, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip3.6929198.xyz}}}
-  - {name: 🇰🇷 韩国+KT电信, server: service.ouluyun9803.com, port: 20005, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司, server: 38.121.43.65, port: 3306, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: 🇺🇸 美国 v2rayfree.eu.org, server: 108.165.216.31, port: 443, client-fingerprint: chrome, type: trojan, password: bpb-trojan, sni: 403B3611-99bc-43b7-88d7-26eD5d0825a9-3.paGes.dEV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr0WG9WFiuFLs8Uip5?ed=2560", headers: {Host: 403B3611-99bc-43b7-88d7-26eD5d0825a9-3.paGes.dEV}}}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 2, server: 38.121.43.65, port: 5500, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 3, server: 38.68.134.9, port: 8009, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org, server: 69.50.92.72, port: 8882, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
+  - {name: 🇺🇸 北美地区+v2rayfree.eu.org, server: 23.150.152.41, port: 8881, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
+  - {name: 🇻🇳 越南 v2rayfree.eu.org, server: std1.loadingip.com, port: 443, client-fingerprint: chrome, type: trojan, password: 94d219c9-1afc-4d42-b090-8b3794764380, sni: std1.loadingip.com, skip-cert-verify: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 4, server: 38.68.134.9, port: 5001, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
   - {name: 🇮🇳 印度 v2rayfree.eu.org, server: 202.78.162.5, port: 443, client-fingerprint: chrome, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: pendar.onthewifi.com}}}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 4, server: 38.121.43.65, port: 8080, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
-  - {name: 🇺🇸 北美地区+v2rayfree.eu.org, server: 23.150.152.41, port: 5000, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: 🇺🇸 北美地区+v2rayfree.eu.org 2, server: 23.150.152.41, port: 2375, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false}
-  - {name: 🇺🇸 北美地区+v2rayfree.eu.org 3, server: 23.150.152.41, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false}
-  - {name: 🇺🇸 美国+v2rayfree.eu.org 2, server: 45.158.171.9, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: a8bt9fY0QsLS6eLnXUe0Ym, tfo: false}
-  - {name: 🇺🇸 美国 Fastly全球Anycast节点, server: gov.uk, port: 443, client-fingerprint: chrome, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /77848824, headers: {Host: zheshiscp.com}}}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 5, server: 38.68.134.9, port: 8118, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 6, server: 38.114.114.69, port: 3389, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 7, server: 38.114.114.69, port: 4444, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false}
+  - {name: 🇨🇦 加拿大+v2rayfree.eu.org, server: 142.202.49.84, port: 8008, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false}
   - {name: 🇩🇪 德国 黑森州法兰克福Amazon数据中心, server: 35.156.130.123, port: 22222, client-fingerprint: chrome, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 5, server: 38.110.1.105, port: 5004, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
-  - {name: 🇰🇷 韩国+KT电信 2, server: service.ouluyun9803.com, port: 26667, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 6, server: 38.114.114.69, port: 8118, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
-  - {name: 🇺🇸 美国+v2rayfree.eu.org 3, server: war.ssvpnapp.win, port: 57456, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: d3837224ed465f00, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 7, server: 38.110.1.105, port: 5601, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 8, server: 38.110.1.105, port: 8119, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 9, server: 38.121.43.65, port: 7001, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
-  - {name: 🇨🇳 广东省 移动, server: z3.fragranceninja.com, port: 12960, client-fingerprint: chrome, type: vmess, uuid: a32313ad-5e39-4f9a-9cad-512041790050, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 10, server: 38.121.43.97, port: 7307, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, tfo: false}
-  - {name: 🇨🇳 广东省广州市 移动, server: 120.232.153.71, port: 43526, client-fingerprint: chrome, type: vmess, uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 11, server: 38.110.1.105, port: 5003, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
-  - {name: 🇺🇸 美国+v2rayfree.eu.org 4, server: 69.50.95.53, port: 6379, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 12, server: 38.114.114.69, port: 7002, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
-  - {name: 🇪🇸 西班牙 v2rayfree.eu.org, server: 185.238.228.6, port: 443, client-fingerprint: randomized, type: trojan, password: bpb-trojan, sni: 403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv, skip-cert-verify: false, network: ws, ws-opts: {path: "/trLb1imnrxPEhfzfwk?ed=2560", headers: {Host: 403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv}}}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 13, server: 38.110.1.46, port: 5000, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 14, server: 38.68.134.9, port: 8118, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 15, server: 38.114.114.69, port: 5601, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
-  - {name: 🇳🇱 荷兰 北荷兰省阿姆斯特丹DigitalOcean数据中心, server: 188.166.96.150, port: 1010, client-fingerprint: chrome, type: vmess, uuid: 09e3fef1-3136-41a9-9531-6ea36482dea1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国+v2rayfree.eu.org 5, server: 69.50.95.53, port: 8119, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 16, server: 38.75.137.42, port: 7306, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, tfo: false}
-  - {name: 🇺🇸 北美地区+v2rayfree.eu.org 4, server: 169.197.141.84, port: 5499, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 17, server: 38.114.114.69, port: 8090, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, tfo: false}
-  - {name: 🇺🇸 北美地区+v2rayfree.eu.org 5, server: 169.197.142.216, port: 6679, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
-  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 18, server: 38.68.134.9, port: 9102, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 8, server: 38.110.1.46, port: 5500, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: 🇺🇸 北美地区+v2rayfree.eu.org 2, server: 169.197.142.216, port: 6679, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 9, server: 38.110.1.12, port: 3389, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 2, server: 69.50.95.53, port: 8882, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 10, server: 38.121.43.97, port: 7306, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, tfo: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.64.198.249, port: 2082, client-fingerprint: chrome, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip3.6929198.xyz}}}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 11, server: 38.121.43.97, port: 7002, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 3, server: 69.50.95.53, port: 6379, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, tfo: false}
+  - {name: 🇨🇳 广东省广州市 移动, server: 120.232.153.40, port: 43526, client-fingerprint: chrome, type: vmess, uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875, alterId: 64, cipher: auto, tls: false, tfo: false, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯+v2rayfree.eu.org, server: 185.242.86.156, port: 54170, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 12, server: 38.68.134.9, port: 6679, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 13, server: 38.114.114.69, port: 6379, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, tfo: false}
+  - {name: 🇮🇹 意大利+v2rayfree.eu.org, server: 212.102.53.195, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.16.67.38, port: 443, client-fingerprint: chrome, type: vmess, uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: us3e-mmnnfr9dop0.v2freevpn.com, network: ws, ws-opts: {path: /v118-fccxmxm35, headers: {Host: us3e-mmnnfr9dop0.v2freevpn.com}}}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 14, server: 38.75.137.42, port: 5600, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.21.82.183, port: 8880, client-fingerprint: chrome, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: server26.beheshtbaneh.com}}}
+  - {name: 🇩🇰 丹麦 v2rayfree.eu.org, server: 195.85.59.68, port: 443, client-fingerprint: randomized, type: trojan, password: bpb-trojan, sni: 403b3611-99Bc-43B7-88D7-26ed5D0825a9-3.pAGES.DEv, skip-cert-verify: false, network: ws, ws-opts: {path: "/tro3k6cD0gnuZukWAs?ed=2560", headers: {Host: 403b3611-99Bc-43B7-88D7-26ed5D0825a9-3.pAGES.DEv}}}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 15, server: 38.114.114.69, port: 8118, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, tfo: false}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 4, server: 69.50.95.53, port: 7306, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 16, server: 38.110.1.105, port: 5003, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, tfo: false}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 5, server: 69.50.95.53, port: 3389, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, tfo: false}
+  - {name: 🇨🇦 加拿大+v2rayfree.eu.org 2, server: 142.202.49.122, port: 7306, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, tfo: false}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 6, server: 139.64.165.230, port: 5500, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, tfo: false}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 7, server: 69.50.95.103, port: 8008, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, tfo: false}
+  - {name: 🇺🇸 北美地区+v2rayfree.eu.org 3, server: 23.150.152.41, port: 2375, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, tfo: false}
+  - {name: 🇺🇸 美国+华盛顿Cogent通信公司 17, server: 38.114.114.69, port: 7002, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 8, server: 69.50.95.53, port: 8881, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, tfo: false}
+  - {name: 🇺🇸 美国+v2rayfree.eu.org 9, server: 69.50.95.53, port: 443, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, tfo: false}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -94,47 +94,47 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇨🇦 加拿大+v2rayfree.eu.org
-      - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇮🇷 伊朗+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 3
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇰🇷 韩国+KT电信
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 北美地区+v2rayfree.eu.org 2
-      - 🇺🇸 北美地区+v2rayfree.eu.org 3
-      - 🇺🇸 美国+v2rayfree.eu.org 2
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇻🇳 越南 v2rayfree.eu.org
+      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇮🇳 印度 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 5
-      - 🇰🇷 韩国+KT电信 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 6
-      - 🇺🇸 美国+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 7
+      - 🇨🇦 加拿大+v2rayfree.eu.org
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
       - 🇺🇸 美国+华盛顿Cogent通信公司 8
+      - 🇺🇸 北美地区+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 9
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 10
-      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国+华盛顿Cogent通信公司 11
-      - 🇺🇸 美国+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇨🇳 广东省广州市 移动
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 12
-      - 🇪🇸 西班牙 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 13
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 14
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 15
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹DigitalOcean数据中心
-      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇺🇸 美国+v2rayfree.eu.org 4
       - 🇺🇸 美国+华盛顿Cogent通信公司 16
-      - 🇺🇸 北美地区+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇨🇦 加拿大+v2rayfree.eu.org 2
+      - 🇺🇸 美国+v2rayfree.eu.org 6
+      - 🇺🇸 美国+v2rayfree.eu.org 7
+      - 🇺🇸 北美地区+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 17
-      - 🇺🇸 北美地区+v2rayfree.eu.org 5
-      - 🇺🇸 美国+华盛顿Cogent通信公司 18
+      - 🇺🇸 美国+v2rayfree.eu.org 8
+      - 🇺🇸 美国+v2rayfree.eu.org 9
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -142,47 +142,47 @@ proxy-groups:
     proxies:
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇨🇦 加拿大+v2rayfree.eu.org
-      - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇮🇷 伊朗+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 3
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇰🇷 韩国+KT电信
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 北美地区+v2rayfree.eu.org 2
-      - 🇺🇸 北美地区+v2rayfree.eu.org 3
-      - 🇺🇸 美国+v2rayfree.eu.org 2
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇻🇳 越南 v2rayfree.eu.org
+      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇮🇳 印度 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 5
-      - 🇰🇷 韩国+KT电信 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 6
-      - 🇺🇸 美国+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 7
+      - 🇨🇦 加拿大+v2rayfree.eu.org
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
       - 🇺🇸 美国+华盛顿Cogent通信公司 8
+      - 🇺🇸 北美地区+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 9
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 10
-      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国+华盛顿Cogent通信公司 11
-      - 🇺🇸 美国+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇨🇳 广东省广州市 移动
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 12
-      - 🇪🇸 西班牙 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 13
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 14
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 15
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹DigitalOcean数据中心
-      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇺🇸 美国+v2rayfree.eu.org 4
       - 🇺🇸 美国+华盛顿Cogent通信公司 16
-      - 🇺🇸 北美地区+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇨🇦 加拿大+v2rayfree.eu.org 2
+      - 🇺🇸 美国+v2rayfree.eu.org 6
+      - 🇺🇸 美国+v2rayfree.eu.org 7
+      - 🇺🇸 北美地区+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 17
-      - 🇺🇸 北美地区+v2rayfree.eu.org 5
-      - 🇺🇸 美国+华盛顿Cogent通信公司 18
+      - 🇺🇸 美国+v2rayfree.eu.org 8
+      - 🇺🇸 美国+v2rayfree.eu.org 9
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -191,47 +191,47 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇨🇦 加拿大+v2rayfree.eu.org
-      - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇮🇷 伊朗+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 3
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇰🇷 韩国+KT电信
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 北美地区+v2rayfree.eu.org 2
-      - 🇺🇸 北美地区+v2rayfree.eu.org 3
-      - 🇺🇸 美国+v2rayfree.eu.org 2
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇻🇳 越南 v2rayfree.eu.org
+      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇮🇳 印度 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 5
-      - 🇰🇷 韩国+KT电信 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 6
-      - 🇺🇸 美国+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 7
+      - 🇨🇦 加拿大+v2rayfree.eu.org
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
       - 🇺🇸 美国+华盛顿Cogent通信公司 8
+      - 🇺🇸 北美地区+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 9
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 10
-      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国+华盛顿Cogent通信公司 11
-      - 🇺🇸 美国+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇨🇳 广东省广州市 移动
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 12
-      - 🇪🇸 西班牙 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 13
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 14
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 15
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹DigitalOcean数据中心
-      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇺🇸 美国+v2rayfree.eu.org 4
       - 🇺🇸 美国+华盛顿Cogent通信公司 16
-      - 🇺🇸 北美地区+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇨🇦 加拿大+v2rayfree.eu.org 2
+      - 🇺🇸 美国+v2rayfree.eu.org 6
+      - 🇺🇸 美国+v2rayfree.eu.org 7
+      - 🇺🇸 北美地区+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 17
-      - 🇺🇸 北美地区+v2rayfree.eu.org 5
-      - 🇺🇸 美国+华盛顿Cogent通信公司 18
+      - 🇺🇸 美国+v2rayfree.eu.org 8
+      - 🇺🇸 美国+v2rayfree.eu.org 9
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -244,47 +244,47 @@ proxy-groups:
       - 🔰 节点选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇨🇦 加拿大+v2rayfree.eu.org
-      - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇮🇷 伊朗+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 3
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇰🇷 韩国+KT电信
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 北美地区+v2rayfree.eu.org 2
-      - 🇺🇸 北美地区+v2rayfree.eu.org 3
-      - 🇺🇸 美国+v2rayfree.eu.org 2
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇻🇳 越南 v2rayfree.eu.org
+      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇮🇳 印度 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 5
-      - 🇰🇷 韩国+KT电信 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 6
-      - 🇺🇸 美国+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 7
+      - 🇨🇦 加拿大+v2rayfree.eu.org
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
       - 🇺🇸 美国+华盛顿Cogent通信公司 8
+      - 🇺🇸 北美地区+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 9
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 10
-      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国+华盛顿Cogent通信公司 11
-      - 🇺🇸 美国+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇨🇳 广东省广州市 移动
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 12
-      - 🇪🇸 西班牙 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 13
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 14
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 15
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹DigitalOcean数据中心
-      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇺🇸 美国+v2rayfree.eu.org 4
       - 🇺🇸 美国+华盛顿Cogent通信公司 16
-      - 🇺🇸 北美地区+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇨🇦 加拿大+v2rayfree.eu.org 2
+      - 🇺🇸 美国+v2rayfree.eu.org 6
+      - 🇺🇸 美国+v2rayfree.eu.org 7
+      - 🇺🇸 北美地区+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 17
-      - 🇺🇸 北美地区+v2rayfree.eu.org 5
-      - 🇺🇸 美国+华盛顿Cogent通信公司 18
+      - 🇺🇸 美国+v2rayfree.eu.org 8
+      - 🇺🇸 美国+v2rayfree.eu.org 9
   - name: 📲 电报信息
     type: select
     proxies:
@@ -292,47 +292,47 @@ proxy-groups:
       - 🎯 全球直连
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇨🇦 加拿大+v2rayfree.eu.org
-      - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇮🇷 伊朗+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 3
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇰🇷 韩国+KT电信
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 北美地区+v2rayfree.eu.org 2
-      - 🇺🇸 北美地区+v2rayfree.eu.org 3
-      - 🇺🇸 美国+v2rayfree.eu.org 2
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇻🇳 越南 v2rayfree.eu.org
+      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇮🇳 印度 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 5
-      - 🇰🇷 韩国+KT电信 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 6
-      - 🇺🇸 美国+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 7
+      - 🇨🇦 加拿大+v2rayfree.eu.org
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
       - 🇺🇸 美国+华盛顿Cogent通信公司 8
+      - 🇺🇸 北美地区+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 9
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 10
-      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国+华盛顿Cogent通信公司 11
-      - 🇺🇸 美国+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇨🇳 广东省广州市 移动
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 12
-      - 🇪🇸 西班牙 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 13
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 14
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 15
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹DigitalOcean数据中心
-      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇺🇸 美国+v2rayfree.eu.org 4
       - 🇺🇸 美国+华盛顿Cogent通信公司 16
-      - 🇺🇸 北美地区+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇨🇦 加拿大+v2rayfree.eu.org 2
+      - 🇺🇸 美国+v2rayfree.eu.org 6
+      - 🇺🇸 美国+v2rayfree.eu.org 7
+      - 🇺🇸 北美地区+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 17
-      - 🇺🇸 北美地区+v2rayfree.eu.org 5
-      - 🇺🇸 美国+华盛顿Cogent通信公司 18
+      - 🇺🇸 美国+v2rayfree.eu.org 8
+      - 🇺🇸 美国+v2rayfree.eu.org 9
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -341,47 +341,47 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇨🇦 加拿大+v2rayfree.eu.org
-      - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇮🇷 伊朗+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 3
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇰🇷 韩国+KT电信
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 北美地区+v2rayfree.eu.org 2
-      - 🇺🇸 北美地区+v2rayfree.eu.org 3
-      - 🇺🇸 美国+v2rayfree.eu.org 2
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇻🇳 越南 v2rayfree.eu.org
+      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇮🇳 印度 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 5
-      - 🇰🇷 韩国+KT电信 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 6
-      - 🇺🇸 美国+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 7
+      - 🇨🇦 加拿大+v2rayfree.eu.org
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
       - 🇺🇸 美国+华盛顿Cogent通信公司 8
+      - 🇺🇸 北美地区+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 9
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 10
-      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国+华盛顿Cogent通信公司 11
-      - 🇺🇸 美国+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇨🇳 广东省广州市 移动
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 12
-      - 🇪🇸 西班牙 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 13
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 14
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 15
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹DigitalOcean数据中心
-      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇺🇸 美国+v2rayfree.eu.org 4
       - 🇺🇸 美国+华盛顿Cogent通信公司 16
-      - 🇺🇸 北美地区+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇨🇦 加拿大+v2rayfree.eu.org 2
+      - 🇺🇸 美国+v2rayfree.eu.org 6
+      - 🇺🇸 美国+v2rayfree.eu.org 7
+      - 🇺🇸 北美地区+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 17
-      - 🇺🇸 北美地区+v2rayfree.eu.org 5
-      - 🇺🇸 美国+华盛顿Cogent通信公司 18
+      - 🇺🇸 美国+v2rayfree.eu.org 8
+      - 🇺🇸 美国+v2rayfree.eu.org 9
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -399,47 +399,47 @@ proxy-groups:
       - ♻️ 自动选择
       - 🇬🇧 高性价比机场:https://kfyun.uk
       - 🇺🇸 美国+华盛顿Cogent通信公司
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇺🇸 美国 CloudFlare节点 2
-      - 🇨🇦 加拿大+v2rayfree.eu.org
-      - 🇺🇸 美国+v2rayfree.eu.org
-      - 🇮🇷 伊朗+v2rayfree.eu.org
+      - 🇺🇸 美国 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 3
-      - 🇺🇸 美国 CloudFlare节点 3
-      - 🇰🇷 韩国+KT电信
-      - 🇮🇳 印度 v2rayfree.eu.org
-      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇺🇸 美国+v2rayfree.eu.org
       - 🇺🇸 北美地区+v2rayfree.eu.org
-      - 🇺🇸 北美地区+v2rayfree.eu.org 2
-      - 🇺🇸 北美地区+v2rayfree.eu.org 3
-      - 🇺🇸 美国+v2rayfree.eu.org 2
-      - 🇺🇸 美国 Fastly全球Anycast节点
-      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
+      - 🇻🇳 越南 v2rayfree.eu.org
+      - 🇺🇸 美国+华盛顿Cogent通信公司 4
+      - 🇮🇳 印度 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 5
-      - 🇰🇷 韩国+KT电信 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 6
-      - 🇺🇸 美国+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 7
+      - 🇨🇦 加拿大+v2rayfree.eu.org
+      - 🇩🇪 德国 黑森州法兰克福Amazon数据中心
       - 🇺🇸 美国+华盛顿Cogent通信公司 8
+      - 🇺🇸 北美地区+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 9
-      - 🇨🇳 广东省 移动
+      - 🇺🇸 美国+v2rayfree.eu.org 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 10
-      - 🇨🇳 广东省广州市 移动
+      - 🇺🇸 美国 CloudFlare节点
       - 🇺🇸 美国+华盛顿Cogent通信公司 11
-      - 🇺🇸 美国+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 3
+      - 🇨🇳 广东省广州市 移动
+      - 🇷🇺 俄罗斯+v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 12
-      - 🇪🇸 西班牙 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 13
+      - 🇮🇹 意大利+v2rayfree.eu.org
+      - 🇺🇸 美国 CloudFlare节点 2
       - 🇺🇸 美国+华盛顿Cogent通信公司 14
+      - 🇺🇸 美国 CloudFlare节点 3
+      - 🇩🇰 丹麦 v2rayfree.eu.org
       - 🇺🇸 美国+华盛顿Cogent通信公司 15
-      - 🇳🇱 荷兰 北荷兰省阿姆斯特丹DigitalOcean数据中心
-      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇺🇸 美国+v2rayfree.eu.org 4
       - 🇺🇸 美国+华盛顿Cogent通信公司 16
-      - 🇺🇸 北美地区+v2rayfree.eu.org 4
+      - 🇺🇸 美国+v2rayfree.eu.org 5
+      - 🇨🇦 加拿大+v2rayfree.eu.org 2
+      - 🇺🇸 美国+v2rayfree.eu.org 6
+      - 🇺🇸 美国+v2rayfree.eu.org 7
+      - 🇺🇸 北美地区+v2rayfree.eu.org 3
       - 🇺🇸 美国+华盛顿Cogent通信公司 17
-      - 🇺🇸 北美地区+v2rayfree.eu.org 5
-      - 🇺🇸 美国+华盛顿Cogent通信公司 18
+      - 🇺🇸 美国+v2rayfree.eu.org 8
+      - 🇺🇸 美国+v2rayfree.eu.org 9
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
