@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-06 13:03:22  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-06 20:48:33  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,15 +36,20 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|🇸🇬1 |  5.2MB/s, server: 3.1.103.118, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇯🇵1 |  5.1MB/s, server: 43.203.206.63, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇯🇵3 |  6.2MB/s, server: gy.58n.net, port: 20142, type: trojan, password: 85d6e3a8-a3c2-33d3-836f-494a7e77f08d, sni: z142.hongkongnode.top, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇯🇵4 |  3.8MB/s, server: 54.248.40.18, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸2 |  2.9MB/s, server: 18.236.161.128, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸3 |  1.1MB/s, server: 50003.baidu-cdn.top, port: 50003, type: vmess, uuid: 722ee660-ca57-467f-9eda-5739859212f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇺🇸4 |  4.3MB/s, server: 34.211.228.158, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬2 |  4.5MB/s, server: 13.250.112.201, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇯🇵6 |  4.9MB/s, server: 54.249.170.37, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇸🇬1 |  10.0MB/s, server: 18.141.24.255, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇺🇸1 |  1.1MB/s, server: 52.195.0.55, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇸🇬2 |  6.1MB/s, server: 13.229.128.74, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇺🇸2 |  5.9MB/s, server: robust-insect.insect388.motorcycles, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: robust-insect.insect388.motorcycles, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸4 |  2.5MB/s, server: amused-buzzard.insect388.motorcycles, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: amused-buzzard.insect388.motorcycles, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸5 |  1.3MB/s, server: rk1.boost1.top, port: 40000, type: ss, cipher: chacha20-ietf-poly1305, password: f175d66f-7cf5-47aa-83be-a8e969cdbe2d, tfo: false}
+  - {name: 0|🇰🇷1 |  9.7MB/s, server: 3.34.123.239, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇰🇷2 |  5.3MB/s, server: real-meerkat.insect388.motorcycles, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: real-meerkat.insect388.motorcycles, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇸🇬3 |  5.9MB/s, server: flying-tuna.treefrog761.one, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: flying-tuna.treefrog761.one, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇸🇬4 |  10.7MB/s, server: probable-drum.treefrog761.one, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: probable-drum.treefrog761.one, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇺🇸7 |  5.4MB/s, server: better-caribou.insect388.motorcycles, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: better-caribou.insect388.motorcycles, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇷🇺2 |  5.0MB/s, server: south.sf0jm.xyz, port: 49227, type: ss, cipher: aes-128-gcm, password: 5911d36c-530a-40d6-b31c-505f238ca313, tfo: false}
+  - {name: 0|🇺🇸8 |  5.7MB/s, server: natural-aphid.insect388.motorcycles, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: natural-aphid.insect388.motorcycles, skip-cert-verify: true, tfo: false}
+  - {name: 0|🌀1- |  5.7MB/s, server: 50032.baidu-cdn.top, port: 50032, type: vmess, uuid: b222084f-7993-4518-a940-b1fdac146995, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港|@ripaojiedian, server: mdss-hk.04z3susick.download, port: 12001, type: ss, cipher: aes-128-gcm, password: b2e5c36c-257c-4a11-ae20-4fb99d44606a, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: 38.147.189.115, port: 49838, type: vmess, uuid: e413fd92-afde-423a-8ba2-b337bf5d7ca2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 120.232.81.50, port: 16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, tfo: false}
@@ -99,15 +104,20 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|🇸🇬1 |  5.2MB/s
-      - 0|🇯🇵1 |  5.1MB/s
-      - 0|🇯🇵3 |  6.2MB/s
-      - 0|🇯🇵4 |  3.8MB/s
-      - 0|🇺🇸2 |  2.9MB/s
-      - 0|🇺🇸3 |  1.1MB/s
-      - 0|🇺🇸4 |  4.3MB/s
-      - 0|🇸🇬2 |  4.5MB/s
-      - 0|🇯🇵6 |  4.9MB/s
+      - 0|🇸🇬1 |  10.0MB/s
+      - 0|🇺🇸1 |  1.1MB/s
+      - 0|🇸🇬2 |  6.1MB/s
+      - 0|🇺🇸2 |  5.9MB/s
+      - 0|🇺🇸4 |  2.5MB/s
+      - 0|🇺🇸5 |  1.3MB/s
+      - 0|🇰🇷1 |  9.7MB/s
+      - 0|🇰🇷2 |  5.3MB/s
+      - 0|🇸🇬3 |  5.9MB/s
+      - 0|🇸🇬4 |  10.7MB/s
+      - 0|🇺🇸7 |  5.4MB/s
+      - 0|🇷🇺2 |  5.0MB/s
+      - 0|🇺🇸8 |  5.7MB/s
+      - 0|🌀1- |  5.7MB/s
       - 🇭🇰 13|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
