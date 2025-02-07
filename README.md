@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-07 04:48:32  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-07 13:02:15  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,22 +36,18 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|🇺🇸1 |  6.8MB/s, server: 35.89.15.28, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬1 |  10.9MB/s, server: 54.179.0.37, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇯🇵1 |  9.1MB/s, server: gy.58n.net, port: 20300, type: trojan, password: baf8e463-daed-38ec-8f2b-49b2d8632676, sni: z300.hongkongnode.top, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇯🇵2 |  4.5MB/s, server: more-tomcat.insect388.motorcycles, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: more-tomcat.insect388.motorcycles, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇭🇰1 |  1.3MB/s, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: bff773bb-fc5e-4d51-9799-462ff4b8f841, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 0|🌀1- |  4.9MB/s, server: sunny-jackal.insect388.motorcycles, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: sunny-jackal.insect388.motorcycles, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇬🇧1 |  28.7MB/s, server: 14.18.253.178, port: 8341, type: ss, cipher: chacha20, password: zWyQvJbQRZaV, tfo: false}
-  - {name: 0|🇳🇱1 |  1.9MB/s, server: 45.158.171.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
-  - {name: 0|🇯🇵4 |  4.2MB/s, server: gy.58n.net, port: 54178, type: trojan, password: baf8e463-daed-38ec-8f2b-49b2d8632676, sni: x115.flybar.work, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇹🇼1 |  1.1MB/s, server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: 43af8cd1-b378-490e-bccf-f04628bc8db4, tfo: false}
-  - {name: 0|🇺🇸4 |  4.7MB/s, server: 107.149.254.26, port: 158, type: trojan, password: 43af8cd1-b378-490e-bccf-f04628bc8db4, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇸🇬2 |  4.9MB/s, server: 13.229.229.102, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬3 |  6.7MB/s, server: 18.136.211.144, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬4 |  2.5MB/s, server: 18.141.24.255, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇸🇬5 |  2.8MB/s, server: 13.250.99.8, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇬🇧2 |  4.1MB/s, server: allowed-bear.insect388.motorcycles, port: 443, type: trojan, password: !&lt;str&gt; 3774827088566296576, sni: allowed-bear.insect388.motorcycles, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇫🇷1 |  1.1MB/s, server: plex.com, port: 80, type: vmess, uuid: ca387597-d79e-48c2-89a7-e2dc66a88a70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/racevpn?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn", headers: {Host: telegram-isvvpn.ir}}, tfo: false}
+  - {name: 0|🇺🇸1 |  2.0MB/s, server: 34.219.5.41, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇺🇸2 |  3.6MB/s, server: gy.58n.net, port: 20305, type: trojan, password: ba6f31de-7817-3eaf-9ae7-1e073efea38c, sni: z305.hongkongnode.top, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇩🇪1 |  4.0MB/s, server: 14.18.253.178, port: 8333, type: ss, cipher: chacha20, password: jrgc64sFSLQM, tfo: false}
+  - {name: 0|🇷🇺1 |  9.1MB/s, server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, tfo: false}
+  - {name: 0|🇷🇺2 |  9.1MB/s, server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, tfo: false}
+  - {name: 0|🇺🇸7 |  24.9MB/s, server: 14.18.253.178, port: 8349, type: ss, cipher: chacha20, password: d3baK6NW2HEc, tfo: false}
+  - {name: 0|🇯🇵1 |  1.2MB/s, server: gy.58n.net, port: 20076, type: trojan, password: ba6f31de-7817-3eaf-9ae7-1e073efea38c, sni: x76.flybar.work, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇫🇷2 |  27.4MB/s, server: plex.com, port: 443, type: vmess, uuid: ca387597-d79e-48c2-89a7-e2dc66a88a70, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: telegram-isvvpn.ir, network: ws, ws-opts: {path: "/racevpn?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn", headers: {Host: plex.com}}, tfo: false}
+  - {name: 0|🌀2- |  15.7MB/s, server: 91.132.94.200, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
+  - {name: 0|🇺🇸8 |  5.5MB/s, server: 35.94.121.57, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇯🇵2 |  1.9MB/s, server: gy.58n.net, port: 54178, type: trojan, password: ba6f31de-7817-3eaf-9ae7-1e073efea38c, sni: x115.flybar.work, skip-cert-verify: true, tfo: false}
   - {name: "🇭🇰 13,14|香港|@ripaojiedian", server: zfa01.333210.xyz, port: 40383, type: trojan, password: 3aec9607-0136-4ca1-90c2-553a0322b25e, sni: cdn.alibaba.com, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: 38.147.189.163, port: 12926, type: vmess, uuid: e2103b64-fdfd-4efb-8330-c1c1ff0efdea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 15008, type: ss, cipher: aes-256-gcm, password: 8OCJMAVUOSVBYS7V, tfo: false}
@@ -105,22 +101,18 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|🇺🇸1 |  6.8MB/s
-      - 0|🇸🇬1 |  10.9MB/s
-      - 0|🇯🇵1 |  9.1MB/s
-      - 0|🇯🇵2 |  4.5MB/s
-      - 0|🇭🇰1 |  1.3MB/s
-      - 0|🌀1- |  4.9MB/s
-      - 0|🇬🇧1 |  28.7MB/s
-      - 0|🇳🇱1 |  1.9MB/s
-      - 0|🇯🇵4 |  4.2MB/s
-      - 0|🇹🇼1 |  1.1MB/s
-      - 0|🇺🇸4 |  4.7MB/s
-      - 0|🇸🇬2 |  4.9MB/s
-      - 0|🇸🇬3 |  6.7MB/s
-      - 0|🇸🇬4 |  2.5MB/s
-      - 0|🇸🇬5 |  2.8MB/s
-      - 0|🇬🇧2 |  4.1MB/s
+      - 0|🇫🇷1 |  1.1MB/s
+      - 0|🇺🇸1 |  2.0MB/s
+      - 0|🇺🇸2 |  3.6MB/s
+      - 0|🇩🇪1 |  4.0MB/s
+      - 0|🇷🇺1 |  9.1MB/s
+      - 0|🇷🇺2 |  9.1MB/s
+      - 0|🇺🇸7 |  24.9MB/s
+      - 0|🇯🇵1 |  1.2MB/s
+      - 0|🇫🇷2 |  27.4MB/s
+      - 0|🌀2- |  15.7MB/s
+      - 0|🇺🇸8 |  5.5MB/s
+      - 0|🇯🇵2 |  1.9MB/s
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
