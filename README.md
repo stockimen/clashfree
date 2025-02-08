@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-07 13:02:15  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-07 20:48:47  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -36,18 +36,26 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}
-  - {name: 0|🇫🇷1 |  1.1MB/s, server: plex.com, port: 80, type: vmess, uuid: ca387597-d79e-48c2-89a7-e2dc66a88a70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/racevpn?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn", headers: {Host: telegram-isvvpn.ir}}, tfo: false}
-  - {name: 0|🇺🇸1 |  2.0MB/s, server: 34.219.5.41, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇺🇸2 |  3.6MB/s, server: gy.58n.net, port: 20305, type: trojan, password: ba6f31de-7817-3eaf-9ae7-1e073efea38c, sni: z305.hongkongnode.top, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇩🇪1 |  4.0MB/s, server: 14.18.253.178, port: 8333, type: ss, cipher: chacha20, password: jrgc64sFSLQM, tfo: false}
-  - {name: 0|🇷🇺1 |  9.1MB/s, server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, tfo: false}
-  - {name: 0|🇷🇺2 |  9.1MB/s, server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, tfo: false}
-  - {name: 0|🇺🇸7 |  24.9MB/s, server: 14.18.253.178, port: 8349, type: ss, cipher: chacha20, password: d3baK6NW2HEc, tfo: false}
-  - {name: 0|🇯🇵1 |  1.2MB/s, server: gy.58n.net, port: 20076, type: trojan, password: ba6f31de-7817-3eaf-9ae7-1e073efea38c, sni: x76.flybar.work, skip-cert-verify: true, tfo: false}
-  - {name: 0|🇫🇷2 |  27.4MB/s, server: plex.com, port: 443, type: vmess, uuid: ca387597-d79e-48c2-89a7-e2dc66a88a70, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: telegram-isvvpn.ir, network: ws, ws-opts: {path: "/racevpn?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn", headers: {Host: plex.com}}, tfo: false}
-  - {name: 0|🌀2- |  15.7MB/s, server: 91.132.94.200, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, tfo: false}
-  - {name: 0|🇺🇸8 |  5.5MB/s, server: 35.94.121.57, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
-  - {name: 0|🇯🇵2 |  1.9MB/s, server: gy.58n.net, port: 54178, type: trojan, password: ba6f31de-7817-3eaf-9ae7-1e073efea38c, sni: x115.flybar.work, skip-cert-verify: true, tfo: false}
+  - {name: 0|🇸🇬1 |  4.6MB/s, server: 18.136.211.144, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇺🇸1 |  4.9MB/s, server: 54.201.49.89, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇺🇦1 |  1.6MB/s, server: south.sf0jm.xyz, port: 49223, type: ss, cipher: aes-128-gcm, password: 1b569039-513f-489c-8ce9-02ce2b9b0fb6, tfo: false}
+  - {name: 0|🇯🇵1 |  2.7MB/s, server: 43.203.206.63, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇯🇵2 |  3.3MB/s, server: 120.232.81.50, port: 15084, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, tfo: false}
+  - {name: 0|🇺🇸2 |  1.3MB/s, server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 73223b2c-271e-32a1-8f5d-e0aaccd01258, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, tfo: false}
+  - {name: 0|🇺🇸3 |  2.7MB/s, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: 36d2c9a7-8ca6-4e14-a3b7-f27711a3b897, tfo: false}
+  - {name: 0|🇯🇵3 |  1.3MB/s, server: 54.250.166.85, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇺🇸4 |  1.6MB/s, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: 36d2c9a7-8ca6-4e14-a3b7-f27711a3b897, tfo: false}
+  - {name: 0|🇫🇷1 |  1.9MB/s, server: plex.com, port: 80, type: vmess, uuid: ca387597-d79e-48c2-89a7-e2dc66a88a70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/racevpn?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn", headers: {Host: telegram-isvvpn.ir}}, tfo: false}
+  - {name: 0|🇷🇺1 |  4.8MB/s, server: south.sf0jm.xyz, port: 49215, type: ss, cipher: aes-128-gcm, password: 1b569039-513f-489c-8ce9-02ce2b9b0fb6, tfo: false}
+  - {name: 0|🇸🇬2 |  1.1MB/s, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: 36d2c9a7-8ca6-4e14-a3b7-f27711a3b897, tfo: false}
+  - {name: 0|🇺🇦2 |  5.1MB/s, server: south.sf0jm.xyz, port: 49225, type: ss, cipher: aes-128-gcm, password: 1b569039-513f-489c-8ce9-02ce2b9b0fb6, tfo: false}
+  - {name: 0|🇹🇼1 |  5.7MB/s, server: mdss-tw.04z3susick.download, port: 12032, type: ss, cipher: aes-128-gcm, password: 8d204ccb-ca6f-43f3-bdeb-310d9eee3701, tfo: false}
+  - {name: 0|🇦🇺1 |  5.5MB/s, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 36d2c9a7-8ca6-4e14-a3b7-f27711a3b897, tfo: false}
+  - {name: 0|🇺🇸5 |  3.9MB/s, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: 36d2c9a7-8ca6-4e14-a3b7-f27711a3b897, tfo: false}
+  - {name: 0|🇰🇷1 |  3.8MB/s, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: 36d2c9a7-8ca6-4e14-a3b7-f27711a3b897, tfo: false}
+  - {name: 0|🇺🇸6 |  3.9MB/s, server: 54.190.43.178, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}
+  - {name: 0|🇺🇸7 |  5.6MB/s, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: 36d2c9a7-8ca6-4e14-a3b7-f27711a3b897, tfo: false}
+  - {name: 0|🇫🇷2 |  2.3MB/s, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 36d2c9a7-8ca6-4e14-a3b7-f27711a3b897, tfo: false}
   - {name: "🇭🇰 13,14|香港|@ripaojiedian", server: zfa01.333210.xyz, port: 40383, type: trojan, password: 3aec9607-0136-4ca1-90c2-553a0322b25e, sni: cdn.alibaba.com, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: 38.147.189.163, port: 12926, type: vmess, uuid: e2103b64-fdfd-4efb-8330-c1c1ff0efdea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: w72tapyb.slashdevslashnetslashtun.net, port: 15008, type: ss, cipher: aes-256-gcm, password: 8OCJMAVUOSVBYS7V, tfo: false}
@@ -101,18 +109,26 @@ proxy-groups:
       - US
       - TW
       - 🇬🇧 高性价比机场:https://kfyun.uk
-      - 0|🇫🇷1 |  1.1MB/s
-      - 0|🇺🇸1 |  2.0MB/s
-      - 0|🇺🇸2 |  3.6MB/s
-      - 0|🇩🇪1 |  4.0MB/s
-      - 0|🇷🇺1 |  9.1MB/s
-      - 0|🇷🇺2 |  9.1MB/s
-      - 0|🇺🇸7 |  24.9MB/s
-      - 0|🇯🇵1 |  1.2MB/s
-      - 0|🇫🇷2 |  27.4MB/s
-      - 0|🌀2- |  15.7MB/s
-      - 0|🇺🇸8 |  5.5MB/s
-      - 0|🇯🇵2 |  1.9MB/s
+      - 0|🇸🇬1 |  4.6MB/s
+      - 0|🇺🇸1 |  4.9MB/s
+      - 0|🇺🇦1 |  1.6MB/s
+      - 0|🇯🇵1 |  2.7MB/s
+      - 0|🇯🇵2 |  3.3MB/s
+      - 0|🇺🇸2 |  1.3MB/s
+      - 0|🇺🇸3 |  2.7MB/s
+      - 0|🇯🇵3 |  1.3MB/s
+      - 0|🇺🇸4 |  1.6MB/s
+      - 0|🇫🇷1 |  1.9MB/s
+      - 0|🇷🇺1 |  4.8MB/s
+      - 0|🇸🇬2 |  1.1MB/s
+      - 0|🇺🇦2 |  5.1MB/s
+      - 0|🇹🇼1 |  5.7MB/s
+      - 0|🇦🇺1 |  5.5MB/s
+      - 0|🇺🇸5 |  3.9MB/s
+      - 0|🇰🇷1 |  3.8MB/s
+      - 0|🇺🇸6 |  3.9MB/s
+      - 0|🇺🇸7 |  5.6MB/s
+      - 0|🇫🇷2 |  2.3MB/s
       - 🇭🇰 13,14|香港|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian
