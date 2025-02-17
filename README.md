@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-17 04:48:19  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-02-17 13:04:23  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/s/v2raydailyupdate" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 ## clash使用教程：
@@ -106,10 +106,10 @@ proxies:
   - {name: "11|11|11|11|11|11|11|11|11|11|11|... #6", server: AZHJ.dmak.cyou, port: 20803, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: "11|11|11|11|11|11|11|11|11|11|11|... #7", server: AZHJ.dmak.cyou, port: 20800, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: "11|11|11|11|11|11|11|11|11|11|11|... #8", server: pudvkjvvgdol.xn--fiqs8sjz2bull.com, port: 10564, type: vmess, uuid: ead8fb73-ff42-4fce-af33-5991e72006b7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: 🇸🇬 11|11|11|11|11|11|11|11|15|🇸🇬 新加坡..., server: flying-tuna.treefrog761.one, port: 443, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "🇭🇰 11|11|11|11|11|11|11|11|11,16|香港|...", server: AZHJ.dmak.cyou, port: 21718, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "🇯🇵 11|11|11|11|11|11|11|11|11,16|日本|...", server: 20.78.127.141, port: 550, type: vmess, uuid: 9e11e992-c3a4-45fb-bb67-5f4f42fcd551, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
-  - {name: "🇯🇵 11|11|11|11|11|11|11|11|11,16|日本3...", server: AZHJ001.dmak.cyou, port: 20808, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: 11|11|11|11|11|11|11|11|11|11|15|..., server: flying-tuna.treefrog761.one, port: 443, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "11|11|11|11|11|11|11|11|11|11|11,...", server: AZHJ.dmak.cyou, port: 21718, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "11|11|11|11|11|11|11|11|11|11|11,... #1", server: 20.78.127.141, port: 550, type: vmess, uuid: 9e11e992-c3a4-45fb-bb67-5f4f42fcd551, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
+  - {name: "11|11|11|11|11|11|11|11|11|11|11,... #2", server: AZHJ001.dmak.cyou, port: 20808, type: vmess, uuid: cd21873e-332d-3b13-98a7-f26996cfdfd9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: "🇯🇵 11,16|日本|@ripaojiedian", server: 45.159.51.116, port: 20855, type: vmess, uuid: bb59ce12-afda-4a2e-bb62-6f5b60acbe77, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, tfo: false}
   - {name: 🇭🇰 15|🇭🇰 香港|@ripaojiedian, server: 92.113.116.11, port: 15002, type: ss, cipher: aes-256-gcm, password: XQMAXUIZL4W1Q9W0, tfo: false}
   - {name: 🇭🇰 15|🇭🇰 香港2|@ripaojiedian, server: 156.245.190.22, port: 15013, type: ss, cipher: aes-256-gcm, password: 0HLKWXU2MV5KGEX4, tfo: false}
@@ -217,10 +217,10 @@ proxy-groups:
       - "11|11|11|11|11|11|11|11|11|11|11|... #6"
       - "11|11|11|11|11|11|11|11|11|11|11|... #7"
       - "11|11|11|11|11|11|11|11|11|11|11|... #8"
-      - 🇸🇬 11|11|11|11|11|11|11|11|15|🇸🇬 新加坡...
-      - 🇭🇰 11|11|11|11|11|11|11|11|11,16|香港|...
-      - 🇯🇵 11|11|11|11|11|11|11|11|11,16|日本|...
-      - 🇯🇵 11|11|11|11|11|11|11|11|11,16|日本3...
+      - 11|11|11|11|11|11|11|11|11|11|15|...
+      - 11|11|11|11|11|11|11|11|11|11|11,...
+      - "11|11|11|11|11|11|11|11|11|11|11,... #1"
+      - "11|11|11|11|11|11|11|11|11|11|11,... #2"
       - 🇯🇵 11,16|日本|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港2|@ripaojiedian
@@ -288,7 +288,6 @@ proxy-groups:
   - name: HK
     type: select
     proxies:
-      - 🇭🇰 11|11|11|11|11|11|11|11|11,16|香港|...
       - 🇭🇰 15|🇭🇰 香港|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 15|🇭🇰 香港3|@ripaojiedian
@@ -297,7 +296,6 @@ proxy-groups:
     type: select
     proxies:
       - 1|_SG_
-      - 🇸🇬 11|11|11|11|11|11|11|11|15|🇸🇬 新加坡...
       - 🇸🇬 15|🇸🇬 新加坡5|@ripaojiedian
       - 🇸🇬 15|🇸🇬 新加坡|@ripaojiedian
       - 🇸🇬 15|🇸🇬 新加坡2|@ripaojiedian
@@ -314,8 +312,6 @@ proxy-groups:
   - name: JP
     type: select
     proxies:
-      - 🇯🇵 11|11|11|11|11|11|11|11|11,16|日本|...
-      - 🇯🇵 11|11|11|11|11|11|11|11|11,16|日本3...
       - 🇯🇵 11,16|日本|@ripaojiedian
       - 🇯🇵 15|🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 15|🇯🇵 日本3|@ripaojiedian
