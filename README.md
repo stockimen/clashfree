@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-07-12 13:15:41  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-07-12 20:50:09  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -83,8 +83,6 @@ proxies:
   - {name: 🇭🇰 香港3|@ripaojiedian 2, server: 38.147.189.233, port: 31076, type: vmess, uuid: 5c2228f2-757b-4446-8682-68b652b05993, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本5|@ripaojiedian 2, server: 13.231.80.233, port: 9898, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg, udp: true}
   - {name: 🇸🇬 新加坡3|@ripaojiedian 2, server: 103.36.91.32, port: 8388, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY, udp: true}
-  - {name: RU_speednode_0104, server: 45.67.215.95, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: torjan.xn--xhq44j.eu.org}}, udp: true}
-  - {name: SG_speednode_0107, server: 138.2.64.229, port: 443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ttfang.fange.me}}, udp: true}
   - {name: 🇯🇵 日本|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507031938065-xSDyIYO2PY.download.microsoft.com}, udp: true}
   - {name: 🇯🇵 日本2|@ripaojiedian 2, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp7v1.lingjfjkm002.com, path: /dchlbvrbbotc, tls: true, mux: true, skip-cert-verify: false}, udp: true}
   - {name: 🇭🇰 香港2|@ripaojiedian 2, server: 103.103.245.158, port: 636, type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /cauejypbltqt, tls: true, mux: true, skip-cert-verify: false}, udp: true}
@@ -129,8 +127,6 @@ proxy-groups:
       - 🇭🇰 香港3|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇸🇬 新加坡3|@ripaojiedian 2
-      - RU_speednode_0104
-      - SG_speednode_0107
       - 🇯🇵 日本|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
@@ -174,8 +170,6 @@ proxy-groups:
       - 🇭🇰 香港3|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇸🇬 新加坡3|@ripaojiedian 2
-      - RU_speednode_0104
-      - SG_speednode_0107
       - 🇯🇵 日本|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
@@ -220,8 +214,6 @@ proxy-groups:
       - 🇭🇰 香港3|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇸🇬 新加坡3|@ripaojiedian 2
-      - RU_speednode_0104
-      - SG_speednode_0107
       - 🇯🇵 日本|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
@@ -278,8 +270,6 @@ proxy-groups:
       - 🇭🇰 香港3|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇸🇬 新加坡3|@ripaojiedian 2
-      - RU_speednode_0104
-      - SG_speednode_0107
       - 🇯🇵 日本|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
@@ -336,8 +326,6 @@ proxy-groups:
       - 🇭🇰 香港3|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇸🇬 新加坡3|@ripaojiedian 2
-      - RU_speednode_0104
-      - SG_speednode_0107
       - 🇯🇵 日本|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
@@ -381,8 +369,6 @@ proxy-groups:
       - 🇭🇰 香港3|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇸🇬 新加坡3|@ripaojiedian 2
-      - RU_speednode_0104
-      - SG_speednode_0107
       - 🇯🇵 日本|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
@@ -427,8 +413,6 @@ proxy-groups:
       - 🇭🇰 香港3|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇸🇬 新加坡3|@ripaojiedian 2
-      - RU_speednode_0104
-      - SG_speednode_0107
       - 🇯🇵 日本|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
@@ -482,8 +466,6 @@ proxy-groups:
       - 🇭🇰 香港3|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇸🇬 新加坡3|@ripaojiedian 2
-      - RU_speednode_0104
-      - SG_speednode_0107
       - 🇯🇵 日本|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
