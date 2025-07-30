@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-07-29 13:27:39  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-07-29 20:54:37  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -68,8 +68,8 @@ proxies:
   - {name: 🇭🇰 香港5|@ripaojiedian, server: 36.151.192.243, port: 446, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
   - {name: 🇯🇵 日本2|@ripaojiedian, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103, udp: true}
-  - {name: 🇯🇵 日本3|@ripaojiedian, server: 172.238.14.135, port: 443, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本4|@ripaojiedian, server: 172.237.27.220, port: 443, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本3|@ripaojiedian, server: 172.104.114.51, port: 443, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本4|@ripaojiedian, server: 36.151.192.243, port: 46135, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本5|@ripaojiedian, server: jp006.421421.xyz, port: 20230, type: trojan, password: 2ba7e4d0-f2f9-456e-a43e-f5a724d7e367, sni: www.alibaba.com, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.alibaba.com}}, udp: true}
   - {name: 🇰🇷 韩国|@ripaojiedian, server: 36.151.195.111, port: 16003, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
   - {name: 🇸🇬 新加坡|@ripaojiedian, server: 36.151.195.111, port: 811, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
@@ -81,14 +81,16 @@ proxies:
   - {name: 🇺🇸 美国4|@ripaojiedian, server: 174.138.85.53, port: 443, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
   - {name: "tg频道:@ripaojiedian #1", server: 43.203.107.212, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
   - {name: 🇭🇰 香港3|@ripaojiedian 2, server: 38.147.188.250, port: 11745, type: vmess, uuid: aee65b36-ac1a-428b-8da3-dae88195e47f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本3|@ripaojiedian 2, server: 172.238.14.135, port: 443, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本4|@ripaojiedian 2, server: 172.237.27.220, port: 443, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本5|@ripaojiedian 2, server: jp006.421421.xyz, port: 20230, type: trojan, password: 2ba7e4d0-f2f9-456e-a43e-f5a724d7e367, sni: www.alibaba.com, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: www.alibaba.com}}, udp: true}
   - {name: 🇺🇸 美国|@ripaojiedian 2, server: 172.67.214.21, port: 443, type: trojan, password: 7248e825-887c-48b9-83bc-c26bc6392bf8, sni: xXcdvFgt.191268.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: /ctdmgeIg3NII3ibrzzKXJGy3S1, headers: {Host: xXcdvFgt.191268.XYz}}, udp: true}
   - {name: GB_speednode_0122, server: stirring-parakeet.shiner427.skin, port: 443, type: trojan, password: !&lt;str&gt; 74260628090146500, skip-cert-verify: false, udp: true}
   - {name: SG_speednode_0256, server: 92.243.74.180, port: 8443, type: trojan, password: Aimer, sni: tyep.esslh.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tyep.esslh.filegear-sg.me}}, udp: true}
   - {name: 🇯🇵 日本2|@ripaojiedian 2, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp7v1.lingjfjkm002.com, path: /dchlbvrbbotc, tls: true, mux: true, skip-cert-verify: false}, udp: true}
+  - {name: 🇯🇵 日本|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-JtmNFkb3wi.download.microsoft.com}, udp: true}
   - {name: 🇭🇰 香港2|@ripaojiedian 2, server: 103.103.245.158, port: 636, type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /cauejypbltqt, tls: true, mux: true, skip-cert-verify: false}, udp: true}
   - {name: 🇺🇸 美国2|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-JtmNFkb3wi.download.microsoft.com}, udp: true}
-  - {name: 🇯🇵 日本|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-JtmNFkb3wi.download.microsoft.com}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -127,14 +129,16 @@ proxy-groups:
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
       - 🇭🇰 香港3|@ripaojiedian 2
+      - 🇯🇵 日本3|@ripaojiedian 2
+      - 🇯🇵 日本4|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
       - GB_speednode_0122
       - SG_speednode_0256
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -172,14 +176,16 @@ proxy-groups:
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
       - 🇭🇰 香港3|@ripaojiedian 2
+      - 🇯🇵 日本3|@ripaojiedian 2
+      - 🇯🇵 日本4|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
       - GB_speednode_0122
       - SG_speednode_0256
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -218,14 +224,16 @@ proxy-groups:
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
       - 🇭🇰 香港3|@ripaojiedian 2
+      - 🇯🇵 日本3|@ripaojiedian 2
+      - 🇯🇵 日本4|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
       - GB_speednode_0122
       - SG_speednode_0256
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -276,14 +284,16 @@ proxy-groups:
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
       - 🇭🇰 香港3|@ripaojiedian 2
+      - 🇯🇵 日本3|@ripaojiedian 2
+      - 🇯🇵 日本4|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
       - GB_speednode_0122
       - SG_speednode_0256
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -333,14 +343,16 @@ proxy-groups:
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
       - 🇭🇰 香港3|@ripaojiedian 2
+      - 🇯🇵 日本3|@ripaojiedian 2
+      - 🇯🇵 日本4|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
       - GB_speednode_0122
       - SG_speednode_0256
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
   - name: 📲 电报信息
     type: select
     proxies:
@@ -378,14 +390,16 @@ proxy-groups:
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
       - 🇭🇰 香港3|@ripaojiedian 2
+      - 🇯🇵 日本3|@ripaojiedian 2
+      - 🇯🇵 日本4|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
       - GB_speednode_0122
       - SG_speednode_0256
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -424,14 +438,16 @@ proxy-groups:
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
       - 🇭🇰 香港3|@ripaojiedian 2
+      - 🇯🇵 日本3|@ripaojiedian 2
+      - 🇯🇵 日本4|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
       - GB_speednode_0122
       - SG_speednode_0256
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -479,14 +495,16 @@ proxy-groups:
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
       - 🇭🇰 香港3|@ripaojiedian 2
+      - 🇯🇵 日本3|@ripaojiedian 2
+      - 🇯🇵 日本4|@ripaojiedian 2
       - 🇯🇵 日本5|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
       - GB_speednode_0122
       - SG_speednode_0256
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
       - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
