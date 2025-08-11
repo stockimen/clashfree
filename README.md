@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-08-10 13:17:51  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-08-10 20:50:47  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -49,6 +49,16 @@ dns:
   fallback: [https://101.101.101.101/dns-query, https://public.dns.iij.jp/dns-query, https://208.67.220.220/dns-query]
   fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 223.75.236.241/32, 182.43.124.6/32, 106.74.25.198/32], domain: [+.bianyuan.xyz, +.happynothings031.xyz, +.jsdelivr.net, +.proton.me]}
 proxies:
+  - {name: 防范境外势*渗透, server: 127.0.0.53, port: 80, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "防范境外势*渗透 #1", server: 127.0.0.53, port: 81, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "防范境外势*渗透 #2", server: 127.0.0.53, port: 82, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "防范境外势*渗透 #3", server: 127.0.0.53, port: 83, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "防范境外势*渗透 #4", server: 127.0.0.53, port: 84, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "防范境外势*渗透 #5", server: 127.0.0.53, port: 85, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "防范境外势*渗透 #6", server: 127.0.0.53, port: 86, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "防范境外势*渗透 #7", server: 127.0.0.53, port: 87, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "防范境外势*渗透 #8", server: 127.0.0.53, port: 88, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "防范境外势*渗透 #9", server: 127.0.0.53, port: 89, type: vmess, uuid: 88888888-8888-8888-8888-888888888888, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本1 | ⬇️ 1.8MB/s|54%|Youtube..., server: sslvpn.51job.com, port: 1443, type: vmess, uuid: a6a0d901-67e9-460a-90b5-634c5c4f9782, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /634c5c4f9782, headers: {Host: centos7}}, udp: true}
   - {name: 其他3-SK | ⬇️ 5.0MB/s|0%|Youtub..., server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: 🇸🇬 新加坡1 | ⬇️ 1.0MB/s|0%|Netflix..., server: 183.236.51.38, port: 49291, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
@@ -60,37 +70,52 @@ proxies:
   - {name: 🇭🇰 香港1 | ⬇️ 1.8MB/s|15%|Disney|..., server: bc842b49-swexs0-t1rt5e-1s09x.hgc1.tcpbbr.net, port: 8080, type: vmess, uuid: 62b7824e-47dc-11ef-9f2d-f23c9164ca5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: broadcastlv.chat.bilibili.com}}, udp: true}
   - {name: 🇺🇸 美国63 | ⬇️ 2.1MB/s|46%|Openai..., server: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, port: 15229, type: trojan, password: 5e2f888c-68ef-11ef-96ca-f23c9164ca5d, sni: 13c2c931-swin40-swy6li-tni2.cu.plebai.net, skip-cert-verify: false, udp: true}
   - {name: 🇺🇸 美国64 | ⬇️ 1.3MB/s|46%|Openai..., server: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, port: 15229, type: trojan, password: def14a51-e0d9-11ec-8429-f23c91cfbbc9, sni: 4560c642-swin40-tjuq6l-wf62.cu.plebai.net, skip-cert-verify: false, udp: true}
-  - {name: tg频道:@ripaojiedian, server: 13.239.86.92, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: tg频道:@ripaojiedian, server: 34.203.13.163, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 🇭🇰 香港|@ripaojiedian, server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}, udp: true}
   - {name: 🇭🇰 香港2|@ripaojiedian, server: 103.103.245.158, port: 636, type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0, udp: true}
-  - {name: 🇭🇰 香港3|@ripaojiedian, server: okanc.iepl.cac.cab, port: 23001, type: trojan, password: 82d0fb76-b9ff-41c2-ba15-2aec44f78e7c, sni: www.bilibili.com, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港3|@ripaojiedian, server: 103.149.182.191, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
   - {name: 🇭🇰 香港4|@ripaojiedian, server: 36.156.102.125, port: 447, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港5|@ripaojiedian, server: 106.53.211.194, port: 36026, type: trojan, password: c7a5a064-ac05-44ea-a449-0c0c7cae19f7, skip-cert-verify: false, udp: true}
   - {name: 🇭🇰 香港6|@ripaojiedian, server: 36.156.102.125, port: 444, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.ithome.com, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港7|@ripaojiedian, server: 120.240.118.186, port: 9233, type: trojan, password: f60cd513-7b83-4b64-936c-f7e88e95dacd, sni: steamcdn-a.akamaihd.net, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
   - {name: 🇯🇵 日本2|@ripaojiedian, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103, udp: true}
   - {name: 🇯🇵 日本3|@ripaojiedian, server: 36.156.102.125, port: 180, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本4|@ripaojiedian, server: 36.156.102.125, port: 461, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国|@ripaojiedian, server: okanc.iepl.cac.cab, port: 24001, type: trojan, password: 82d0fb76-b9ff-41c2-ba15-2aec44f78e7c, sni: www.bilibili.com, skip-cert-verify: false, udp: true}
-  - {name: 🇰🇷 韩国2|@ripaojiedian, server: 139.199.194.86, port: 36009, type: trojan, password: 005fddef-e432-482f-a98c-2715563a2b25, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本5|@ripaojiedian, server: 120.240.118.186, port: 8181, type: trojan, password: f60cd513-7b83-4b64-936c-f7e88e95dacd, sni: www.microsoft365.com, skip-cert-verify: false, udp: true}
   - {name: 🇸🇬 新加坡|@ripaojiedian, server: 36.156.102.125, port: 1256, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡2|@ripaojiedian, server: 36.156.102.125, port: 406, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡3|@ripaojiedian, server: okanc.iepl.cac.cab, port: 23012, type: trojan, password: 82d0fb76-b9ff-41c2-ba15-2aec44f78e7c, sni: www.bilibili.com, skip-cert-verify: false, udp: true}
+  - {name: CN_speednode_0018, server: 36.156.102.125, port: 406, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 新加坡3|@ripaojiedian, server: 120.240.118.215, port: 9231, type: trojan, password: f60cd513-7b83-4b64-936c-f7e88e95dacd, sni: steampipe.akamaized.net, skip-cert-verify: false, udp: true}
   - {name: 🇺🇸 美国|@ripaojiedian, server: 172.67.214.21, port: 443, type: trojan, password: 7248e825-887c-48b9-83bc-c26bc6392bf8, sni: xXcdvFgt.191268.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: /ctdmgeIg3NII3ibrzzKXJGy3S1, headers: {Host: xXcdvFgt.191268.XYz}}, udp: true}
   - {name: 🇺🇸 美国2|@ripaojiedian, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, udp: true}
   - {name: 🇺🇸 美国3|@ripaojiedian, server: 36.156.102.125, port: 347, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国4|@ripaojiedian, server: 36.156.102.125, port: 472, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.baidu.com, skip-cert-verify: false, udp: true}
-  - {name: "tg频道:@ripaojiedian #1", server: 13.239.86.92, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
+  - {name: 🇺🇸 美国4|@ripaojiedian, server: 23.236.68.99, port: 33720, type: vmess, uuid: 0409e328-19f9-4305-9962-2f9f3ce9df1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "tg频道:@ripaojiedian #1", server: 34.203.13.163, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, udp: true}
+  - {name: 🇭🇰 香港3|@ripaojiedian 2, server: 103.149.182.191, port: 8388, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY, udp: true}
   - {name: 🇺🇸 美国|@ripaojiedian 2, server: 172.67.214.21, port: 443, type: trojan, password: 7248e825-887c-48b9-83bc-c26bc6392bf8, sni: xXcdvFgt.191268.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: /ctdmgeIg3NII3ibrzzKXJGy3S1, headers: {Host: xXcdvFgt.191268.XYz}}, udp: true}
-  - {name: 🇺🇸 美国2|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-G2zNAjxjDH.download.microsoft.com}, udp: true}
-  - {name: 🇯🇵 日本|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-G2zNAjxjDH.download.microsoft.com}, udp: true}
+  - {name: 🇺🇸 美国4|@ripaojiedian 2, server: 23.236.68.99, port: 33720, type: vmess, uuid: 0409e328-19f9-4305-9962-2f9f3ce9df1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: TW_speednode_0132, server: 103.106.230.186, port: 81, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ttfang.fange.me}}, udp: true}
+  - {name: US_speednode_0172, server: 216.24.57.30, port: 443, type: trojan, password: tg-fq521free, sni: torjan.xn--xhq44j.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: torjan.xn--xhq44j.eu.org}}, udp: true}
   - {name: 🇭🇰 香港2|@ripaojiedian 2, server: 103.103.245.158, port: 636, type: ss, cipher: aes-256-gcm, password: 9bfdde71b4c0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /cauejypbltqt, tls: true, mux: true, skip-cert-verify: false}, udp: true}
+  - {name: 🇺🇸 美国2|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-ABbKq8VLBc.download.microsoft.com}, udp: true}
   - {name: 🇯🇵 日本2|@ripaojiedian 2, server: 137.220.191.40, port: 636, type: ss, cipher: aes-256-gcm, password: 823e135ed103, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jp7v1.lingjfjkm002.com, path: /dchlbvrbbotc, tls: true, mux: true, skip-cert-verify: false}, udp: true}
+  - {name: 🇯🇵 日本|@ripaojiedian 2, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202507282137611-ABbKq8VLBc.download.microsoft.com}, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 防范境外势*渗透
+      - "防范境外势*渗透 #1"
+      - "防范境外势*渗透 #2"
+      - "防范境外势*渗透 #3"
+      - "防范境外势*渗透 #4"
+      - "防范境外势*渗透 #5"
+      - "防范境外势*渗透 #6"
+      - "防范境外势*渗透 #7"
+      - "防范境外势*渗透 #8"
+      - "防范境外势*渗透 #9"
       - 🇯🇵 日本1 | ⬇️ 1.8MB/s|54%|Youtube...
       - 其他3-SK | ⬇️ 5.0MB/s|0%|Youtub...
       - 🇸🇬 新加坡1 | ⬇️ 1.0MB/s|0%|Netflix...
@@ -107,31 +132,46 @@ proxy-groups:
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 香港6|@ripaojiedian
+      - 🇭🇰 香港7|@ripaojiedian
       - 🇯🇵 日本|@ripaojiedian
       - 🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 日本4|@ripaojiedian
-      - 🇰🇷 韩国|@ripaojiedian
-      - 🇰🇷 韩国2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇸🇬 新加坡|@ripaojiedian
-      - 🇸🇬 新加坡2|@ripaojiedian
+      - CN_speednode_0018
       - 🇸🇬 新加坡3|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
       - 🇺🇸 美国3|@ripaojiedian
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
+      - 🇭🇰 香港3|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
-      - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
+      - 🇺🇸 美国4|@ripaojiedian 2
+      - TW_speednode_0132
+      - US_speednode_0172
       - 🇭🇰 香港2|@ripaojiedian 2
+      - 🇺🇸 美国2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - 防范境外势*渗透
+      - "防范境外势*渗透 #1"
+      - "防范境外势*渗透 #2"
+      - "防范境外势*渗透 #3"
+      - "防范境外势*渗透 #4"
+      - "防范境外势*渗透 #5"
+      - "防范境外势*渗透 #6"
+      - "防范境外势*渗透 #7"
+      - "防范境外势*渗透 #8"
+      - "防范境外势*渗透 #9"
       - 🇯🇵 日本1 | ⬇️ 1.8MB/s|54%|Youtube...
       - 其他3-SK | ⬇️ 5.0MB/s|0%|Youtub...
       - 🇸🇬 新加坡1 | ⬇️ 1.0MB/s|0%|Netflix...
@@ -148,32 +188,47 @@ proxy-groups:
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 香港6|@ripaojiedian
+      - 🇭🇰 香港7|@ripaojiedian
       - 🇯🇵 日本|@ripaojiedian
       - 🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 日本4|@ripaojiedian
-      - 🇰🇷 韩国|@ripaojiedian
-      - 🇰🇷 韩国2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇸🇬 新加坡|@ripaojiedian
-      - 🇸🇬 新加坡2|@ripaojiedian
+      - CN_speednode_0018
       - 🇸🇬 新加坡3|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
       - 🇺🇸 美国3|@ripaojiedian
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
+      - 🇭🇰 香港3|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
-      - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
+      - 🇺🇸 美国4|@ripaojiedian 2
+      - TW_speednode_0132
+      - US_speednode_0172
       - 🇭🇰 香港2|@ripaojiedian 2
+      - 🇺🇸 美国2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 防范境外势*渗透
+      - "防范境外势*渗透 #1"
+      - "防范境外势*渗透 #2"
+      - "防范境外势*渗透 #3"
+      - "防范境外势*渗透 #4"
+      - "防范境外势*渗透 #5"
+      - "防范境外势*渗透 #6"
+      - "防范境外势*渗透 #7"
+      - "防范境外势*渗透 #8"
+      - "防范境外势*渗透 #9"
       - 🇯🇵 日本1 | ⬇️ 1.8MB/s|54%|Youtube...
       - 其他3-SK | ⬇️ 5.0MB/s|0%|Youtub...
       - 🇸🇬 新加坡1 | ⬇️ 1.0MB/s|0%|Netflix...
@@ -190,26 +245,31 @@ proxy-groups:
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 香港6|@ripaojiedian
+      - 🇭🇰 香港7|@ripaojiedian
       - 🇯🇵 日本|@ripaojiedian
       - 🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 日本4|@ripaojiedian
-      - 🇰🇷 韩国|@ripaojiedian
-      - 🇰🇷 韩国2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇸🇬 新加坡|@ripaojiedian
-      - 🇸🇬 新加坡2|@ripaojiedian
+      - CN_speednode_0018
       - 🇸🇬 新加坡3|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
       - 🇺🇸 美国3|@ripaojiedian
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
+      - 🇭🇰 香港3|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
-      - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
+      - 🇺🇸 美国4|@ripaojiedian 2
+      - TW_speednode_0132
+      - US_speednode_0172
       - 🇭🇰 香港2|@ripaojiedian 2
+      - 🇺🇸 美国2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -228,6 +288,16 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 防范境外势*渗透
+      - "防范境外势*渗透 #1"
+      - "防范境外势*渗透 #2"
+      - "防范境外势*渗透 #3"
+      - "防范境外势*渗透 #4"
+      - "防范境外势*渗透 #5"
+      - "防范境外势*渗透 #6"
+      - "防范境外势*渗透 #7"
+      - "防范境外势*渗透 #8"
+      - "防范境外势*渗透 #9"
       - 🇯🇵 日本1 | ⬇️ 1.8MB/s|54%|Youtube...
       - 其他3-SK | ⬇️ 5.0MB/s|0%|Youtub...
       - 🇸🇬 新加坡1 | ⬇️ 1.0MB/s|0%|Netflix...
@@ -244,26 +314,31 @@ proxy-groups:
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 香港6|@ripaojiedian
+      - 🇭🇰 香港7|@ripaojiedian
       - 🇯🇵 日本|@ripaojiedian
       - 🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 日本4|@ripaojiedian
-      - 🇰🇷 韩国|@ripaojiedian
-      - 🇰🇷 韩国2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇸🇬 新加坡|@ripaojiedian
-      - 🇸🇬 新加坡2|@ripaojiedian
+      - CN_speednode_0018
       - 🇸🇬 新加坡3|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
       - 🇺🇸 美国3|@ripaojiedian
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
+      - 🇭🇰 香港3|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
-      - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
+      - 🇺🇸 美国4|@ripaojiedian 2
+      - TW_speednode_0132
+      - US_speednode_0172
       - 🇭🇰 香港2|@ripaojiedian 2
+      - 🇺🇸 美国2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -273,7 +348,10 @@ proxy-groups:
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 香港6|@ripaojiedian
+      - 🇭🇰 香港7|@ripaojiedian
+      - 🇭🇰 香港3|@ripaojiedian 2
       - 🇭🇰 香港2|@ripaojiedian 2
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
@@ -281,6 +359,16 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - 防范境外势*渗透
+      - "防范境外势*渗透 #1"
+      - "防范境外势*渗透 #2"
+      - "防范境外势*渗透 #3"
+      - "防范境外势*渗透 #4"
+      - "防范境外势*渗透 #5"
+      - "防范境外势*渗透 #6"
+      - "防范境外势*渗透 #7"
+      - "防范境外势*渗透 #8"
+      - "防范境外势*渗透 #9"
       - 🇯🇵 日本1 | ⬇️ 1.8MB/s|54%|Youtube...
       - 其他3-SK | ⬇️ 5.0MB/s|0%|Youtub...
       - 🇸🇬 新加坡1 | ⬇️ 1.0MB/s|0%|Netflix...
@@ -297,31 +385,46 @@ proxy-groups:
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 香港6|@ripaojiedian
+      - 🇭🇰 香港7|@ripaojiedian
       - 🇯🇵 日本|@ripaojiedian
       - 🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 日本4|@ripaojiedian
-      - 🇰🇷 韩国|@ripaojiedian
-      - 🇰🇷 韩国2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇸🇬 新加坡|@ripaojiedian
-      - 🇸🇬 新加坡2|@ripaojiedian
+      - CN_speednode_0018
       - 🇸🇬 新加坡3|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
       - 🇺🇸 美国3|@ripaojiedian
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
+      - 🇭🇰 香港3|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
-      - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
+      - 🇺🇸 美国4|@ripaojiedian 2
+      - TW_speednode_0132
+      - US_speednode_0172
       - 🇭🇰 香港2|@ripaojiedian 2
+      - 🇺🇸 美国2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
+      - 防范境外势*渗透
+      - "防范境外势*渗透 #1"
+      - "防范境外势*渗透 #2"
+      - "防范境外势*渗透 #3"
+      - "防范境外势*渗透 #4"
+      - "防范境外势*渗透 #5"
+      - "防范境外势*渗透 #6"
+      - "防范境外势*渗透 #7"
+      - "防范境外势*渗透 #8"
+      - "防范境外势*渗透 #9"
       - 🇯🇵 日本1 | ⬇️ 1.8MB/s|54%|Youtube...
       - 其他3-SK | ⬇️ 5.0MB/s|0%|Youtub...
       - 🇸🇬 新加坡1 | ⬇️ 1.0MB/s|0%|Netflix...
@@ -338,32 +441,47 @@ proxy-groups:
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 香港6|@ripaojiedian
+      - 🇭🇰 香港7|@ripaojiedian
       - 🇯🇵 日本|@ripaojiedian
       - 🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 日本4|@ripaojiedian
-      - 🇰🇷 韩国|@ripaojiedian
-      - 🇰🇷 韩国2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇸🇬 新加坡|@ripaojiedian
-      - 🇸🇬 新加坡2|@ripaojiedian
+      - CN_speednode_0018
       - 🇸🇬 新加坡3|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
       - 🇺🇸 美国3|@ripaojiedian
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
+      - 🇭🇰 香港3|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
-      - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
+      - 🇺🇸 美国4|@ripaojiedian 2
+      - TW_speednode_0132
+      - US_speednode_0172
       - 🇭🇰 香港2|@ripaojiedian 2
+      - 🇺🇸 美国2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 防范境外势*渗透
+      - "防范境外势*渗透 #1"
+      - "防范境外势*渗透 #2"
+      - "防范境外势*渗透 #3"
+      - "防范境外势*渗透 #4"
+      - "防范境外势*渗透 #5"
+      - "防范境外势*渗透 #6"
+      - "防范境外势*渗透 #7"
+      - "防范境外势*渗透 #8"
+      - "防范境外势*渗透 #9"
       - 🇯🇵 日本1 | ⬇️ 1.8MB/s|54%|Youtube...
       - 其他3-SK | ⬇️ 5.0MB/s|0%|Youtub...
       - 🇸🇬 新加坡1 | ⬇️ 1.0MB/s|0%|Netflix...
@@ -380,26 +498,31 @@ proxy-groups:
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 香港6|@ripaojiedian
+      - 🇭🇰 香港7|@ripaojiedian
       - 🇯🇵 日本|@ripaojiedian
       - 🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 日本4|@ripaojiedian
-      - 🇰🇷 韩国|@ripaojiedian
-      - 🇰🇷 韩国2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇸🇬 新加坡|@ripaojiedian
-      - 🇸🇬 新加坡2|@ripaojiedian
+      - CN_speednode_0018
       - 🇸🇬 新加坡3|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
       - 🇺🇸 美国3|@ripaojiedian
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
+      - 🇭🇰 香港3|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
-      - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
+      - 🇺🇸 美国4|@ripaojiedian 2
+      - TW_speednode_0132
+      - US_speednode_0172
       - 🇭🇰 香港2|@ripaojiedian 2
+      - 🇺🇸 美国2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -415,6 +538,16 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 防范境外势*渗透
+      - "防范境外势*渗透 #1"
+      - "防范境外势*渗透 #2"
+      - "防范境外势*渗透 #3"
+      - "防范境外势*渗透 #4"
+      - "防范境外势*渗透 #5"
+      - "防范境外势*渗透 #6"
+      - "防范境外势*渗透 #7"
+      - "防范境外势*渗透 #8"
+      - "防范境外势*渗透 #9"
       - 🇯🇵 日本1 | ⬇️ 1.8MB/s|54%|Youtube...
       - 其他3-SK | ⬇️ 5.0MB/s|0%|Youtub...
       - 🇸🇬 新加坡1 | ⬇️ 1.0MB/s|0%|Netflix...
@@ -431,26 +564,31 @@ proxy-groups:
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
       - 🇭🇰 香港4|@ripaojiedian
+      - 🇭🇰 香港5|@ripaojiedian
       - 🇭🇰 香港6|@ripaojiedian
+      - 🇭🇰 香港7|@ripaojiedian
       - 🇯🇵 日本|@ripaojiedian
       - 🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 日本3|@ripaojiedian
       - 🇯🇵 日本4|@ripaojiedian
-      - 🇰🇷 韩国|@ripaojiedian
-      - 🇰🇷 韩国2|@ripaojiedian
+      - 🇯🇵 日本5|@ripaojiedian
       - 🇸🇬 新加坡|@ripaojiedian
-      - 🇸🇬 新加坡2|@ripaojiedian
+      - CN_speednode_0018
       - 🇸🇬 新加坡3|@ripaojiedian
       - 🇺🇸 美国|@ripaojiedian
       - 🇺🇸 美国2|@ripaojiedian
       - 🇺🇸 美国3|@ripaojiedian
       - 🇺🇸 美国4|@ripaojiedian
       - "tg频道:@ripaojiedian #1"
+      - 🇭🇰 香港3|@ripaojiedian 2
       - 🇺🇸 美国|@ripaojiedian 2
-      - 🇺🇸 美国2|@ripaojiedian 2
-      - 🇯🇵 日本|@ripaojiedian 2
+      - 🇺🇸 美国4|@ripaojiedian 2
+      - TW_speednode_0132
+      - US_speednode_0172
       - 🇭🇰 香港2|@ripaojiedian 2
+      - 🇺🇸 美国2|@ripaojiedian 2
       - 🇯🇵 日本2|@ripaojiedian 2
+      - 🇯🇵 日本|@ripaojiedian 2
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
