@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-08-24 13:36:48  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-08-24 13:38:32  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -29,7 +29,7 @@
 
 ## 免费clash节点分享
 ```  
-<pre style="word-wrap: break-word; white-space: pre-wrap;">port: 7890
+port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
@@ -12130,6 +12130,6 @@ rules:
   - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
   - GEOIP,CN,🎯 全球直连
   - MATCH,🐟 漏网之鱼
-</pre>
+
 ```
 
