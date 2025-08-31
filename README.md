@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-08-31 16:49:55  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-08-31 20:48:39  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -45,7 +45,7 @@ proxies:
   - {name: "[Hysteria2] 🇯🇵 东京 #1", server: zp2.eyucdn.xyz, port: 2056, type: hysteria2, password: 37d19f09-5fa4-4ad0-8484-55050b582a29, auth: 37d19f09-5fa4-4ad0-8484-55050b582a29, sni: zp2.eyujichang.xyz, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇭🇰 香港 2", server: ssssssssssssssssssssssssssss-mualhk229.hizui.cn, port: 10880, type: hysteria2, password: 38589924-caf7-4857-812b-80020febd3ff, auth: 38589924-caf7-4857-812b-80020febd3ff, sni: ssssssssssssssssssssssssssss-mualhk229.hizui.cn, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇬🇧 UK", server: 206.189.20.193, port: 7197, type: hysteria2, password: 3C8h8X6kimbOX68joVe3kTERw, auth: 3C8h8X6kimbOX68joVe3kTERw, sni: bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs", server: 47.129.224.62, port: 22509, type: hysteria2, password: 3hszBhqVsUhqOOFWJlev6k6Tkc, auth: 3hszBhqVsUhqOOFWJlev6k6Tkc, sni: bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @Daily_Configs #1", server: 47.129.224.62, port: 22509, type: hysteria2, password: 3hszBhqVsUhqOOFWJlev6k6Tkc, auth: 3hszBhqVsUhqOOFWJlev6k6Tkc, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇸🇬 SG #1", server: 54.255.144.66, port: 22509, type: hysteria2, password: 3hszBhqVsUhqOOFWJlev6k6Tkc, auth: 3hszBhqVsUhqOOFWJlev6k6Tkc, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig", server: de.eyucdn.xyz, port: 2056, type: hysteria2, password: 45b46edb-679b-4ea5-befd-88c05bb94f80, auth: 45b46edb-679b-4ea5-befd-88c05bb94f80, sni: de.eyucdn.xyz, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇺🇸 美国", server: 129.146.215.233, port: 443, type: hysteria2, password: 51de9de9-3445-4dd3-8ac9-f42dc0baa230, auth: 51de9de9-3445-4dd3-8ac9-f42dc0baa230, sni: cn.cremedelamer.com, skip-cert-verify: false}
@@ -103,10 +103,10 @@ proxies:
   - {name: "[Hysteria2] → @Hddify", server: 185.126.255.78, port: 43429, type: hysteria2, password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b, auth: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] @V2rayNG3 #2", server: 109.120.135.123, port: 12122, type: hysteria2, password: 22f2c759db51b3d0, auth: 22f2c759db51b3d0, sni: www.bing.com, skip-cert-verify: false, obfs: salamander, obfs-password: de8287cd33b05fa3}
   - {name: "[Hysteria2] Telegram:@config_proxy 😍 #3", server: 172.252.236.213, port: 49303, type: hysteria2, password: 23125f6e-ec56-4c26-9714-0bbacdb53d01, auth: 23125f6e-ec56-4c26-9714-0bbacdb53d01, sni: real.getafreenode.sbs, skip-cert-verify: false}
+  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #4", server: 40.233.102.224, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @V2rayBaaz", server: b3cc762f4cb7.anondns.net, port: 27063, type: hysteria2, password: 287ca8c3-267f-4ba4-a48a-683c450d07f2, auth: 287ca8c3-267f-4ba4-a48a-683c450d07f2, skip-cert-verify: false}
-  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #4", server: 172.252.236.213, port: 49303, type: hysteria2, password: 29fbd51f-03c8-4d76-849a-436e54d58317, auth: 29fbd51f-03c8-4d76-849a-436e54d58317, sni: real.getafreenode.sbs, skip-cert-verify: false}
+  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #5", server: 172.252.236.213, port: 49303, type: hysteria2, password: 29fbd51f-03c8-4d76-849a-436e54d58317, auth: 29fbd51f-03c8-4d76-849a-436e54d58317, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل...", server: android.yas-nowin.ir, port: 443, type: hysteria2, password: 3QlSMKyqLp, auth: 3QlSMKyqLp, sni: android.yas-nowin.ir, skip-cert-verify: false}
-  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #5", server: 4.daka778.top, port: 33657, type: hysteria2, password: 3efc85b7-46db-484e-ac53-c35b8160c3fe, auth: 3efc85b7-46db-484e-ac53-c35b8160c3fe, sni: 4.daka778.top, skip-cert-verify: false}
   - {name: "[Hysteria2] Telegram:@config_proxy 😍 #6", server: 172.252.236.213, port: 49303, type: hysteria2, password: 413c8b50-96bf-4457-82f2-54dfa8685f53, auth: 413c8b50-96bf-4457-82f2-54dfa8685f53, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] Telegram:@config_proxy 😍 #7", server: 172.252.236.213, port: 49303, type: hysteria2, password: 45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e, auth: 45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] Telegram:@config_proxy 😍 #8", server: 172.252.236.213, port: 49303, type: hysteria2, password: 4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1, auth: 4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1, sni: real.getafreenode.sbs, skip-cert-verify: false}
@@ -116,9 +116,10 @@ proxies:
   - {name: "[Hysteria2] @FreakConfig 4", server: 172.252.236.213, port: 58718, type: hysteria2, password: 55ca7a9e-cf90-49df-b14a-9346c59b73b9, auth: 55ca7a9e-cf90-49df-b14a-9346c59b73b9, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] Telegram:@config_proxy 😍 #12", server: 172.252.236.213, port: 49303, type: hysteria2, password: 6bf726db-fb0b-405b-899a-3e263f092eda, auth: 6bf726db-fb0b-405b-899a-3e263f092eda, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] @V2rayNG3 #3", server: s15.serv00.com, port: 7777, type: hysteria2, password: 75577117-ABCD-DCBA-AAAA-CC777775577B, auth: 75577117-ABCD-DCBA-AAAA-CC777775577B, sni: www.bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @meli_proxyy #2", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
   - {name: "[Hysteria2] Telegram:@config_proxy 😍 #13", server: 172.252.236.213, port: 49303, type: hysteria2, password: 80b2ac81-ba69-41f9-bb46-820b7b3af4dd, auth: 80b2ac81-ba69-41f9-bb46-820b7b3af4dd, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig #2", server: 77.90.50.59, port: 20340, type: hysteria2, password: 88984417-da74-4a6e-a6fe-9336adf8e644, auth: 88984417-da74-4a6e-a6fe-9336adf8e644, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs #1", server: hsxjp.huasuan666.top, port: 22154, type: hysteria2, password: 8b583292-c936-4723-a8c7-8adb8ecf5044, auth: 8b583292-c936-4723-a8c7-8adb8ecf5044, skip-cert-verify: false}
+  - {name: "[Hysteria2] @Daily_Configs #3", server: hsxjp.huasuan666.top, port: 22154, type: hysteria2, password: 8b583292-c936-4723-a8c7-8adb8ecf5044, auth: 8b583292-c936-4723-a8c7-8adb8ecf5044, skip-cert-verify: false}
   - {name: "[Hysteria2] → @Hddify #1", server: 185.126.255.78, port: 43429, type: hysteria2, password: 942b9cb8-92fa-46ac-ae91-f69c8234434b, auth: 942b9cb8-92fa-46ac-ae91-f69c8234434b, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] Telegram:@config_proxy 😍 #14", server: 172.252.236.213, port: 49303, type: hysteria2, password: 9c859345-959f-491b-b6fc-65cd7a57aeb3, auth: 9c859345-959f-491b-b6fc-65cd7a57aeb3, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] @V2rayNG3 #4", server: all-v4.dgi000.store, port: 443, type: hysteria2, password: "%40azadi_az_inja_migzare", auth: "%40azadi_az_inja_migzare", sni: all-v4.dgi000.store, skip-cert-verify: false, obfs: salamander, obfs-password: "@azadi_az_inja_migzare"}
@@ -131,24 +132,21 @@ proxies:
   - {name: "[Hysteria2] +@Azarakhsh_Proxy+🩷", server: 179.61.132.96, port: 8443, type: hysteria2, password: KevinZakarian, auth: KevinZakarian, sni: 179.61.132.96, skip-cert-verify: false, obfs: salamander, obfs-password: KevinZakarian}
   - {name: "[Hysteria2] @Change_IP1-HYS #1", server: 147.45.154.150, port: 443, type: hysteria2, password: M4DUOPrnAJhCXCBGoTA2xLDA, auth: M4DUOPrnAJhCXCBGoTA2xLDA, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
   - {name: "[Hysteria2] @Change_IP1-HYS #2", server: 147.45.154.150, port: 443, type: hysteria2, password: MomB5gcusrDl2k67OfsTUEJK, auth: MomB5gcusrDl2k67OfsTUEJK, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
-  - {name: "[Hysteria2] @Daily_Configs #2", server: 47.239.220.214, port: 2428, type: hysteria2, password: NjEkAYYNqFKUbrksyW1COBtdpU, auth: NjEkAYYNqFKUbrksyW1COBtdpU, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs #5", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
+  - {name: "[Hysteria2] @Daily_Configs #4", server: 47.239.220.214, port: 2428, type: hysteria2, password: NjEkAYYNqFKUbrksyW1COBtdpU, auth: NjEkAYYNqFKUbrksyW1COBtdpU, skip-cert-verify: false}
+  - {name: "[Hysteria2] @Daily_Configs #7", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
   - {name: "[Hysteria2] @Change_IP1-HYS #3", server: 147.45.154.150, port: 443, type: hysteria2, password: UiIoI79ktLVSpD8Fh6vTq5l5, auth: UiIoI79ktLVSpD8Fh6vTq5l5, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
   - {name: "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2", server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] @FreakConfig #1 2", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
-  - {name: "[Hysteria2] @Daily_Configs #6", server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
-  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #15", server: putin.fizikade.ir, port: 44666, type: hysteria2, password: aa517d88689b1b650345d07018329624, auth: aa517d88689b1b650345d07018329624, sni: putin.fizikade.ir, skip-cert-verify: false, obfs: salamander, obfs-password: jahhahyy7766HTft6tH655}
-  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #16", server: 172.252.236.213, port: 49303, type: hysteria2, password: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a, auth: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a, sni: real.getafreenode.sbs, skip-cert-verify: false}
-  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #17", server: yd.foldjc.top, port: 37014, type: hysteria2, password: c754407c-8688-4361-8fc9-526c2627f908, auth: c754407c-8688-4361-8fc9-526c2627f908, sni: yd.foldjc.top, skip-cert-verify: false}
+  - {name: "[Hysteria2] @Daily_Configs #8", server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #15", server: 172.252.236.213, port: 49303, type: hysteria2, password: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a, auth: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] Telegram:@config_proxy 💦 #1", server: hg.dport.top, port: 33656, type: hysteria2, password: c99b400e-5926-4a86-a13f-de22d53f7f8b, auth: c99b400e-5926-4a86-a13f-de22d53f7f8b, sni: hg.dport.top, skip-cert-verify: false, obfs: salamander, obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==}
   - {name: "[Hysteria2] @V2rayNG3 #8", server: 46.17.41.189, port: 50717, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #18", server: 5.daka778.top, port: 33657, type: hysteria2, password: e217ed9c-f23c-4d3f-b05c-6ee447eda596, auth: e217ed9c-f23c-4d3f-b05c-6ee447eda596, sni: 5.daka778.top, skip-cert-verify: false}
-  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #19", server: 172.252.236.213, port: 49303, type: hysteria2, password: e31ad3e6-e341-42ac-bdc7-bea02d126fc1, auth: e31ad3e6-e341-42ac-bdc7-bea02d126fc1, sni: real.getafreenode.sbs, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs #7", server: 203.174.82.145, port: 43057, type: hysteria2, password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099, auth: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099, sni: www.bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #20", server: 172.252.236.213, port: 49303, type: hysteria2, password: ebbeef45-0fd8-40cd-aca5-1e2ce18abeff, auth: ebbeef45-0fd8-40cd-aca5-1e2ce18abeff, sni: real.getafreenode.sbs, skip-cert-verify: false}
+  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #16", server: 172.252.236.213, port: 49303, type: hysteria2, password: e31ad3e6-e341-42ac-bdc7-bea02d126fc1, auth: e31ad3e6-e341-42ac-bdc7-bea02d126fc1, sni: real.getafreenode.sbs, skip-cert-verify: false}
+  - {name: "[Hysteria2] @Daily_Configs #9", server: 203.174.82.145, port: 43057, type: hysteria2, password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099, auth: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099, sni: www.bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #17", server: 172.252.236.213, port: 49303, type: hysteria2, password: ebbeef45-0fd8-40cd-aca5-1e2ce18abeff, auth: ebbeef45-0fd8-40cd-aca5-1e2ce18abeff, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] @V2rayNG3 #9", server: 62.60.231.189, port: 12123, type: hysteria2, password: f8e40931bbb827df, auth: f8e40931bbb827df, sni: www.bing.com, skip-cert-verify: false, obfs: salamander, obfs-password: dbc688df29e582d3}
-  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #21", server: 172.252.236.213, port: 49303, type: hysteria2, password: f901861b-6491-450c-b500-606b2e921625, auth: f901861b-6491-450c-b500-606b2e921625, sni: real.getafreenode.sbs, skip-cert-verify: false}
+  - {name: "[Hysteria2] Telegram:@config_proxy 😍 #18", server: 172.252.236.213, port: 49303, type: hysteria2, password: f901861b-6491-450c-b500-606b2e921625, auth: f901861b-6491-450c-b500-606b2e921625, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2", server: android.yas-nowin.ir, port: 443, type: hysteria2, password: n9OgQprayM, auth: n9OgQprayM, sni: android.yas-nowin.ir, skip-cert-verify: false}
   - {name: "[Hysteria2] @Change_IP1-HYS #4", server: 147.45.154.150, port: 443, type: hysteria2, password: wieZ9G0FbEecGx2kXaZLchtt, auth: wieZ9G0FbEecGx2kXaZLchtt, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
   - {name: "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]", server: android.yas-nowin.ir, port: 443, type: hysteria2, password: xnChC7dKZ8, auth: xnChC7dKZ8, sni: android.yas-nowin.ir, skip-cert-verify: false}
@@ -192,9 +190,9 @@ proxies:
   - {name: "[Vless] US_speednode_0024", server: 63.141.128.16, port: 80, type: vless, uuid: 15f2b73d-9790-4092-bb4b-e38a4feb1b56, tls: false, skip-cert-verify: false, servername: e.jOin.zEdMoDeOn.oNl., network: ws, ws-opts: {path: /Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON, headers: {Host: e.jOin.zEdMoDeOn.oNl.}}}
   - {name: "[Vless] US_speednode_0025", server: 63.141.128.22, port: 80, type: vless, uuid: ff0d9e6c-6b4c-40c2-9254-f602b21aa836, tls: false, skip-cert-verify: false, servername: f.jOin.zEdMoDeOn.oNl., network: ws, ws-opts: {path: /Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON, headers: {Host: f.jOin.zEdMoDeOn.oNl.}}}
   - {name: "[Vless] US_speednode_0026", server: 63.141.128.14, port: 8080, type: vless, uuid: e68bc33e-7222-4125-b064-8209d71f29d9, tls: false, skip-cert-verify: false, servername: a.joIn.zEdMoDeOn.oNl., network: ws, ws-opts: {path: /Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON, headers: {Host: a.joIn.zEdMoDeOn.oNl.}}}
+  - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202508150964186-UsfARRoWJx.download.microsoft.com}}
   - {name: "[SS] 🇯🇵 日本2|@ripaojiedian 2", server: 137.220.142.150, port: 443, type: ss, cipher: aes-256-gcm, password: 8a6ca14c0936, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jpxw9v1.dashengjs.net, path: /wrdfiatyd, tls: true, mux: false, skip-cert-verify: false}}
   - {name: "[SS] 🇺🇸 美国2|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202508150964186-UsfARRoWJx.download.microsoft.com}}
-  - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202508150964186-UsfARRoWJx.download.microsoft.com}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 156.251.179.135, port: 443, type: ss, cipher: aes-256-gcm, password: 9969db7a2f51, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk6v1.dsjsapp.com, path: /fgsauuoqxwx, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🔰 节点选择
@@ -211,7 +209,7 @@ proxy-groups:
       - "[Hysteria2] 🇯🇵 东京 #1"
       - "[Hysteria2] 🇭🇰 香港 2"
       - "[Hysteria2] 🇬🇧 UK"
-      - "[Hysteria2] @Daily_Configs"
+      - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇸🇬 SG #1"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] 🇺🇸 美国"
@@ -269,10 +267,10 @@ proxy-groups:
       - "[Hysteria2] → @Hddify"
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #3"
-      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #4"
-      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
+      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #5"
+      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
       - "[Hysteria2] Telegram:@config_proxy 😍 #6"
       - "[Hysteria2] Telegram:@config_proxy 😍 #7"
       - "[Hysteria2] Telegram:@config_proxy 😍 #8"
@@ -282,9 +280,10 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] Telegram:@config_proxy 😍 #12"
       - "[Hysteria2] @V2rayNG3 #3"
+      - "[Hysteria2] @meli_proxyy #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #13"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] @Daily_Configs #1"
+      - "[Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] → @Hddify #1"
       - "[Hysteria2] Telegram:@config_proxy 😍 #14"
       - "[Hysteria2] @V2rayNG3 #4"
@@ -297,24 +296,21 @@ proxy-groups:
       - "[Hysteria2] +@Azarakhsh_Proxy+🩷"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #2"
-      - "[Hysteria2] @Daily_Configs #5"
+      - "[Hysteria2] @Daily_Configs #4"
+      - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
       - "[Hysteria2] @FreakConfig #1 2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #8"
       - "[Hysteria2] Telegram:@config_proxy 😍 #15"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] Telegram:@config_proxy 💦 #1"
       - "[Hysteria2] @V2rayNG3 #8"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #19"
-      - "[Hysteria2] @Daily_Configs #7"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #20"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
+      - "[Hysteria2] @Daily_Configs #9"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] @V2rayNG3 #9"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #21"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -358,9 +354,9 @@ proxy-groups:
       - "[Vless] US_speednode_0024"
       - "[Vless] US_speednode_0025"
       - "[Vless] US_speednode_0026"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
@@ -376,7 +372,7 @@ proxy-groups:
       - "[Hysteria2] 🇯🇵 东京 #1"
       - "[Hysteria2] 🇭🇰 香港 2"
       - "[Hysteria2] 🇬🇧 UK"
-      - "[Hysteria2] @Daily_Configs"
+      - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇸🇬 SG #1"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] 🇺🇸 美国"
@@ -434,10 +430,10 @@ proxy-groups:
       - "[Hysteria2] → @Hddify"
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #3"
-      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #4"
-      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
+      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #5"
+      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
       - "[Hysteria2] Telegram:@config_proxy 😍 #6"
       - "[Hysteria2] Telegram:@config_proxy 😍 #7"
       - "[Hysteria2] Telegram:@config_proxy 😍 #8"
@@ -447,9 +443,10 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] Telegram:@config_proxy 😍 #12"
       - "[Hysteria2] @V2rayNG3 #3"
+      - "[Hysteria2] @meli_proxyy #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #13"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] @Daily_Configs #1"
+      - "[Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] → @Hddify #1"
       - "[Hysteria2] Telegram:@config_proxy 😍 #14"
       - "[Hysteria2] @V2rayNG3 #4"
@@ -462,24 +459,21 @@ proxy-groups:
       - "[Hysteria2] +@Azarakhsh_Proxy+🩷"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #2"
-      - "[Hysteria2] @Daily_Configs #5"
+      - "[Hysteria2] @Daily_Configs #4"
+      - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
       - "[Hysteria2] @FreakConfig #1 2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #8"
       - "[Hysteria2] Telegram:@config_proxy 😍 #15"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] Telegram:@config_proxy 💦 #1"
       - "[Hysteria2] @V2rayNG3 #8"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #19"
-      - "[Hysteria2] @Daily_Configs #7"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #20"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
+      - "[Hysteria2] @Daily_Configs #9"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] @V2rayNG3 #9"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #21"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -523,9 +517,9 @@ proxy-groups:
       - "[Vless] US_speednode_0024"
       - "[Vless] US_speednode_0025"
       - "[Vless] US_speednode_0026"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
@@ -542,7 +536,7 @@ proxy-groups:
       - "[Hysteria2] 🇯🇵 东京 #1"
       - "[Hysteria2] 🇭🇰 香港 2"
       - "[Hysteria2] 🇬🇧 UK"
-      - "[Hysteria2] @Daily_Configs"
+      - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇸🇬 SG #1"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] 🇺🇸 美国"
@@ -600,10 +594,10 @@ proxy-groups:
       - "[Hysteria2] → @Hddify"
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #3"
-      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #4"
-      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
+      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #5"
+      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
       - "[Hysteria2] Telegram:@config_proxy 😍 #6"
       - "[Hysteria2] Telegram:@config_proxy 😍 #7"
       - "[Hysteria2] Telegram:@config_proxy 😍 #8"
@@ -613,9 +607,10 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] Telegram:@config_proxy 😍 #12"
       - "[Hysteria2] @V2rayNG3 #3"
+      - "[Hysteria2] @meli_proxyy #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #13"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] @Daily_Configs #1"
+      - "[Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] → @Hddify #1"
       - "[Hysteria2] Telegram:@config_proxy 😍 #14"
       - "[Hysteria2] @V2rayNG3 #4"
@@ -628,24 +623,21 @@ proxy-groups:
       - "[Hysteria2] +@Azarakhsh_Proxy+🩷"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #2"
-      - "[Hysteria2] @Daily_Configs #5"
+      - "[Hysteria2] @Daily_Configs #4"
+      - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
       - "[Hysteria2] @FreakConfig #1 2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #8"
       - "[Hysteria2] Telegram:@config_proxy 😍 #15"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] Telegram:@config_proxy 💦 #1"
       - "[Hysteria2] @V2rayNG3 #8"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #19"
-      - "[Hysteria2] @Daily_Configs #7"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #20"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
+      - "[Hysteria2] @Daily_Configs #9"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] @V2rayNG3 #9"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #21"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -689,9 +681,9 @@ proxy-groups:
       - "[Vless] US_speednode_0024"
       - "[Vless] US_speednode_0025"
       - "[Vless] US_speednode_0026"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
@@ -720,7 +712,7 @@ proxy-groups:
       - "[Hysteria2] 🇯🇵 东京 #1"
       - "[Hysteria2] 🇭🇰 香港 2"
       - "[Hysteria2] 🇬🇧 UK"
-      - "[Hysteria2] @Daily_Configs"
+      - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇸🇬 SG #1"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] 🇺🇸 美国"
@@ -778,10 +770,10 @@ proxy-groups:
       - "[Hysteria2] → @Hddify"
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #3"
-      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #4"
-      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
+      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #5"
+      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
       - "[Hysteria2] Telegram:@config_proxy 😍 #6"
       - "[Hysteria2] Telegram:@config_proxy 😍 #7"
       - "[Hysteria2] Telegram:@config_proxy 😍 #8"
@@ -791,9 +783,10 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] Telegram:@config_proxy 😍 #12"
       - "[Hysteria2] @V2rayNG3 #3"
+      - "[Hysteria2] @meli_proxyy #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #13"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] @Daily_Configs #1"
+      - "[Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] → @Hddify #1"
       - "[Hysteria2] Telegram:@config_proxy 😍 #14"
       - "[Hysteria2] @V2rayNG3 #4"
@@ -806,24 +799,21 @@ proxy-groups:
       - "[Hysteria2] +@Azarakhsh_Proxy+🩷"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #2"
-      - "[Hysteria2] @Daily_Configs #5"
+      - "[Hysteria2] @Daily_Configs #4"
+      - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
       - "[Hysteria2] @FreakConfig #1 2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #8"
       - "[Hysteria2] Telegram:@config_proxy 😍 #15"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] Telegram:@config_proxy 💦 #1"
       - "[Hysteria2] @V2rayNG3 #8"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #19"
-      - "[Hysteria2] @Daily_Configs #7"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #20"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
+      - "[Hysteria2] @Daily_Configs #9"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] @V2rayNG3 #9"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #21"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -867,9 +857,9 @@ proxy-groups:
       - "[Vless] US_speednode_0024"
       - "[Vless] US_speednode_0025"
       - "[Vless] US_speednode_0026"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
@@ -909,7 +899,7 @@ proxy-groups:
       - "[Hysteria2] 🇯🇵 东京 #1"
       - "[Hysteria2] 🇭🇰 香港 2"
       - "[Hysteria2] 🇬🇧 UK"
-      - "[Hysteria2] @Daily_Configs"
+      - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇸🇬 SG #1"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] 🇺🇸 美国"
@@ -967,10 +957,10 @@ proxy-groups:
       - "[Hysteria2] → @Hddify"
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #3"
-      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #4"
-      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
+      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #5"
+      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
       - "[Hysteria2] Telegram:@config_proxy 😍 #6"
       - "[Hysteria2] Telegram:@config_proxy 😍 #7"
       - "[Hysteria2] Telegram:@config_proxy 😍 #8"
@@ -980,9 +970,10 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] Telegram:@config_proxy 😍 #12"
       - "[Hysteria2] @V2rayNG3 #3"
+      - "[Hysteria2] @meli_proxyy #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #13"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] @Daily_Configs #1"
+      - "[Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] → @Hddify #1"
       - "[Hysteria2] Telegram:@config_proxy 😍 #14"
       - "[Hysteria2] @V2rayNG3 #4"
@@ -995,24 +986,21 @@ proxy-groups:
       - "[Hysteria2] +@Azarakhsh_Proxy+🩷"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #2"
-      - "[Hysteria2] @Daily_Configs #5"
+      - "[Hysteria2] @Daily_Configs #4"
+      - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
       - "[Hysteria2] @FreakConfig #1 2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #8"
       - "[Hysteria2] Telegram:@config_proxy 😍 #15"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] Telegram:@config_proxy 💦 #1"
       - "[Hysteria2] @V2rayNG3 #8"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #19"
-      - "[Hysteria2] @Daily_Configs #7"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #20"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
+      - "[Hysteria2] @Daily_Configs #9"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] @V2rayNG3 #9"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #21"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -1056,9 +1044,9 @@ proxy-groups:
       - "[Vless] US_speednode_0024"
       - "[Vless] US_speednode_0025"
       - "[Vless] US_speednode_0026"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
@@ -1074,7 +1062,7 @@ proxy-groups:
       - "[Hysteria2] 🇯🇵 东京 #1"
       - "[Hysteria2] 🇭🇰 香港 2"
       - "[Hysteria2] 🇬🇧 UK"
-      - "[Hysteria2] @Daily_Configs"
+      - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇸🇬 SG #1"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] 🇺🇸 美国"
@@ -1132,10 +1120,10 @@ proxy-groups:
       - "[Hysteria2] → @Hddify"
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #3"
-      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #4"
-      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
+      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #5"
+      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
       - "[Hysteria2] Telegram:@config_proxy 😍 #6"
       - "[Hysteria2] Telegram:@config_proxy 😍 #7"
       - "[Hysteria2] Telegram:@config_proxy 😍 #8"
@@ -1145,9 +1133,10 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] Telegram:@config_proxy 😍 #12"
       - "[Hysteria2] @V2rayNG3 #3"
+      - "[Hysteria2] @meli_proxyy #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #13"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] @Daily_Configs #1"
+      - "[Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] → @Hddify #1"
       - "[Hysteria2] Telegram:@config_proxy 😍 #14"
       - "[Hysteria2] @V2rayNG3 #4"
@@ -1160,24 +1149,21 @@ proxy-groups:
       - "[Hysteria2] +@Azarakhsh_Proxy+🩷"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #2"
-      - "[Hysteria2] @Daily_Configs #5"
+      - "[Hysteria2] @Daily_Configs #4"
+      - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
       - "[Hysteria2] @FreakConfig #1 2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #8"
       - "[Hysteria2] Telegram:@config_proxy 😍 #15"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] Telegram:@config_proxy 💦 #1"
       - "[Hysteria2] @V2rayNG3 #8"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #19"
-      - "[Hysteria2] @Daily_Configs #7"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #20"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
+      - "[Hysteria2] @Daily_Configs #9"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] @V2rayNG3 #9"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #21"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -1221,9 +1207,9 @@ proxy-groups:
       - "[Vless] US_speednode_0024"
       - "[Vless] US_speednode_0025"
       - "[Vless] US_speednode_0026"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
@@ -1240,7 +1226,7 @@ proxy-groups:
       - "[Hysteria2] 🇯🇵 东京 #1"
       - "[Hysteria2] 🇭🇰 香港 2"
       - "[Hysteria2] 🇬🇧 UK"
-      - "[Hysteria2] @Daily_Configs"
+      - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇸🇬 SG #1"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] 🇺🇸 美国"
@@ -1298,10 +1284,10 @@ proxy-groups:
       - "[Hysteria2] → @Hddify"
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #3"
-      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #4"
-      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
+      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #5"
+      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
       - "[Hysteria2] Telegram:@config_proxy 😍 #6"
       - "[Hysteria2] Telegram:@config_proxy 😍 #7"
       - "[Hysteria2] Telegram:@config_proxy 😍 #8"
@@ -1311,9 +1297,10 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] Telegram:@config_proxy 😍 #12"
       - "[Hysteria2] @V2rayNG3 #3"
+      - "[Hysteria2] @meli_proxyy #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #13"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] @Daily_Configs #1"
+      - "[Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] → @Hddify #1"
       - "[Hysteria2] Telegram:@config_proxy 😍 #14"
       - "[Hysteria2] @V2rayNG3 #4"
@@ -1326,24 +1313,21 @@ proxy-groups:
       - "[Hysteria2] +@Azarakhsh_Proxy+🩷"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #2"
-      - "[Hysteria2] @Daily_Configs #5"
+      - "[Hysteria2] @Daily_Configs #4"
+      - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
       - "[Hysteria2] @FreakConfig #1 2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #8"
       - "[Hysteria2] Telegram:@config_proxy 😍 #15"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] Telegram:@config_proxy 💦 #1"
       - "[Hysteria2] @V2rayNG3 #8"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #19"
-      - "[Hysteria2] @Daily_Configs #7"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #20"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
+      - "[Hysteria2] @Daily_Configs #9"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] @V2rayNG3 #9"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #21"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -1387,9 +1371,9 @@ proxy-groups:
       - "[Vless] US_speednode_0024"
       - "[Vless] US_speednode_0025"
       - "[Vless] US_speednode_0026"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
@@ -1415,7 +1399,7 @@ proxy-groups:
       - "[Hysteria2] 🇯🇵 东京 #1"
       - "[Hysteria2] 🇭🇰 香港 2"
       - "[Hysteria2] 🇬🇧 UK"
-      - "[Hysteria2] @Daily_Configs"
+      - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇸🇬 SG #1"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] 🇺🇸 美国"
@@ -1473,10 +1457,10 @@ proxy-groups:
       - "[Hysteria2] → @Hddify"
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #3"
-      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #4"
-      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
+      - "[Hysteria2] @V2rayBaaz"
       - "[Hysteria2] Telegram:@config_proxy 😍 #5"
+      - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل..."
       - "[Hysteria2] Telegram:@config_proxy 😍 #6"
       - "[Hysteria2] Telegram:@config_proxy 😍 #7"
       - "[Hysteria2] Telegram:@config_proxy 😍 #8"
@@ -1486,9 +1470,10 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] Telegram:@config_proxy 😍 #12"
       - "[Hysteria2] @V2rayNG3 #3"
+      - "[Hysteria2] @meli_proxyy #2"
       - "[Hysteria2] Telegram:@config_proxy 😍 #13"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] @Daily_Configs #1"
+      - "[Hysteria2] @Daily_Configs #3"
       - "[Hysteria2] → @Hddify #1"
       - "[Hysteria2] Telegram:@config_proxy 😍 #14"
       - "[Hysteria2] @V2rayNG3 #4"
@@ -1501,24 +1486,21 @@ proxy-groups:
       - "[Hysteria2] +@Azarakhsh_Proxy+🩷"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #2"
-      - "[Hysteria2] @Daily_Configs #5"
+      - "[Hysteria2] @Daily_Configs #4"
+      - "[Hysteria2] @Daily_Configs #7"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
       - "[Hysteria2] @FreakConfig #1 2"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #8"
       - "[Hysteria2] Telegram:@config_proxy 😍 #15"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] Telegram:@config_proxy 💦 #1"
       - "[Hysteria2] @V2rayNG3 #8"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #19"
-      - "[Hysteria2] @Daily_Configs #7"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #20"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #16"
+      - "[Hysteria2] @Daily_Configs #9"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #17"
       - "[Hysteria2] @V2rayNG3 #9"
-      - "[Hysteria2] Telegram:@config_proxy 😍 #21"
+      - "[Hysteria2] Telegram:@config_proxy 😍 #18"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -1562,9 +1544,9 @@ proxy-groups:
       - "[Vless] US_speednode_0024"
       - "[Vless] US_speednode_0025"
       - "[Vless] US_speednode_0026"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
