@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-02 20:48:35  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-03 02:09:04  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -24,7 +24,7 @@
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
 
-更多推荐：  <a href="https://clashgithub.com" target="_blank">免费clash节点</a>   <a href="https://github.com/free-nodes/v2rayfree" target="_blank">免费v2ray节点</a>   [性价比机场](https://xn--6nq44r2uh9rhj7f.org/) ![](https://tj.clashgithub.com/matomo.php?idsite=10&amp;rec=1)
+更多推荐：  <a href="https://clashgithub.com" target="_blank">免费clash节点</a>   <a href="https://github.com/free-nodes/v2rayfree" target="_blank">免费v2ray节点</a>   [性价比机场](https://xn--6nq44r2uh9rhj7f.org/) 
 
 
 ## 免费clash节点分享
