@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-09 08:53:44  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-09 13:18:52  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -41,7 +41,7 @@ proxies:
   - {name: "[Hysteria2] Channel id: @singbox1🇭🇰", server: 47.242.195.121, port: 12854, type: hysteria2, password: XK52yierGckONMJWbJnuskD3unI, auth: XK52yierGckONMJWbJnuskD3unI, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2", server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] Channel id: @singbox1🇯🇵", server: 45.11.1.62, port: 443, type: hysteria2, password: a59be66d-1e59-40ea-b378-ceecd80c3337, auth: a59be66d-1e59-40ea-b378-ceecd80c3337, sni: www.microsoft.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Selinc #1", server: 108.181.5.130, port: 63015, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: apple.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] 🇺🇸 ⚡@Takv2ray_org | US 🇺🇸²", server: 108.181.5.130, port: 63015, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: apple.com, skip-cert-verify: false}
   - {name: "[Hysteria2] ♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️2...", server: 208.87.243.187, port: 22222, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4", server: 51.159.111.32, port: 5355, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] Channel id: @ShadowProxy66🇩🇪", server: 91.98.79.239, port: 29111, type: hysteria2, password: f599eb06-508a-4e24-9d59-4c50bf0332b8, auth: f599eb06-508a-4e24-9d59-4c50bf0332b8, sni: plaza.ir, skip-cert-verify: false, obfs: salamander, obfs-password: zVwQtP96XEO8ylpQ}
@@ -57,7 +57,7 @@ proxies:
   - {name: "[Hysteria2] @HiByeVPNN👈⚡❤️‍🔥", server: hsels.huasuan666.top, port: 22160, type: hysteria2, password: 77b85b4f-8f73-495c-b919-a8fb386ca541, auth: 77b85b4f-8f73-495c-b919-a8fb386ca541, sni: hsels.huasuan666.top, skip-cert-verify: false}
   - {name: "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا...", server: 77.223.214.193, port: 31468, type: hysteria2, password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28, auth: 79c4fe11-9787-406b-bf94-c1c1dbf59e28, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] AZADIV2RAYY SW 🇸🇪", server: 70.34.215.221, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
-  - {name: "[Hysteria2] All-@IRAN_V2RAY1", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
+  - {name: "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
   - {name: "[Hysteria2] @Daily_Configs #4", server: hsxjp.huasuan666.top, port: 22154, type: hysteria2, password: 8b583292-c936-4723-a8c7-8adb8ecf5044, auth: 8b583292-c936-4723-a8c7-8adb8ecf5044, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #1", server: de.youyacloud.me, port: 443, type: hysteria2, password: 8da7bd17-70ab-472d-a925-cc827857dc35, auth: 8da7bd17-70ab-472d-a925-cc827857dc35, sni: de.youyacloud.me, skip-cert-verify: false, obfs: salamander, obfs-password: qBbeISsJ8AK48fZW}
   - {name: "[Hysteria2] @FreakConfig 3", server: hsyg.huasuan666.top, port: 22156, type: hysteria2, password: 934766f0-204c-42be-8cf7-9afc2a8b5eaf, auth: 934766f0-204c-42be-8cf7-9afc2a8b5eaf, sni: hsyg.huasuan666.top, skip-cert-verify: false}
@@ -71,9 +71,9 @@ proxies:
   - {name: "[Hysteria2] @FreakConfig 4", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
   - {name: "[Hysteria2] @Change_IP1-HYS #3", server: 147.45.154.150, port: 443, type: hysteria2, password: UiIoI79ktLVSpD8Fh6vTq5l5, auth: UiIoI79ktLVSpD8Fh6vTq5l5, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
   - {name: "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2", server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "[Hysteria2] کانال تلگرام : injastvpn@", server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] @V2RAYNG_1378", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
-  - {name: "[Hysteria2] کانال تلگرام : injastvpn@", server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] @vpnserverrr👈🏻", server: yue-ru.yuetoto.net, port: 21053, type: hysteria2, password: c9edf5cb-67ef-4440-8684-b3d301df6488, auth: c9edf5cb-67ef-4440-8684-b3d301df6488, sni: yue-ru.yuetoto.net, skip-cert-verify: false}
   - {name: "[Hysteria2] @Daily_Configs IPv4", server: 176.124.204.248, port: 443, type: hysteria2, password: channel_dailyconfigs, auth: channel_dailyconfigs, sni: ubuntu com, skip-cert-verify: false, obfs: salamander, obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN}
   - {name: "[Hysteria2] @Daily_Configs IPv4 #1", server: 176.124.204.248, port: 443, type: hysteria2, password: daily_configs, auth: daily_configs, sni: ubuntu com, skip-cert-verify: false, obfs: salamander, obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN}
@@ -81,6 +81,7 @@ proxies:
   - {name: "[Hysteria2] @Daily_Configs <-- کانال تلگرا...", server: 176.124.204.248, port: 443, type: hysteria2, password: dailyconfigs, auth: dailyconfigs, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN}
   - {name: "[Hysteria2] @FreakConfig #3", server: 176.124.204.248, port: 443, type: hysteria2, password: dailyconfigs, auth: dailyconfigs, sni: ubuntu com, skip-cert-verify: false, obfs: salamander, obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN}
   - {name: "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #2", server: 176.124.204.248, port: 443, type: hysteria2, password: joindailyconfigs, auth: joindailyconfigs, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: 5zcstyddEr2HrwDFUGsF87IdN4eokPcN}
+  - {name: "[Hysteria2] @Daily_Configs (•ˋ _ ˊ•)", server: 95.181.174.31, port: 443, type: hysteria2, password: joindailyconfigs, auth: joindailyconfigs, sni: slack.com, skip-cert-verify: false, obfs: salamander, obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs}
   - {name: "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2", server: android.yas-nowin.ir, port: 443, type: hysteria2, password: n9OgQprayM, auth: n9OgQprayM, sni: android.yas-nowin.ir, skip-cert-verify: false}
   - {name: "[Hysteria2] @Change_IP1-HYS #4", server: 147.45.154.150, port: 443, type: hysteria2, password: wieZ9G0FbEecGx2kXaZLchtt, auth: wieZ9G0FbEecGx2kXaZLchtt, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
   - {name: "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]", server: android.yas-nowin.ir, port: 443, type: hysteria2, password: xnChC7dKZ8, auth: xnChC7dKZ8, sni: android.yas-nowin.ir, skip-cert-verify: false}
@@ -90,7 +91,7 @@ proxies:
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian", server: 156.251.179.135, port: 443, type: ss, cipher: aes-256-gcm, password: 2b5fad3874e5}
   - {name: "[VMess] 🇭🇰 香港3|@ripaojiedian", server: hkt.gotochinatown.net, port: 80, type: vmess, uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hkt.gotochinatown.net}}}
   - {name: "[Trojan] 🇭🇰 香港4|@ripaojiedian", server: 218.103.249.91, port: 443, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: false}
-  - {name: "[SS] 🇭🇰 香港5|@ripaojiedian", server: 18.162.224.234, port: 16888, type: ss, cipher: aes-256-gcm, password: amazongreatvpn}
+  - {name: "[SS] 🇭🇰 香港5|@ripaojiedian", server: 18.163.165.61, port: 16888, type: ss, cipher: aes-256-gcm, password: amazongreatvpn}
   - {name: "[Trojan] 🇭🇰 香港6|@ripaojiedian", server: 43.198.184.150, port: 2282, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: fe2.update.microsoft.com, skip-cert-verify: false}
   - {name: "[SS] 🇨🇳 台湾|@ripaojiedian", server: 114.35.114.182, port: 10129, type: ss, cipher: chacha20-ietf-poly1305, password: e6187cf8-7003-47e2-967b-7b900b132ddb}
   - {name: "[SS] 🇨🇳 台湾2|@ripaojiedian", server: 111.253.205.251, port: 10147, type: ss, cipher: chacha20-ietf-poly1305, password: 8fc95eb8-83b4-47af-ae17-d7639dd0fd2c}
@@ -99,7 +100,7 @@ proxies:
   - {name: "[SS] 🇯🇵 日本2|@ripaojiedian", server: 137.220.142.150, port: 443, type: ss, cipher: aes-256-gcm, password: 8a6ca14c0936}
   - {name: "[Trojan] 🇯🇵 日本3|@ripaojiedian", server: xingxing.jiasu123.org, port: 316, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: false}
   - {name: "[Trojan] 🇯🇵 日本4|@ripaojiedian", server: 36.156.102.77, port: 1924, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: false}
-  - {name: "[SS] 🇯🇵 日本5|@ripaojiedian", server: 57.183.2.72, port: 16888, type: ss, cipher: aes-256-gcm, password: amazongreatvpn}
+  - {name: "[SS] 🇯🇵 日本5|@ripaojiedian", server: 3.115.20.29, port: 16888, type: ss, cipher: aes-256-gcm, password: amazongreatvpn}
   - {name: "[Trojan] 🇸🇬 新加坡|@ripaojiedian", server: xingxing.jiasu123.org, port: 3957, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: false}
   - {name: "[Trojan] 🇸🇬 新加坡2|@ripaojiedian", server: 36.156.102.77, port: 9160, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: 23.45.86.28, skip-cert-verify: false}
   - {name: "[VMess] 🇸🇬 新加坡3|@ripaojiedian", server: v39.heduian.link, port: 30839, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}}
@@ -179,10 +180,10 @@ proxies:
   - {name: "[Trojan] US_speednode_0073", server: 185.148.104.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /Telegram🇨🇳, headers: {Host: ocost-dy.wmlefl.cc}}}
   - {name: "[Trojan] US_speednode_0074", server: 199.34.230.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /Telegram🇨🇳, headers: {Host: ocost-dy.wmlefl.cc}}}
   - {name: "[Trojan] US_speednode_0075", server: 192.0.63.195, port: 2096, type: trojan, password: slch2024, sni: ocost-dy.wmlefl.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /Telegram🇨🇳, headers: {Host: ocost-dy.wmlefl.cc}}}
-  - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 156.251.179.135, port: 443, type: ss, cipher: aes-256-gcm, password: 2b5fad3874e5, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk6v1.dsjsapp.com, path: /aqwshiog, tls: true, mux: true, skip-cert-verify: false}}
-  - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509031722041-NTzL1f4K0s.download.microsoft.com}}
   - {name: "[SS] 🇯🇵 日本2|@ripaojiedian 2", server: 137.220.142.150, port: 443, type: ss, cipher: aes-256-gcm, password: 8a6ca14c0936, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: jpxw9v1.dashengjs.net, path: /wrdfiatyd, tls: true, mux: false, skip-cert-verify: false}}
+  - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509031722041-NTzL1f4K0s.download.microsoft.com}}
   - {name: "[SS] 🇺🇸 美国2|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8774, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509031722041-NTzL1f4K0s.download.microsoft.com}}
+  - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 156.251.179.135, port: 443, type: ss, cipher: aes-256-gcm, password: 2b5fad3874e5, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: hk6v1.dsjsapp.com, path: /aqwshiog, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -194,7 +195,7 @@ proxy-groups:
       - "[Hysteria2] Channel id: @singbox1🇭🇰"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
       - "[Hysteria2] Channel id: @singbox1🇯🇵"
-      - "[Hysteria2] @Selinc #1"
+      - "[Hysteria2] 🇺🇸 ⚡@Takv2ray_org | US 🇺🇸²"
       - "[Hysteria2] ♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️2..."
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -210,7 +211,7 @@ proxy-groups:
       - "[Hysteria2] @HiByeVPNN👈⚡❤️‍🔥"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
-      - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
@@ -224,9 +225,9 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
+      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @V2RAYNG_1378"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @vpnserverrr👈🏻"
       - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs IPv4 #1"
@@ -234,6 +235,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا..."
       - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #2"
+      - "[Hysteria2] @Daily_Configs (•ˋ _ ˊ•)"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -332,10 +334,10 @@ proxy-groups:
       - "[Trojan] US_speednode_0073"
       - "[Trojan] US_speednode_0074"
       - "[Trojan] US_speednode_0075"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -346,7 +348,7 @@ proxy-groups:
       - "[Hysteria2] Channel id: @singbox1🇭🇰"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
       - "[Hysteria2] Channel id: @singbox1🇯🇵"
-      - "[Hysteria2] @Selinc #1"
+      - "[Hysteria2] 🇺🇸 ⚡@Takv2ray_org | US 🇺🇸²"
       - "[Hysteria2] ♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️2..."
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -362,7 +364,7 @@ proxy-groups:
       - "[Hysteria2] @HiByeVPNN👈⚡❤️‍🔥"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
-      - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
@@ -376,9 +378,9 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
+      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @V2RAYNG_1378"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @vpnserverrr👈🏻"
       - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs IPv4 #1"
@@ -386,6 +388,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا..."
       - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #2"
+      - "[Hysteria2] @Daily_Configs (•ˋ _ ˊ•)"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -484,10 +487,10 @@ proxy-groups:
       - "[Trojan] US_speednode_0073"
       - "[Trojan] US_speednode_0074"
       - "[Trojan] US_speednode_0075"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -499,7 +502,7 @@ proxy-groups:
       - "[Hysteria2] Channel id: @singbox1🇭🇰"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
       - "[Hysteria2] Channel id: @singbox1🇯🇵"
-      - "[Hysteria2] @Selinc #1"
+      - "[Hysteria2] 🇺🇸 ⚡@Takv2ray_org | US 🇺🇸²"
       - "[Hysteria2] ♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️2..."
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -515,7 +518,7 @@ proxy-groups:
       - "[Hysteria2] @HiByeVPNN👈⚡❤️‍🔥"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
-      - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
@@ -529,9 +532,9 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
+      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @V2RAYNG_1378"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @vpnserverrr👈🏻"
       - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs IPv4 #1"
@@ -539,6 +542,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا..."
       - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #2"
+      - "[Hysteria2] @Daily_Configs (•ˋ _ ˊ•)"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -637,10 +641,10 @@ proxy-groups:
       - "[Trojan] US_speednode_0073"
       - "[Trojan] US_speednode_0074"
       - "[Trojan] US_speednode_0075"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -664,7 +668,7 @@ proxy-groups:
       - "[Hysteria2] Channel id: @singbox1🇭🇰"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
       - "[Hysteria2] Channel id: @singbox1🇯🇵"
-      - "[Hysteria2] @Selinc #1"
+      - "[Hysteria2] 🇺🇸 ⚡@Takv2ray_org | US 🇺🇸²"
       - "[Hysteria2] ♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️2..."
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -680,7 +684,7 @@ proxy-groups:
       - "[Hysteria2] @HiByeVPNN👈⚡❤️‍🔥"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
-      - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
@@ -694,9 +698,9 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
+      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @V2RAYNG_1378"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @vpnserverrr👈🏻"
       - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs IPv4 #1"
@@ -704,6 +708,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا..."
       - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #2"
+      - "[Hysteria2] @Daily_Configs (•ˋ _ ˊ•)"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -802,10 +807,10 @@ proxy-groups:
       - "[Trojan] US_speednode_0073"
       - "[Trojan] US_speednode_0074"
       - "[Trojan] US_speednode_0075"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -835,7 +840,7 @@ proxy-groups:
       - "[Hysteria2] Channel id: @singbox1🇭🇰"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
       - "[Hysteria2] Channel id: @singbox1🇯🇵"
-      - "[Hysteria2] @Selinc #1"
+      - "[Hysteria2] 🇺🇸 ⚡@Takv2ray_org | US 🇺🇸²"
       - "[Hysteria2] ♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️2..."
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -851,7 +856,7 @@ proxy-groups:
       - "[Hysteria2] @HiByeVPNN👈⚡❤️‍🔥"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
-      - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
@@ -865,9 +870,9 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
+      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @V2RAYNG_1378"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @vpnserverrr👈🏻"
       - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs IPv4 #1"
@@ -875,6 +880,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا..."
       - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #2"
+      - "[Hysteria2] @Daily_Configs (•ˋ _ ˊ•)"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -973,10 +979,10 @@ proxy-groups:
       - "[Trojan] US_speednode_0073"
       - "[Trojan] US_speednode_0074"
       - "[Trojan] US_speednode_0075"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -987,7 +993,7 @@ proxy-groups:
       - "[Hysteria2] Channel id: @singbox1🇭🇰"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
       - "[Hysteria2] Channel id: @singbox1🇯🇵"
-      - "[Hysteria2] @Selinc #1"
+      - "[Hysteria2] 🇺🇸 ⚡@Takv2ray_org | US 🇺🇸²"
       - "[Hysteria2] ♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️2..."
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -1003,7 +1009,7 @@ proxy-groups:
       - "[Hysteria2] @HiByeVPNN👈⚡❤️‍🔥"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
-      - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
@@ -1017,9 +1023,9 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
+      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @V2RAYNG_1378"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @vpnserverrr👈🏻"
       - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs IPv4 #1"
@@ -1027,6 +1033,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا..."
       - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #2"
+      - "[Hysteria2] @Daily_Configs (•ˋ _ ˊ•)"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -1125,10 +1132,10 @@ proxy-groups:
       - "[Trojan] US_speednode_0073"
       - "[Trojan] US_speednode_0074"
       - "[Trojan] US_speednode_0075"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1140,7 +1147,7 @@ proxy-groups:
       - "[Hysteria2] Channel id: @singbox1🇭🇰"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
       - "[Hysteria2] Channel id: @singbox1🇯🇵"
-      - "[Hysteria2] @Selinc #1"
+      - "[Hysteria2] 🇺🇸 ⚡@Takv2ray_org | US 🇺🇸²"
       - "[Hysteria2] ♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️2..."
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -1156,7 +1163,7 @@ proxy-groups:
       - "[Hysteria2] @HiByeVPNN👈⚡❤️‍🔥"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
-      - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
@@ -1170,9 +1177,9 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
+      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @V2RAYNG_1378"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @vpnserverrr👈🏻"
       - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs IPv4 #1"
@@ -1180,6 +1187,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا..."
       - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #2"
+      - "[Hysteria2] @Daily_Configs (•ˋ _ ˊ•)"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -1278,10 +1286,10 @@ proxy-groups:
       - "[Trojan] US_speednode_0073"
       - "[Trojan] US_speednode_0074"
       - "[Trojan] US_speednode_0075"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1302,7 +1310,7 @@ proxy-groups:
       - "[Hysteria2] Channel id: @singbox1🇭🇰"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #2"
       - "[Hysteria2] Channel id: @singbox1🇯🇵"
-      - "[Hysteria2] @Selinc #1"
+      - "[Hysteria2] 🇺🇸 ⚡@Takv2ray_org | US 🇺🇸²"
       - "[Hysteria2] ♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️2..."
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #4"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -1318,7 +1326,7 @@ proxy-groups:
       - "[Hysteria2] @HiByeVPNN👈⚡❤️‍🔥"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
-      - "[Hysteria2] All-@IRAN_V2RAY1"
+      - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
       - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
@@ -1332,9 +1340,9 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
+      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @V2RAYNG_1378"
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا... #1"
-      - "[Hysteria2] کانال تلگرام : injastvpn@"
       - "[Hysteria2] @vpnserverrr👈🏻"
       - "[Hysteria2] @Daily_Configs IPv4"
       - "[Hysteria2] @Daily_Configs IPv4 #1"
@@ -1342,6 +1350,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا..."
       - "[Hysteria2] @FreakConfig #3"
       - "[Hysteria2] @Daily_Configs <-- کانال تلگرا... #2"
+      - "[Hysteria2] @Daily_Configs (•ˋ _ ˊ•)"
       - "[Hysteria2] 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2"
       - "[Hysteria2] @Change_IP1-HYS #4"
       - "[Hysteria2] @SaghiVpnXBOT 🇩🇪[🇩🇪]"
@@ -1440,10 +1449,10 @@ proxy-groups:
       - "[Trojan] US_speednode_0073"
       - "[Trojan] US_speednode_0074"
       - "[Trojan] US_speednode_0075"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本2|@ripaojiedian 2"
+      - "[SS] 🇯🇵 日本|@ripaojiedian 2"
       - "[SS] 🇺🇸 美国2|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
