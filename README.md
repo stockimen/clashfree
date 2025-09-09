@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-09 13:18:52  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-09 16:53:25  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -58,7 +58,6 @@ proxies:
   - {name: "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا...", server: 77.223.214.193, port: 31468, type: hysteria2, password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28, auth: 79c4fe11-9787-406b-bf94-c1c1dbf59e28, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] AZADIV2RAYY SW 🇸🇪", server: 70.34.215.221, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
   - {name: "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²", server: drhystuichdfy.samanidempire.org, port: 20335, type: hysteria2, password: 80747420-96c4-4a2f-83e6-eea4e46beb09, auth: 80747420-96c4-4a2f-83e6-eea4e46beb09, sni: drhystuichdfy.samanidempire.org, skip-cert-verify: false, obfs: salamander, obfs-password: U1wBrYQyFm}
-  - {name: "[Hysteria2] @Daily_Configs #4", server: hsxjp.huasuan666.top, port: 22154, type: hysteria2, password: 8b583292-c936-4723-a8c7-8adb8ecf5044, auth: 8b583292-c936-4723-a8c7-8adb8ecf5044, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@IRAN_V2RAY1 #1", server: de.youyacloud.me, port: 443, type: hysteria2, password: 8da7bd17-70ab-472d-a925-cc827857dc35, auth: 8da7bd17-70ab-472d-a925-cc827857dc35, sni: de.youyacloud.me, skip-cert-verify: false, obfs: salamander, obfs-password: qBbeISsJ8AK48fZW}
   - {name: "[Hysteria2] @FreakConfig 3", server: hsyg.huasuan666.top, port: 22156, type: hysteria2, password: 934766f0-204c-42be-8cf7-9afc2a8b5eaf, auth: 934766f0-204c-42be-8cf7-9afc2a8b5eaf, sni: hsyg.huasuan666.top, skip-cert-verify: false}
   - {name: "[Hysteria2] → @Hddify #1", server: 185.126.255.78, port: 43429, type: hysteria2, password: 942b9cb8-92fa-46ac-ae91-f69c8234434b, auth: 942b9cb8-92fa-46ac-ae91-f69c8234434b, sni: real.getafreenode.sbs, skip-cert-verify: false}
@@ -66,8 +65,7 @@ proxies:
   - {name: "[Hysteria2] @Change_IP1-HYS", server: 147.45.154.150, port: 443, type: hysteria2, password: JLsEBzvWlyyTmM7yND0jXjQg, auth: JLsEBzvWlyyTmM7yND0jXjQg, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
   - {name: "[Hysteria2] @Change_IP1-HYS #1", server: 147.45.154.150, port: 443, type: hysteria2, password: M4DUOPrnAJhCXCBGoTA2xLDA, auth: M4DUOPrnAJhCXCBGoTA2xLDA, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
   - {name: "[Hysteria2] @Change_IP1-HYS #2", server: 147.45.154.150, port: 443, type: hysteria2, password: MomB5gcusrDl2k67OfsTUEJK, auth: MomB5gcusrDl2k67OfsTUEJK, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
-  - {name: "[Hysteria2] @Daily_Configs #5", server: 47.239.220.214, port: 2428, type: hysteria2, password: NjEkAYYNqFKUbrksyW1COBtdpU, auth: NjEkAYYNqFKUbrksyW1COBtdpU, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs #6", server: 47.236.104.81, port: 30308, type: hysteria2, password: RzQrEkAmnGs86IhmSVUk9Q5cn9M, auth: RzQrEkAmnGs86IhmSVUk9Q5cn9M, sni: bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @Daily_Configs #4", server: 47.236.104.81, port: 30308, type: hysteria2, password: RzQrEkAmnGs86IhmSVUk9Q5cn9M, auth: RzQrEkAmnGs86IhmSVUk9Q5cn9M, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig 4", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
   - {name: "[Hysteria2] @Change_IP1-HYS #3", server: 147.45.154.150, port: 443, type: hysteria2, password: UiIoI79ktLVSpD8Fh6vTq5l5, auth: UiIoI79ktLVSpD8Fh6vTq5l5, sni: anymath.ir, skip-cert-verify: false, alpn: [h3], obfs: salamander, obfs-password: 6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q}
   - {name: "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2", server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
@@ -212,7 +210,6 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
       - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
-      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] → @Hddify #1"
@@ -220,8 +217,7 @@ proxy-groups:
       - "[Hysteria2] @Change_IP1-HYS"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #5"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
@@ -365,7 +361,6 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
       - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
-      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] → @Hddify #1"
@@ -373,8 +368,7 @@ proxy-groups:
       - "[Hysteria2] @Change_IP1-HYS"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #5"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
@@ -519,7 +513,6 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
       - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
-      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] → @Hddify #1"
@@ -527,8 +520,7 @@ proxy-groups:
       - "[Hysteria2] @Change_IP1-HYS"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #5"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
@@ -685,7 +677,6 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
       - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
-      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] → @Hddify #1"
@@ -693,8 +684,7 @@ proxy-groups:
       - "[Hysteria2] @Change_IP1-HYS"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #5"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
@@ -857,7 +847,6 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
       - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
-      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] → @Hddify #1"
@@ -865,8 +854,7 @@ proxy-groups:
       - "[Hysteria2] @Change_IP1-HYS"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #5"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
@@ -1010,7 +998,6 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
       - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
-      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] → @Hddify #1"
@@ -1018,8 +1005,7 @@ proxy-groups:
       - "[Hysteria2] @Change_IP1-HYS"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #5"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
@@ -1164,7 +1150,6 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
       - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
-      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] → @Hddify #1"
@@ -1172,8 +1157,7 @@ proxy-groups:
       - "[Hysteria2] @Change_IP1-HYS"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #5"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
@@ -1327,7 +1311,6 @@ proxy-groups:
       - "[Hysteria2] کانفیگ های بیشتر در چنل تلگرا..."
       - "[Hysteria2] AZADIV2RAYY SW 🇸🇪"
       - "[Hysteria2] ⚡@Takv2ray_org | SE 🇸🇪²"
-      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] All-@IRAN_V2RAY1 #1"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] → @Hddify #1"
@@ -1335,8 +1318,7 @@ proxy-groups:
       - "[Hysteria2] @Change_IP1-HYS"
       - "[Hysteria2] @Change_IP1-HYS #1"
       - "[Hysteria2] @Change_IP1-HYS #2"
-      - "[Hysteria2] @Daily_Configs #5"
-      - "[Hysteria2] @Daily_Configs #6"
+      - "[Hysteria2] @Daily_Configs #4"
       - "[Hysteria2] @FreakConfig 4"
       - "[Hysteria2] @Change_IP1-HYS #3"
       - "[Hysteria2] ☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #2"
