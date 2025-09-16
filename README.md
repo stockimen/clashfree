@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-16 04:48:34  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-16 08:34:58  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -8,6 +8,18 @@
 ## clash订阅链接：
 
 <a href="https://github.com/free-nodes/clashfree/blob/main/clash.yml" target="_blank">点击下载</a>
+
+### 公益机场推荐【 [ORYMI](https://120555.xyz/#/register?code=rDsEp8Hf) 】
+
+免费套餐详情：
+
+- 套餐流量：20 GB
+- 优质隧道专线
+- 全平台客户端支持
+- 订单日重置流量
+- 解锁流媒体及ChatGPT
+
+网站注册地址：【 [ORYMI（点击注册）](https://120555.xyz/#/register?code=rDsEp8Hf)】
 
 ### 高速机场推荐1【[飞鸟加速](https://www.112112789.xyz/?path=register&code=DmrHrGck)】
 
@@ -24,7 +36,7 @@
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
 
-更多推荐：  <a href="https://clashgithub.com" target="_blank">免费clash节点</a>   <a href="https://github.com/free-nodes/v2rayfree" target="_blank">免费v2ray节点</a>   [性价比机场](https://xn--6nq44r2uh9rhj7f.org/) 
+更多推荐：  <a href="https://clashgithub.com" target="_blank">免费clash节点</a>   <a href="https://github.com/free-nodes/v2rayfree" target="_blank">免费v2ray节点</a>   [clash](https://github.com/clashbk/clash)
 
 
 ## 免费clash节点分享
