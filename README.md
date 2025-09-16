@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-16 08:53:42  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-16 08:55:07  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -34,8 +34,6 @@
 网站注册地址：【[飞鸟加速（点击注册](https://www.112112789.xyz/?path=register&code=DmrHrGck)）】
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-更多推荐：  [clash](https://github.com/clashbk/clash)  <a href="https://clashgithub.com" target="_blank">免费clash节点</a>   <a href="https://github.com/free-nodes/v2rayfree" target="_blank">免费v2ray节点</a> 
 
 ## 免费clash节点分享  <a href="https://github.com/free-nodes/clashfree/blob/main/clash.yml" target="_blank">点击下载</a>
 ```  
@@ -10894,4 +10892,4 @@ rules:
   - MATCH,🐟 漏网之鱼
 
 ```
-
+更多推荐：  [clash](https://github.com/clashbk/clash)  <a href="https://clashgithub.com" target="_blank">免费clash节点</a>   <a href="https://github.com/free-nodes/v2rayfree" target="_blank">免费v2ray节点</a> 
