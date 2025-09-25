@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-25 08:54:08  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-25 12:09:50  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -8,21 +8,19 @@
 ## clash订阅链接：
 见文章末尾
 
-## 公益机场推荐【 [ORYMI](https://panel.orymi.space/#/register?code=rDsEp8Hf) 】
+## 高速机场推荐1:【 ORYMI 】
 
-免费套餐详情：
-
-- 套餐流量：20 GB
 - 优质隧道专线
+- 无设备数量限制
 - 全平台客户端支持
-- 订单日重置流量
-- 解锁流媒体及ChatGPT
+- Netflix 劫持节点，免登录观看奈飞
+- GPT专属线路支持，保障ChatGPT等AI服务高可用
 
 网站注册地址：【 [ORYMI（点击注册）](https://panel.orymi.space/#/register?code=rDsEp8Hf)】
 
-## 高速机场推荐1【[飞鸟加速](https://www.112112789.xyz/?path=register&code=DmrHrGck)】
+## 高速机场推荐2：【星链加速】
 
-? 飞鸟加速 · 高速·稳定·无限可能
+星链加速 · 高速·稳定·无限可能
 
 1. 多地专线高速节点，极速跨境体验，告别卡顿与延迟！
 2. 一键解锁Netflix、Disney+、TikTok等全球流媒体，尽享自由精彩！
@@ -31,7 +29,7 @@
 5. 自有机房专柜，全球多地接入，安全可靠！
 6. 专业客服团队7x24小时响应，使用无忧！
 
-网站注册地址：【[飞鸟加速（点击注册](https://www.112112789.xyz/?path=register&code=DmrHrGck)）】
+网站地址：【[星链加速](https://starlinkboost.com/#/register?code=9kfk8enH)】
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
 
