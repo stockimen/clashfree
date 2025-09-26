@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-26 13:14:46  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-26 16:51:51  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -42,7 +42,6 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "[Hysteria2] 🇺🇸 United States_Los Angeles_hy2_... #3", server: 104.168.10.176, port: 35205, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: apple.com, skip-cert-verify: false}
   - {name: "[Hysteria2] Channel id: @ShadowProxy66🇯🇵", server: 133.18.163.202, port: 443, type: hysteria2, password: fabd2b79-693a-4a37-827c-6d299e8813b1, auth: fabd2b79-693a-4a37-827c-6d299e8813b1, sni: www.microsoft.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig", server: 204.44.110.129, port: 51541, type: hysteria2, password: 20050105zhu, auth: 20050105zhu, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات...", server: android.yas-nowin.ir, port: 443, type: hysteria2, password: 3QlSMKyqLp, auth: 3QlSMKyqLp, sni: android.yas-nowin.ir, skip-cert-verify: false}
@@ -113,15 +112,14 @@ proxies:
   - {name: "[Vless] US_speednode_0039", server: 195.13.45.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
   - {name: "[Vless] US_speednode_0040", server: 160.79.105.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
   - {name: "[Vless] US_speednode_0041", server: 166.62.106.32, port: 2096, type: vless, uuid: b65f4df7-f6af-42b2-877a-cef33f21675e, tls: false, skip-cert-verify: false, servername: kejiland.freewarp.eu.org, network: ws, ws-opts: {path: /snippetssecurity=tls, headers: {Host: kejiland.freewarp.eu.org}}}
-  - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
   - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202509242154338-Zr8tJCX9sq.download.microsoft.com}}
+  - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Hysteria2] 🇺🇸 United States_Los Angeles_hy2_... #3"
       - "[Hysteria2] Channel id: @ShadowProxy66🇯🇵"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -192,14 +190,13 @@ proxy-groups:
       - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - "[Hysteria2] 🇺🇸 United States_Los Angeles_hy2_... #3"
       - "[Hysteria2] Channel id: @ShadowProxy66🇯🇵"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -270,15 +267,14 @@ proxy-groups:
       - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Hysteria2] 🇺🇸 United States_Los Angeles_hy2_... #3"
       - "[Hysteria2] Channel id: @ShadowProxy66🇯🇵"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -349,8 +345,8 @@ proxy-groups:
       - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -369,7 +365,6 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Hysteria2] 🇺🇸 United States_Los Angeles_hy2_... #3"
       - "[Hysteria2] Channel id: @ShadowProxy66🇯🇵"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -440,8 +435,8 @@ proxy-groups:
       - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -459,7 +454,6 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - "[Hysteria2] 🇺🇸 United States_Los Angeles_hy2_... #3"
       - "[Hysteria2] Channel id: @ShadowProxy66🇯🇵"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -530,14 +524,13 @@ proxy-groups:
       - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - "[Hysteria2] 🇺🇸 United States_Los Angeles_hy2_... #3"
       - "[Hysteria2] Channel id: @ShadowProxy66🇯🇵"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -608,15 +601,14 @@ proxy-groups:
       - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "[Hysteria2] 🇺🇸 United States_Los Angeles_hy2_... #3"
       - "[Hysteria2] Channel id: @ShadowProxy66🇯🇵"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -687,8 +679,8 @@ proxy-groups:
       - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -704,7 +696,6 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "[Hysteria2] 🇺🇸 United States_Los Angeles_hy2_... #3"
       - "[Hysteria2] Channel id: @ShadowProxy66🇯🇵"
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -775,8 +766,8 @@ proxy-groups:
       - "[Vless] US_speednode_0039"
       - "[Vless] US_speednode_0040"
       - "[Vless] US_speednode_0041"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
