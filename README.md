@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-30 04:49:44  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-09-30 13:16:58  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -113,10 +113,8 @@ proxies:
   - {name: "[VMess] 🇰🇷 韩国2|@ripaojiedian 2", server: 210.109.205.158, port: 55879, type: vmess, uuid: 7cc8bff2-1e5c-45d1-a3e7-b35e8f25cbbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "[VMess] 🇺🇸 美国3|@ripaojiedian 2", server: 23.236.68.161, port: 57518, type: vmess, uuid: e47902b2-928b-41ec-a868-ed3d1d4bec76, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "[SS] 🇻🇳 越南|@ripaojiedian 2", server: 103.186.154.42, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW}
-  - {name: "[Vless] JP_speednode_0053", server: 141.11.138.192, port: 36003, type: vless, uuid: 6a08090f-4e15-49c8-c442-b9c4ab26d196, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: "[Vless] JP_speednode_0054", server: 103.93.76.157, port: 28008, type: vless, uuid: ba11eedf-b03f-452e-b7cb-b1bf92c82b49, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
   - {name: "[SS] 🇯🇵 日本|@ripaojiedian 2", server: jp07.jd.kunlunpx.com, port: 45572, type: ss, cipher: aes-128-gcm, password: 722a54414ae6ee706ac9, plugin: obfs, plugin-opts: {mode: http, host: 215996dd9f1c3db1e54b.microsoft.com}}
+  - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -192,10 +190,8 @@ proxy-groups:
       - "[VMess] 🇰🇷 韩国2|@ripaojiedian 2"
       - "[VMess] 🇺🇸 美国3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] JP_speednode_0053"
-      - "[Vless] JP_speednode_0054"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -270,10 +266,8 @@ proxy-groups:
       - "[VMess] 🇰🇷 韩国2|@ripaojiedian 2"
       - "[VMess] 🇺🇸 美国3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] JP_speednode_0053"
-      - "[Vless] JP_speednode_0054"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -349,10 +343,8 @@ proxy-groups:
       - "[VMess] 🇰🇷 韩国2|@ripaojiedian 2"
       - "[VMess] 🇺🇸 美国3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] JP_speednode_0053"
-      - "[Vless] JP_speednode_0054"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -440,10 +432,8 @@ proxy-groups:
       - "[VMess] 🇰🇷 韩国2|@ripaojiedian 2"
       - "[VMess] 🇺🇸 美国3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] JP_speednode_0053"
-      - "[Vless] JP_speednode_0054"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -530,10 +520,8 @@ proxy-groups:
       - "[VMess] 🇰🇷 韩国2|@ripaojiedian 2"
       - "[VMess] 🇺🇸 美国3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] JP_speednode_0053"
-      - "[Vless] JP_speednode_0054"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -608,10 +596,8 @@ proxy-groups:
       - "[VMess] 🇰🇷 韩国2|@ripaojiedian 2"
       - "[VMess] 🇺🇸 美国3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] JP_speednode_0053"
-      - "[Vless] JP_speednode_0054"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -687,10 +673,8 @@ proxy-groups:
       - "[VMess] 🇰🇷 韩国2|@ripaojiedian 2"
       - "[VMess] 🇺🇸 美国3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] JP_speednode_0053"
-      - "[Vless] JP_speednode_0054"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -775,10 +759,8 @@ proxy-groups:
       - "[VMess] 🇰🇷 韩国2|@ripaojiedian 2"
       - "[VMess] 🇺🇸 美国3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] JP_speednode_0053"
-      - "[Vless] JP_speednode_0054"
-      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - "[SS] 🇯🇵 日本|@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
