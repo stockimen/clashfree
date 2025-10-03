@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-03 04:48:43  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-03 13:05:47  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -52,7 +52,6 @@ proxies:
   - {name: "[Hysteria2] @freenettir #4", server: 185.126.255.78, port: 50440, type: hysteria2, password: 23125f6e-ec56-4c26-9714-0bbacdb53d01, auth: 23125f6e-ec56-4c26-9714-0bbacdb53d01, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] @freenettir #5", server: 40.233.82.111, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, skip-cert-verify: false}
   - {name: "[Hysteria2] @freenettir #6", server: 40.233.82.111, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, sni: www.bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] 未命名", server: 40.233.82.111, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, sni: www.bing.com@V2rayNGVPN <= کانفیگ رایگان, skip-cert-verify: false}
   - {name: "[Hysteria2] @freenettir #7", server: 185.126.255.78, port: 50440, type: hysteria2, password: 29fbd51f-03c8-4d76-849a-436e54d58317, auth: 29fbd51f-03c8-4d76-849a-436e54d58317, sni: real.getafreenode.sbs, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig #1", server: 5.231.70.79, port: 443, type: hysteria2, password: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, auth: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات...", server: android.yas-nowin.ir, port: 443, type: hysteria2, password: 3QlSMKyqLp, auth: 3QlSMKyqLp, sni: android.yas-nowin.ir, skip-cert-verify: false}
@@ -129,16 +128,7 @@ proxies:
   - {name: "[VMess] 🇭🇰 香港3|@ripaojiedian 2", server: 103.224.80.49, port: 12114, type: vmess, uuid: aa92855a-9932-4e87-b5c2-4aed159c7c78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "[SS] 🇻🇳 越南|@ripaojiedian 2", server: 103.186.154.198, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW}
   - {name: "[Trojan] CN_speednode_0006", server: 106.75.134.1, port: 12000, type: trojan, password: 2fd0d127-266d-4d0b-b453-f94659a132fc, sni: aliyun.com, skip-cert-verify: false}
-  - {name: "[Vless] RU_speednode_0025", server: 5.182.85.54, port: 2096, type: vless, uuid: 12345678-1234-1234-1234-123456789123, tls: true, skip-cert-verify: false, servername: sni.aizrf.com, network: ws, ws-opts: {path: /snippetsfp=chrome, headers: {Host: sni.aizrf.com}}}
-  - {name: "[Vless] US_speednode_0027", server: 162.159.43.92, port: 443, type: vless, uuid: 0c0537c3-f0fb-40e6-bd59-f5038e1855ed, tls: false, skip-cert-verify: false, servername: juzi.634676.xyz, network: ws, ws-opts: {path: "/?ed=2560security=tls", headers: {Host: juzi.634676.xyz}}}
-  - {name: "[Vless] US_speednode_0029", server: www.speedtest.net, port: 443, type: vless, uuid: 48caa578-241e-43eb-817f-0854b84b0fb0, tls: true, skip-cert-verify: false, servername: conFiG-VOrteX55-AR5.pagES.deV, network: ws, ws-opts: {path: "/edrlz7qvRheKjll8/MTQ0LjI0LjkwLjEwNw==?ed=2560fp=randomized", headers: {Host: conFiG-VOrteX55-AR5.pagES.deV}}}
-  - {name: "[Vless] US_speednode_0030", server: 104.21.48.1, port: 2053, type: vless, uuid: 3d4f244d-4860-4603-9546-184ee632083f, tls: true, alpn: [http/1.1], skip-cert-verify: false, servername: c6jH01dP783kNPD1yGxXwr4d0doe89O1.pAGEs.dEv, network: ws, ws-opts: {path: "/XJlWBmgB2NGaiV68?ed=2560fp=randomized", headers: {Host: c6jH01dP783kNPD1yGxXwr4d0doe89O1.pAGEs.dEv}}}
-  - {name: "[Vless] US_speednode_0031", server: 172.66.45.4, port: 2087, type: vless, uuid: 3e9d9ee2-ba23-4269-8340-c8c8ac1455cb, tls: true, alpn: [http/1.1], skip-cert-verify: false, servername: WeekNDJOoN.PAgES.DEv, network: ws, ws-opts: {path: "/Z0R9Nb1Hgd7OEULT?ed=2560fp=randomized", headers: {Host: WeekNDJOoN.PAgES.DEv}}}
-  - {name: "[Trojan] US_speednode_0032", server: nop-55q.pages.dev, port: 2053, type: trojan, password: T%40_WvT8Ho%40LW%25w_%2C, sni: NOp-55q.pAgEs.dEv, skip-cert-verify: false, network: ws, ws-opts: {path: "/trGPZDfetEwuO25SAs?ed=2560", headers: {Host: NOp-55q.pAgEs.dEv}}}
-  - {name: "[Vless] US_speednode_0033", server: wwwopensignalcom-goodspeed-8xx.pages.dev., port: 443, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: false, skip-cert-verify: false, servername: WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET, network: ws, ws-opts: {path: /security=tls, headers: {Host: WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET}}}
-  - {name: "[Vless] US_speednode_0034", server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 443, type: vless, uuid: 44e16031-bde2-407a-b629-ae4b84e7e49f, tls: true, alpn: [h2%2Chttp/1.1], skip-cert-verify: false, servername: smits.feronix.org, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: smits.feronix.org}}}
-  - {name: "[Vless] US_speednode_0036", server: mstr.fastly80.hosting-ip.com, port: 80, type: vless, uuid: d46fbe10-7982-4229-b461-4afef5c690fa, tls: false, skip-cert-verify: false, servername: gm195.io, network: ws, ws-opts: {path: /admin, headers: {Host: gm195.io}}}
-  - {name: "[Vless] ZA_speednode_0038", server: 102.132.188.54, port: 2096, type: vless, uuid: 12345678-1234-1234-1234-123456789123, tls: true, skip-cert-verify: false, servername: sni.aizrf.com, network: ws, ws-opts: {path: /snippetsfp=chrome, headers: {Host: sni.aizrf.com}}}
+  - {name: "[Vless] US_speednode_0025", server: 72.167.25.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /Telegramsecurity=tls, headers: {Host: gaosir.unfeeling.sbs}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🔰 节点选择
@@ -154,7 +144,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -231,16 +220,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
       - "[Trojan] CN_speednode_0006"
-      - "[Vless] RU_speednode_0025"
-      - "[Vless] US_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0030"
-      - "[Vless] US_speednode_0031"
-      - "[Trojan] US_speednode_0032"
-      - "[Vless] US_speednode_0033"
-      - "[Vless] US_speednode_0034"
-      - "[Vless] US_speednode_0036"
-      - "[Vless] ZA_speednode_0038"
+      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
@@ -255,7 +235,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -332,16 +311,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
       - "[Trojan] CN_speednode_0006"
-      - "[Vless] RU_speednode_0025"
-      - "[Vless] US_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0030"
-      - "[Vless] US_speednode_0031"
-      - "[Trojan] US_speednode_0032"
-      - "[Vless] US_speednode_0033"
-      - "[Vless] US_speednode_0034"
-      - "[Vless] US_speednode_0036"
-      - "[Vless] ZA_speednode_0038"
+      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
@@ -357,7 +327,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -434,16 +403,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
       - "[Trojan] CN_speednode_0006"
-      - "[Vless] RU_speednode_0025"
-      - "[Vless] US_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0030"
-      - "[Vless] US_speednode_0031"
-      - "[Trojan] US_speednode_0032"
-      - "[Vless] US_speednode_0033"
-      - "[Vless] US_speednode_0034"
-      - "[Vless] US_speednode_0036"
-      - "[Vless] ZA_speednode_0038"
+      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
@@ -471,7 +431,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -548,16 +507,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
       - "[Trojan] CN_speednode_0006"
-      - "[Vless] RU_speednode_0025"
-      - "[Vless] US_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0030"
-      - "[Vless] US_speednode_0031"
-      - "[Trojan] US_speednode_0032"
-      - "[Vless] US_speednode_0033"
-      - "[Vless] US_speednode_0034"
-      - "[Vless] US_speednode_0036"
-      - "[Vless] ZA_speednode_0038"
+      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
@@ -584,7 +534,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -661,16 +610,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
       - "[Trojan] CN_speednode_0006"
-      - "[Vless] RU_speednode_0025"
-      - "[Vless] US_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0030"
-      - "[Vless] US_speednode_0031"
-      - "[Trojan] US_speednode_0032"
-      - "[Vless] US_speednode_0033"
-      - "[Vless] US_speednode_0034"
-      - "[Vless] US_speednode_0036"
-      - "[Vless] ZA_speednode_0038"
+      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
@@ -685,7 +625,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -762,16 +701,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
       - "[Trojan] CN_speednode_0006"
-      - "[Vless] RU_speednode_0025"
-      - "[Vless] US_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0030"
-      - "[Vless] US_speednode_0031"
-      - "[Trojan] US_speednode_0032"
-      - "[Vless] US_speednode_0033"
-      - "[Vless] US_speednode_0034"
-      - "[Vless] US_speednode_0036"
-      - "[Vless] ZA_speednode_0038"
+      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
@@ -787,7 +717,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -864,16 +793,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
       - "[Trojan] CN_speednode_0006"
-      - "[Vless] RU_speednode_0025"
-      - "[Vless] US_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0030"
-      - "[Vless] US_speednode_0031"
-      - "[Trojan] US_speednode_0032"
-      - "[Vless] US_speednode_0033"
-      - "[Vless] US_speednode_0034"
-      - "[Vless] US_speednode_0036"
-      - "[Vless] ZA_speednode_0038"
+      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
@@ -898,7 +818,6 @@ proxy-groups:
       - "[Hysteria2] @freenettir #4"
       - "[Hysteria2] @freenettir #5"
       - "[Hysteria2] @freenettir #6"
-      - "[Hysteria2] 未命名"
       - "[Hysteria2] @freenettir #7"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @EXPRESSVPN_420 -> همه اپرات..."
@@ -975,16 +894,7 @@ proxy-groups:
       - "[VMess] 🇭🇰 香港3|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
       - "[Trojan] CN_speednode_0006"
-      - "[Vless] RU_speednode_0025"
-      - "[Vless] US_speednode_0027"
-      - "[Vless] US_speednode_0029"
-      - "[Vless] US_speednode_0030"
-      - "[Vless] US_speednode_0031"
-      - "[Trojan] US_speednode_0032"
-      - "[Vless] US_speednode_0033"
-      - "[Vless] US_speednode_0034"
-      - "[Vless] US_speednode_0036"
-      - "[Vless] ZA_speednode_0038"
+      - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
