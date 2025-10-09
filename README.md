@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-09 08:53:58  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-09 13:17:54  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -46,7 +46,6 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "[Hysteria2] Channel id: @ShadowProxy66🇬🇧", server: adas-polo-ba-mahi.kotlet.org, port: 2083, type: hysteria2, password: siEk2SjZFG, auth: siEk2SjZFG, sni: ghasem.kotlet.org, skip-cert-verify: false, obfs: salamander, obfs-password: ki(rtoko(s-maret-khamneii}
   - {name: "[Hysteria2] @sunflowerplato🌻", server: de1.jueduibupao.top, port: 43836, type: hysteria2, password: 1a8588b6-9700-4ff6-80e6-64e18f2e5336, auth: 1a8588b6-9700-4ff6-80e6-64e18f2e5336, sni: de1.jueduibupao.top, skip-cert-verify: false}
   - {name: "[Hysteria2] @IRAN_V2RAY1", server: 40.233.82.111, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @Daily_Configs", server: 5.231.70.79, port: 443, type: hysteria2, password: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, auth: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, sni: bing.com, skip-cert-verify: false}
@@ -153,7 +152,6 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Hysteria2] Channel id: @ShadowProxy66🇬🇧"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs"
@@ -259,7 +257,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - "[Hysteria2] Channel id: @ShadowProxy66🇬🇧"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs"
@@ -366,7 +363,6 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Hysteria2] Channel id: @ShadowProxy66🇬🇧"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs"
@@ -485,7 +481,6 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Hysteria2] Channel id: @ShadowProxy66🇬🇧"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs"
@@ -606,7 +601,6 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - "[Hysteria2] Channel id: @ShadowProxy66🇬🇧"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs"
@@ -712,7 +706,6 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - "[Hysteria2] Channel id: @ShadowProxy66🇬🇧"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs"
@@ -819,7 +812,6 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "[Hysteria2] Channel id: @ShadowProxy66🇬🇧"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs"
@@ -935,7 +927,6 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "[Hysteria2] Channel id: @ShadowProxy66🇬🇧"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @IRAN_V2RAY1"
       - "[Hysteria2] @Daily_Configs"
