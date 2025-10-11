@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-11 16:48:35  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-11 20:48:36  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -104,6 +104,7 @@ proxies:
   - {name: "[Hysteria2] @Daily_Configs #17", server: 103.249.133.79, port: 443, type: hysteria2, password: joindailyconfigschanel, auth: joindailyconfigschanel, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
   - {name: "[Hysteria2] @V2RayyNGvpn🇩🇪همه اوپراتور ه... #2", server: 91.107.150.208, port: 443, type: hysteria2, password: jovOmJbL2w, auth: jovOmJbL2w, sni: hacks.mozilla.org, skip-cert-verify: false, obfs: salamander, obfs-password: V2RayyNGvpnjdbdbMiracle}
   - {name: "[Hysteria2] @Daily_Configs #18", server: 45.58.38.153, port: 40112, type: hysteria2, password: miaoge110, auth: miaoge110, sni: www.bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @V2RayyNGvpn🇱🇷همه اوپراتور ه... #7", server: 138.124.60.198, port: 8443, type: hysteria2, password: oiU5QZYfP2, auth: oiU5QZYfP2, sni: cdnjs.cloudflare.com, skip-cert-verify: false, obfs: salamander, obfs-password: MiraCLeOPV2RayyNGvpntheBestt}
   - {name: "[Hysteria2] @Daily_Configs #19", server: 103.249.133.79, port: 443, type: hysteria2, password: zanzendegiazadi, auth: zanzendegiazadi, sni: ubuntu.com, skip-cert-verify: false}
   - {name: "[SS] tg频道:@ripaojiedian", server: 34.245.185.129, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "[VMess] 🇭🇰 香港|@ripaojiedian", server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}}
@@ -200,6 +201,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #17"
       - "[Hysteria2] @V2RayyNGvpn🇩🇪همه اوپراتور ه... #2"
       - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @V2RayyNGvpn🇱🇷همه اوپراتور ه... #7"
       - "[Hysteria2] @Daily_Configs #19"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
@@ -295,6 +297,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #17"
       - "[Hysteria2] @V2RayyNGvpn🇩🇪همه اوپراتور ه... #2"
       - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @V2RayyNGvpn🇱🇷همه اوپراتور ه... #7"
       - "[Hysteria2] @Daily_Configs #19"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
@@ -391,6 +394,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #17"
       - "[Hysteria2] @V2RayyNGvpn🇩🇪همه اوپراتور ه... #2"
       - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @V2RayyNGvpn🇱🇷همه اوپراتور ه... #7"
       - "[Hysteria2] @Daily_Configs #19"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
@@ -499,6 +503,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #17"
       - "[Hysteria2] @V2RayyNGvpn🇩🇪همه اوپراتور ه... #2"
       - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @V2RayyNGvpn🇱🇷همه اوپراتور ه... #7"
       - "[Hysteria2] @Daily_Configs #19"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
@@ -607,6 +612,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #17"
       - "[Hysteria2] @V2RayyNGvpn🇩🇪همه اوپراتور ه... #2"
       - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @V2RayyNGvpn🇱🇷همه اوپراتور ه... #7"
       - "[Hysteria2] @Daily_Configs #19"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
@@ -702,6 +708,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #17"
       - "[Hysteria2] @V2RayyNGvpn🇩🇪همه اوپراتور ه... #2"
       - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @V2RayyNGvpn🇱🇷همه اوپراتور ه... #7"
       - "[Hysteria2] @Daily_Configs #19"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
@@ -798,6 +805,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #17"
       - "[Hysteria2] @V2RayyNGvpn🇩🇪همه اوپراتور ه... #2"
       - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @V2RayyNGvpn🇱🇷همه اوپراتور ه... #7"
       - "[Hysteria2] @Daily_Configs #19"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
@@ -903,6 +911,7 @@ proxy-groups:
       - "[Hysteria2] @Daily_Configs #17"
       - "[Hysteria2] @V2RayyNGvpn🇩🇪همه اوپراتور ه... #2"
       - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @V2RayyNGvpn🇱🇷همه اوپراتور ه... #7"
       - "[Hysteria2] @Daily_Configs #19"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
