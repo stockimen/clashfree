@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-14 13:18:38  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-14 20:49:01  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -88,18 +88,15 @@ proxies:
   - {name: "[Hysteria2] @sunflowerplato🌻", server: qing-kz.mxtn.net, port: 443, type: hysteria2, password: c3054d61-c708-4594-9797-f50acd24de2a, auth: c3054d61-c708-4594-9797-f50acd24de2a, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig #1 3", server: 192.3.60.176, port: 41951, type: hysteria2, password: c6bccea3-2f03-4f3e-80f4-d6757f1f3f46, auth: c6bccea3-2f03-4f3e-80f4-d6757f1f3f46, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @AblNet7 🇨🇦 机场推荐", server: 150.230.28.100, port: 45979, type: hysteria2, password: cfe032e4-1bc3-454f-9d09-301b0aea08ff, auth: cfe032e4-1bc3-454f-9d09-301b0aea08ff, sni: www.bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs #13", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, auth: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
-  - {name: "[Hysteria2] @Daily_Configs #14", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_, auth: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
-  - {name: "[Hysteria2] @Daily_Configs #15", server: 103.249.133.79, port: 443, type: hysteria2, password: dailyconfigschannel, auth: dailyconfigschannel, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
   - {name: "[Hysteria2] @sunflowerplato", server: 185.184.68.7.sslip.io, port: 46129, type: hysteria2, password: df36ace8-640b-42bb-8169-198901af6d9e, auth: df36ace8-640b-42bb-8169-198901af6d9e, skip-cert-verify: false, obfs: salamander, obfs-password: JBPVtqk1kMBGleBcLZ}
   - {name: "[Hysteria2] @FreakConfig #2", server: 208.87.243.187, port: 22222, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] Join -> Telegram: @V2Gatee", server: 51.159.111.32, port: 5355, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2", server: 51.159.111.32, port: 5355, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] telegram-@ISVvpn #2", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: f872db91-57c2-41c7-aad0-561b4cb674bf, auth: f872db91-57c2-41c7-aad0-561b4cb674bf, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs #17", server: 103.249.133.79, port: 443, type: hysteria2, password: joindailyconfigschanel, auth: joindailyconfigschanel, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
-  - {name: "[Hysteria2] @Daily_Configs #18", server: 45.58.38.153, port: 40112, type: hysteria2, password: miaoge110, auth: miaoge110, sni: www.bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @Daily_Configs #14", server: 103.249.133.79, port: 443, type: hysteria2, password: joindailyconfigschanel, auth: joindailyconfigschanel, sni: microsoft.com, skip-cert-verify: false, obfs: salamander, obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS}
+  - {name: "[Hysteria2] @Daily_Configs #15", server: 45.58.38.153, port: 40112, type: hysteria2, password: miaoge110, auth: miaoge110, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] Tel:@Daily_Configs", server: 80.85.241.237, port: 443, type: hysteria2, password: perspoliszibatarineshghjahan, auth: perspoliszibatarineshghjahan, sni: stackoverflow.com, skip-cert-verify: false, obfs: salamander, obfs-password: fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf}
   - {name: "[Hysteria2] Telegram: @Daily_Configs", server: 80.85.241.237, port: 443, type: hysteria2, password: theredarmy, auth: theredarmy, sni: stackoverflow.com, skip-cert-verify: false, obfs: salamander, obfs-password: fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf}
-  - {name: "[Hysteria2] @Daily_Configs #19", server: 103.249.133.79, port: 443, type: hysteria2, password: zanzendegiazadi, auth: zanzendegiazadi, sni: ubuntu.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @Daily_Configs #16", server: 103.249.133.79, port: 443, type: hysteria2, password: zanzendegiazadi, auth: zanzendegiazadi, sni: ubuntu.com, skip-cert-verify: false}
   - {name: "[SS] tg频道:@ripaojiedian", server: 13.39.112.103, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "[VMess] 🇭🇰 香港|@ripaojiedian", server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78}
@@ -131,8 +128,8 @@ proxies:
   - {name: "[Vless] US_speednode_0026", server: 72.167.25.253, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: /Telegramsecurity=tls, headers: {Host: gaosir.unfeeling.sbs}}}
   - {name: "[Vless] US_speednode_0027", server: www.speedtest.net, port: 2082, type: vless, uuid: e6ac850f-c81a-482d-ab54-c3fa3b327e4e, tls: false, skip-cert-verify: false, servername: novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top., network: ws, ws-opts: {path: "/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082", headers: {Host: novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.}}}
   - {name: "[Vless] US_speednode_0028", server: www.speedtest.net, port: 80, type: vless, uuid: 375e6eaa-d849-40e4-b4f7-102e6ee0fe87, tls: false, skip-cert-verify: false, servername: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com., network: ws, ws-opts: {path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy, headers: {Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.}}}
-  - {name: "[SS] 🇸🇬 新加坡3|@ripaojiedian 2", server: 5.44.249.43, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: (TG @ripaojiedian)32cf132:178330}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
+  - {name: "[SS] 🇸🇬 新加坡3|@ripaojiedian 2", server: 5.44.249.43, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: (TG @ripaojiedian)32cf132:178330}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -181,18 +178,15 @@ proxy-groups:
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
-      - "[Hysteria2] @Daily_Configs #13"
-      - "[Hysteria2] @Daily_Configs #14"
-      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] Join -> Telegram: @V2Gatee"
+      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #17"
-      - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] Tel:@Daily_Configs"
       - "[Hysteria2] Telegram: @Daily_Configs"
-      - "[Hysteria2] @Daily_Configs #19"
+      - "[Hysteria2] @Daily_Configs #16"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -224,8 +218,8 @@ proxy-groups:
       - "[Vless] US_speednode_0026"
       - "[Vless] US_speednode_0027"
       - "[Vless] US_speednode_0028"
-      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -273,18 +267,15 @@ proxy-groups:
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
-      - "[Hysteria2] @Daily_Configs #13"
-      - "[Hysteria2] @Daily_Configs #14"
-      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] Join -> Telegram: @V2Gatee"
+      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #17"
-      - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] Tel:@Daily_Configs"
       - "[Hysteria2] Telegram: @Daily_Configs"
-      - "[Hysteria2] @Daily_Configs #19"
+      - "[Hysteria2] @Daily_Configs #16"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -316,8 +307,8 @@ proxy-groups:
       - "[Vless] US_speednode_0026"
       - "[Vless] US_speednode_0027"
       - "[Vless] US_speednode_0028"
-      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -366,18 +357,15 @@ proxy-groups:
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
-      - "[Hysteria2] @Daily_Configs #13"
-      - "[Hysteria2] @Daily_Configs #14"
-      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] Join -> Telegram: @V2Gatee"
+      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #17"
-      - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] Tel:@Daily_Configs"
       - "[Hysteria2] Telegram: @Daily_Configs"
-      - "[Hysteria2] @Daily_Configs #19"
+      - "[Hysteria2] @Daily_Configs #16"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -409,8 +397,8 @@ proxy-groups:
       - "[Vless] US_speednode_0026"
       - "[Vless] US_speednode_0027"
       - "[Vless] US_speednode_0028"
-      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -471,18 +459,15 @@ proxy-groups:
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
-      - "[Hysteria2] @Daily_Configs #13"
-      - "[Hysteria2] @Daily_Configs #14"
-      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] Join -> Telegram: @V2Gatee"
+      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #17"
-      - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] Tel:@Daily_Configs"
       - "[Hysteria2] Telegram: @Daily_Configs"
-      - "[Hysteria2] @Daily_Configs #19"
+      - "[Hysteria2] @Daily_Configs #16"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -514,8 +499,8 @@ proxy-groups:
       - "[Vless] US_speednode_0026"
       - "[Vless] US_speednode_0027"
       - "[Vless] US_speednode_0028"
-      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -575,18 +560,15 @@ proxy-groups:
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
-      - "[Hysteria2] @Daily_Configs #13"
-      - "[Hysteria2] @Daily_Configs #14"
-      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] Join -> Telegram: @V2Gatee"
+      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #17"
-      - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] Tel:@Daily_Configs"
       - "[Hysteria2] Telegram: @Daily_Configs"
-      - "[Hysteria2] @Daily_Configs #19"
+      - "[Hysteria2] @Daily_Configs #16"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -618,8 +600,8 @@ proxy-groups:
       - "[Vless] US_speednode_0026"
       - "[Vless] US_speednode_0027"
       - "[Vless] US_speednode_0028"
-      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -667,18 +649,15 @@ proxy-groups:
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
-      - "[Hysteria2] @Daily_Configs #13"
-      - "[Hysteria2] @Daily_Configs #14"
-      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] Join -> Telegram: @V2Gatee"
+      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #17"
-      - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] Tel:@Daily_Configs"
       - "[Hysteria2] Telegram: @Daily_Configs"
-      - "[Hysteria2] @Daily_Configs #19"
+      - "[Hysteria2] @Daily_Configs #16"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -710,8 +689,8 @@ proxy-groups:
       - "[Vless] US_speednode_0026"
       - "[Vless] US_speednode_0027"
       - "[Vless] US_speednode_0028"
-      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -760,18 +739,15 @@ proxy-groups:
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
-      - "[Hysteria2] @Daily_Configs #13"
-      - "[Hysteria2] @Daily_Configs #14"
-      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] Join -> Telegram: @V2Gatee"
+      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #17"
-      - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] Tel:@Daily_Configs"
       - "[Hysteria2] Telegram: @Daily_Configs"
-      - "[Hysteria2] @Daily_Configs #19"
+      - "[Hysteria2] @Daily_Configs #16"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -803,8 +779,8 @@ proxy-groups:
       - "[Vless] US_speednode_0026"
       - "[Vless] US_speednode_0027"
       - "[Vless] US_speednode_0028"
-      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -862,18 +838,15 @@ proxy-groups:
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] @FreakConfig #1 3"
       - "[Hysteria2] @AblNet7 🇨🇦 机场推荐"
-      - "[Hysteria2] @Daily_Configs #13"
-      - "[Hysteria2] @Daily_Configs #14"
-      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] @sunflowerplato"
       - "[Hysteria2] @FreakConfig #2"
-      - "[Hysteria2] Join -> Telegram: @V2Gatee"
+      - "[Hysteria2] WI-FI--@IRAN_V2RAY1 #2"
       - "[Hysteria2] telegram-@ISVvpn #2"
-      - "[Hysteria2] @Daily_Configs #17"
-      - "[Hysteria2] @Daily_Configs #18"
+      - "[Hysteria2] @Daily_Configs #14"
+      - "[Hysteria2] @Daily_Configs #15"
       - "[Hysteria2] Tel:@Daily_Configs"
       - "[Hysteria2] Telegram: @Daily_Configs"
-      - "[Hysteria2] @Daily_Configs #19"
+      - "[Hysteria2] @Daily_Configs #16"
       - "[SS] tg频道:@ripaojiedian"
       - "[VMess] 🇭🇰 香港|@ripaojiedian"
       - "[SS] 🇭🇰 香港2|@ripaojiedian"
@@ -905,8 +878,8 @@ proxy-groups:
       - "[Vless] US_speednode_0026"
       - "[Vless] US_speednode_0027"
       - "[Vless] US_speednode_0028"
-      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
