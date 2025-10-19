@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-18 20:48:38  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-19 02:27:08  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -143,10 +143,10 @@ proxies:
   - {name: "[Vless] TW_speednode_0035", server: 167.179.27.92, port: 443, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
   - {name: "[Vless] US_speednode_0036", server: 104.19.50.238, port: 2096, type: vless, uuid: f61a4285-7264-4d07-9408-7b9ba1922c26, tls: false, skip-cert-verify: false, servername: gaosir.unfeeling.sbs, network: ws, ws-opts: {path: "/telegram🇨🇳@wangcai2/?ed=2560security=tls", headers: {Host: gaosir.unfeeling.sbs}}}
   - {name: "[Vless] US_speednode_0037", server: 104.20.2.221, port: 8443, type: vless, uuid: 6c7a6a6a-6a6a-4000-8000-000000000002, tls: true, skip-cert-verify: false, servername: bycf.lzjnb.shop, network: ws, ws-opts: {path: "/?ed=2560fp=chrome", headers: {Host: bycf.lzjnb.shop}}}
-  - {name: "[SS] 🇸🇬 新加坡4|@ripaojiedian 2", server: 5.44.249.42, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: d4cbbb2:42774}}
   - {name: "[SS] 🇸🇬 新加坡5|@ripaojiedian 2", server: 5.44.249.42, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: 874b20d:48331}}
   - {name: "[SS] 🇸🇬 新加坡3|@ripaojiedian 2", server: 5.44.249.42, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: 4a81070:6193}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
+  - {name: "[SS] 🇸🇬 新加坡4|@ripaojiedian 2", server: 5.44.249.42, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: d4cbbb2:42774}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -250,10 +250,10 @@ proxy-groups:
       - "[Vless] TW_speednode_0035"
       - "[Vless] US_speednode_0036"
       - "[Vless] US_speednode_0037"
-      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡5|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -356,10 +356,10 @@ proxy-groups:
       - "[Vless] TW_speednode_0035"
       - "[Vless] US_speednode_0036"
       - "[Vless] US_speednode_0037"
-      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡5|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -463,10 +463,10 @@ proxy-groups:
       - "[Vless] TW_speednode_0035"
       - "[Vless] US_speednode_0036"
       - "[Vless] US_speednode_0037"
-      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡5|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -582,10 +582,10 @@ proxy-groups:
       - "[Vless] TW_speednode_0035"
       - "[Vless] US_speednode_0036"
       - "[Vless] US_speednode_0037"
-      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡5|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -698,10 +698,10 @@ proxy-groups:
       - "[Vless] TW_speednode_0035"
       - "[Vless] US_speednode_0036"
       - "[Vless] US_speednode_0037"
-      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡5|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -804,10 +804,10 @@ proxy-groups:
       - "[Vless] TW_speednode_0035"
       - "[Vless] US_speednode_0036"
       - "[Vless] US_speednode_0037"
-      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡5|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -911,10 +911,10 @@ proxy-groups:
       - "[Vless] TW_speednode_0035"
       - "[Vless] US_speednode_0036"
       - "[Vless] US_speednode_0037"
-      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡5|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1027,10 +1027,10 @@ proxy-groups:
       - "[Vless] TW_speednode_0035"
       - "[Vless] US_speednode_0036"
       - "[Vless] US_speednode_0037"
-      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡5|@ripaojiedian 2"
       - "[SS] 🇸🇬 新加坡3|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
+      - "[SS] 🇸🇬 新加坡4|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
