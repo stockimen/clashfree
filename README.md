@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-29 04:53:27  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-29 13:20:43  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -50,7 +50,7 @@ proxies:
   - {name: "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1", server: 113.192.61.19, port: 63979, type: hysteria2, password: 9772ecf2-6732-4bfb-a8b1-f48af577c76c, auth: 9772ecf2-6732-4bfb-a8b1-f48af577c76c, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig #4", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
   - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #9", server: 206.71.158.37, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
-  - {name: "[Hysteria2] @FreakConfig #5", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #17", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1", server: 212.192.15.176, port: 33079, type: hysteria2, password: a060b3f7-551e-4a7f-8138-fef404c5b012, auth: a060b3f7-551e-4a7f-8138-fef404c5b012, skip-cert-verify: false, obfs: salamander, obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==}
   - {name: "[Hysteria2] All--@V2rayAlpha--1", server: 51.159.111.32, port: 5355, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] Channel id: @ShadowProxy66🇩🇪", server: banmabanmabanmabanmabanmabanma2.wanlidag.top, port: 54265, type: hysteria2, password: eb86def3-d6ff-4582-9ecd-3cf61812640e, auth: eb86def3-d6ff-4582-9ecd-3cf61812640e, sni: banmabanmabanmabanmabanmabanma2.wanlidag.top, skip-cert-verify: false}
@@ -97,9 +97,9 @@ proxies:
   - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #8", server: 206.71.158.37, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.irr♡ya, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #10", server: 206.71.158.37, port: 35200, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #11", server: 206.71.158.37, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
-  - {name: "[Hysteria2] All-@IRAN_V2RAY1 #4", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
-  - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #15", server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
-  - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #18", server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #14", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #19", server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #22", server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN", server: 81.168.83.89, port: 2083, type: hysteria2, password: YwuvGJk36B, auth: YwuvGJk36B, skip-cert-verify: false, obfs: salamander, obfs-password: khameniiko@smad@ret}
   - {name: "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #4", server: 81.168.83.89, port: 2083, type: hysteria2, password: YwuvGJk36B, auth: YwuvGJk36B, sni: kotlet.arshiacomplus.dpdns.org, skip-cert-verify: false, obfs: salamander, obfs-password: khameniiko@smad@ret}
   - {name: "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #5", server: 81.168.83.89, port: 2083, type: hysteria2, password: YwuvGJk36B, auth: YwuvGJk36B, sni: "kotlet.arshiacomplus.dpdns.org@V2rayNGVPN ", skip-cert-verify: false, obfs: salamander, obfs-password: khameniiko@smad@ret}
@@ -182,7 +182,7 @@ proxy-groups:
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
       - "[Hysteria2] @FreakConfig #4"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #9"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #17"
       - "[Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -229,9 +229,9 @@ proxy-groups:
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #8"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #10"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #11"
-      - "[Hysteria2] All-@IRAN_V2RAY1 #4"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #15"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #18"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #14"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #19"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #22"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #4"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #5"
@@ -313,7 +313,7 @@ proxy-groups:
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
       - "[Hysteria2] @FreakConfig #4"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #9"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #17"
       - "[Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -360,9 +360,9 @@ proxy-groups:
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #8"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #10"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #11"
-      - "[Hysteria2] All-@IRAN_V2RAY1 #4"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #15"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #18"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #14"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #19"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #22"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #4"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #5"
@@ -445,7 +445,7 @@ proxy-groups:
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
       - "[Hysteria2] @FreakConfig #4"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #9"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #17"
       - "[Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -492,9 +492,9 @@ proxy-groups:
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #8"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #10"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #11"
-      - "[Hysteria2] All-@IRAN_V2RAY1 #4"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #15"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #18"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #14"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #19"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #22"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #4"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #5"
@@ -589,7 +589,7 @@ proxy-groups:
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
       - "[Hysteria2] @FreakConfig #4"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #9"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #17"
       - "[Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -636,9 +636,9 @@ proxy-groups:
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #8"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #10"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #11"
-      - "[Hysteria2] All-@IRAN_V2RAY1 #4"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #15"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #18"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #14"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #19"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #22"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #4"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #5"
@@ -732,7 +732,7 @@ proxy-groups:
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
       - "[Hysteria2] @FreakConfig #4"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #9"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #17"
       - "[Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -779,9 +779,9 @@ proxy-groups:
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #8"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #10"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #11"
-      - "[Hysteria2] All-@IRAN_V2RAY1 #4"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #15"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #18"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #14"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #19"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #22"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #4"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #5"
@@ -863,7 +863,7 @@ proxy-groups:
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
       - "[Hysteria2] @FreakConfig #4"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #9"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #17"
       - "[Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -910,9 +910,9 @@ proxy-groups:
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #8"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #10"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #11"
-      - "[Hysteria2] All-@IRAN_V2RAY1 #4"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #15"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #18"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #14"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #19"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #22"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #4"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #5"
@@ -995,7 +995,7 @@ proxy-groups:
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
       - "[Hysteria2] @FreakConfig #4"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #9"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #17"
       - "[Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -1042,9 +1042,9 @@ proxy-groups:
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #8"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #10"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #11"
-      - "[Hysteria2] All-@IRAN_V2RAY1 #4"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #15"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #18"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #14"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #19"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #22"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #4"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #5"
@@ -1136,7 +1136,7 @@ proxy-groups:
       - "[Hysteria2] @AblNet7 🇺🇸 机场推荐 #1"
       - "[Hysteria2] @FreakConfig #4"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #9"
-      - "[Hysteria2] @FreakConfig #5"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #17"
       - "[Hysteria2] Channel id: @ShadowProxy66🇺🇸 #1"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] Channel id: @ShadowProxy66🇩🇪"
@@ -1183,9 +1183,9 @@ proxy-groups:
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #8"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #10"
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #11"
-      - "[Hysteria2] All-@IRAN_V2RAY1 #4"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #15"
-      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #18"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #14"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #19"
+      - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #22"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #4"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #5"
