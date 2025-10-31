@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-30 20:49:42  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-10-31 02:20:55  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -25,9 +25,9 @@
 
 ## 高速机场推荐2：【星辰加速】
 
-轻量型  9元/月
+轻量型  8元/月
 
-- 流量：150 GB
+- 流量：130 GB
 - 速度限制：∞ Gbps
 - 同时在线设备：不限制 台
 - 流量按月重置
