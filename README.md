@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-01 02:22:45  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-01 04:48:51  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -74,7 +74,6 @@ proxies:
   - {name: "[Hysteria2] telegram-@ISVvpn #1", server: fra-nb-01.linlujs.pw, port: 24568, type: hysteria2, password: 682c7978-e3eb-44e0-924c-607144495681, auth: 682c7978-e3eb-44e0-924c-607144495681, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:...", server: fra-nb-01.linlujs.pw, port: 24568, type: hysteria2, password: 70197404-7b40-45e4-bb9c-8bc8995012ae, auth: 70197404-7b40-45e4-bb9c-8bc8995012ae, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: 70197404-7b40-45e4-bb9c-8bc8995012ae, auth: 70197404-7b40-45e4-bb9c-8bc8995012ae, skip-cert-verify: false}
-  - {name: "[Hysteria2] All-@V2rayAlpha--11 #1", server: hsels.huasuan666.top, port: 22160, type: hysteria2, password: 77b85b4f-8f73-495c-b919-a8fb386ca541, auth: 77b85b4f-8f73-495c-b919-a8fb386ca541, sni: hsels.huasuan666.top, skip-cert-verify: false}
   - {name: "[Hysteria2] @meli_proxyy #3", server: lsj3.mangshe.xyz, port: 2056, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, auth: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, sni: lsj3.mangshe.xyz, skip-cert-verify: false}
   - {name: "[Hysteria2] @meli_proxyy #4", server: xg1.mangshe.xyz, port: 2056, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, auth: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, skip-cert-verify: false}
   - {name: "[Hysteria2] @Daily_Configs #1", server: xg1.mangshe.xyz, port: 2056, type: hysteria2, password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, auth: 78c2bad7-f5f3-41f2-88cc-81de9d05040b, sni: xg1.mangshe.xyz, skip-cert-verify: false}
@@ -86,6 +85,8 @@ proxies:
   - {name: "[Hysteria2] All-@V2rayAlpha--8 #2", server: de.youyacloud.me, port: 443, type: hysteria2, password: 8da7bd17-70ab-472d-a925-cc827857dc35, auth: 8da7bd17-70ab-472d-a925-cc827857dc35, sni: de.youyacloud.me, skip-cert-verify: false, obfs: salamander, obfs-password: qBbeISsJ8AK48fZW}
   - {name: "[Hysteria2] telegram--MTMVPN 11", server: 141.147.52.24, port: 44001, type: hysteria2, password: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88, auth: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88, skip-cert-verify: false}
   - {name: "[Hysteria2] telegram--MTMVPN 15", server: 85.208.9.189, port: 44001, type: hysteria2, password: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88, auth: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88, sni: www.bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All--@V2ray_Alpha-1", server: de2.oomz.ru, port: 30000, type: hysteria2, password: 937f8940-ad8a-409f-93c3-4d6249af628f, auth: 937f8940-ad8a-409f-93c3-4d6249af628f, sni: bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All--@V2ray_Alpha-2", server: de3.oomz.ru, port: 30000, type: hysteria2, password: 937f8940-ad8a-409f-93c3-4d6249af628f, auth: 937f8940-ad8a-409f-93c3-4d6249af628f, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@V2rayAlpha--6 #1", server: els1.dimoyun.top, port: 40001, type: hysteria2, password: 9faf4015-b6c0-44f9-b9d6-d77454a50a72, auth: 9faf4015-b6c0-44f9-b9d6-d77454a50a72, sni: els1.dimoyun.top, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@V2rayAlpha--2 #1", server: 43.201.45.216, port: 29609, type: hysteria2, password: MxiGoEDnLJELZicwCXwsADPdF4, auth: MxiGoEDnLJELZicwCXwsADPdF4, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig", server: 206.71.158.23, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
@@ -99,6 +100,7 @@ proxies:
   - {name: "[Hysteria2] telegram--MTMVPN 2", server: nl1.oomz.ru, port: 30000, type: hysteria2, password: ab858115-e0ab-4cb7-8e65-0804c35e52d5, auth: ab858115-e0ab-4cb7-8e65-0804c35e52d5, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] telegram--MTMVPN 6", server: nl2.oomz.ru, port: 30000, type: hysteria2, password: ab858115-e0ab-4cb7-8e65-0804c35e52d5, auth: ab858115-e0ab-4cb7-8e65-0804c35e52d5, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] telegram--MTMVPN 22", server: us4.oomz.ru, port: 30000, type: hysteria2, password: ab858115-e0ab-4cb7-8e65-0804c35e52d5, auth: ab858115-e0ab-4cb7-8e65-0804c35e52d5, sni: bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All--@V2ray_Alpha-4", server: 206.71.158.41, port: 35000, type: hysteria2, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, auth: b4bd0613-ff7c-4f2f-954d-185915e6ddad, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] @FreakConfig 3", server: 108.165.213.197, port: 23891, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, auth: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: fus01.mistea.top, skip-cert-verify: false}
   - {name: "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما", server: 193.142.59.41, port: 23899, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, auth: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: hl01.mistea.top, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@V2rayAlpha--1", server: 38.45.89.97, port: 23892, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, auth: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: fus02.mistea.top, skip-cert-verify: false}
@@ -109,28 +111,28 @@ proxies:
   - {name: "[Hysteria2] telegram-@ISVvpn #2", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: f872db91-57c2-41c7-aad0-561b4cb674bf, auth: f872db91-57c2-41c7-aad0-561b4cb674bf, skip-cert-verify: false}
   - {name: "[Hysteria2] All--@V2rayAlpha--2", server: de2.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @Daily_Configs #3", server: de3.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما #1", server: nl1.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All--@V2rayAlpha--3", server: nl1.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @sunflowerplato🌻 #5", server: 45.58.38.153, port: 40112, type: hysteria2, password: miaoge110, auth: miaoge110, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@V2rayAlpha--17", server: adas-polo-ba-mahi.kotlet.org, port: 2083, type: hysteria2, password: siEk2SjZFG, auth: siEk2SjZFG, sni: ghasem.kotlet.org, skip-cert-verify: false, obfs: salamander, obfs-password: ki(rtoko(s-maret-khamneii}
   - {name: "[SS] tg频道:@ripaojiedian", server: 3.9.17.198, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: "[VMess] 🇭🇰 香港|@ripaojiedian", server: v9.heduian.link, port: 30809, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: baidu.com}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78}
-  - {name: "[Trojan] 🇭🇰 香港3|@ripaojiedian", server: 221.128.195.7, port: 5135, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: "[Trojan] 🇭🇰 香港4|@ripaojiedian", server: 36.156.102.72, port: 4451, type: trojan, password: BxceQaOe, skip-cert-verify: false}
-  - {name: "[Trojan] 🇭🇰 香港5|@ripaojiedian", server: 58.152.53.3, port: 443, type: trojan, password: BxceQaOe, skip-cert-verify: false}
-  - {name: "[Trojan] CN_speednode_0002", server: hxfz940e90d9.nfwzdm.com, port: 42765, type: trojan, password: b00abf05-5768-4ac9-8d20-6b1bd605bcf6, sni: v1-dy.ixigua.com, skip-cert-verify: false}
+  - {name: "[Trojan] 🇭🇰 香港3|@ripaojiedian", server: 221.128.195.9, port: 22581, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[Trojan] 🇭🇰 香港4|@ripaojiedian", server: 36.156.102.74, port: 4861, type: trojan, password: BxceQaOe, skip-cert-verify: false}
+  - {name: "[Trojan] 🇭🇰 香港5|@ripaojiedian", server: 36.151.192.242, port: 194, type: trojan, password: BxceQaOe, skip-cert-verify: false}
   - {name: "[Trojan] 🇯🇵 日本|@ripaojiedian", server: 36.150.215.236, port: 487, type: trojan, password: BxceQaOe, skip-cert-verify: false}
-  - {name: "[Trojan] 🇯🇵 日本2|@ripaojiedian", server: 160.16.214.6, port: 1332, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: "[Trojan] 🇯🇵 日本3|@ripaojiedian", server: 160.16.214.6, port: 3161, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: "[Trojan] 🇸🇬 新加坡|@ripaojiedian", server: 160.16.229.223, port: 5041, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: "[Trojan] 🇸🇬 新加坡2|@ripaojiedian", server: 160.16.229.223, port: 5321, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[VMess] 🇭🇰 香港6|@ripaojiedian", server: 36.133.73.36, port: 11819, type: vmess, uuid: de32752c-0661-467e-82d3-35bc740a787f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[Trojan] 🇯🇵 日本2|@ripaojiedian", server: 160.16.236.32, port: 4452, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.baidu.com, skip-cert-verify: false}
+  - {name: "[Trojan] 🇯🇵 日本3|@ripaojiedian", server: 160.16.236.32, port: 3161, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.baidu.com, skip-cert-verify: false}
+  - {name: "[Trojan] 🇸🇬 新加坡|@ripaojiedian", server: 117.172.176.24, port: 5041, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[Trojan] 🇸🇬 新加坡2|@ripaojiedian", server: 117.172.176.24, port: 5321, type: trojan, password: bca467b8c15211d189008a93c7519d3b, sni: www.nintendogames.net, skip-cert-verify: false}
   - {name: "[Trojan] 🇸🇬 新加坡3|@ripaojiedian", server: 36.150.215.197, port: 9713, type: trojan, password: BxceQaOe, skip-cert-verify: false}
-  - {name: "[Trojan] 🇺🇸 美国|@ripaojiedian", server: 160.16.107.37, port: 2467, type: trojan, password: ea39fa94f1ee00999337ea1fd3318e69, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: "[Trojan] 🇺🇸 美国2|@ripaojiedian", server: 160.16.107.37, port: 2381, type: trojan, password: ea39fa94f1ee00999337ea1fd3318e69, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[Trojan] 🇺🇸 美国|@ripaojiedian", server: 117.172.176.24, port: 2467, type: trojan, password: ea39fa94f1ee00999337ea1fd3318e69, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[Trojan] 🇺🇸 美国2|@ripaojiedian", server: 117.172.176.24, port: 2381, type: trojan, password: ea39fa94f1ee00999337ea1fd3318e69, sni: www.nintendogames.net, skip-cert-verify: false}
   - {name: "[Trojan] CN_speednode_0003", server: 36.156.102.74, port: 43567, type: trojan, password: BxceQaOe, skip-cert-verify: false}
-  - {name: "[SS] 🇻🇳 越南|@ripaojiedian", server: 103.186.155.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
   - {name: "[SS] tg频道:@ripaojiedian 2", server: 3.9.17.198, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
-  - {name: "[SS] 🇻🇳 越南|@ripaojiedian 2", server: 103.186.155.238, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW}
+  - {name: "[VMess] 🇭🇰 香港6|@ripaojiedian 2", server: 36.133.73.36, port: 11819, type: vmess, uuid: de32752c-0661-467e-82d3-35bc740a787f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[Trojan] CN_speednode_0002", server: hxfz940e90d9.nfwzdm.com, port: 42765, type: trojan, password: b00abf05-5768-4ac9-8d20-6b1bd605bcf6, sni: v1-dy.ixigua.com, skip-cert-verify: false}
   - {name: "[Vless] 🇺🇦 UA_speednode_0008", server: freeyx.cloudflare88.eu.org, port: 443, type: vless, uuid: a7a89fed-0fa5-48ea-9cc9-ccf67d0b6cb2, tls: true, skip-cert-verify: false, servername: do-syd1.008883.xyz, network: ws, ws-opts: {path: "/announcement?ed=2048fp=random", headers: {Host: do-syd1.008883.xyz}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
@@ -167,7 +169,6 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
-      - "[Hysteria2] All-@V2rayAlpha--11 #1"
       - "[Hysteria2] @meli_proxyy #3"
       - "[Hysteria2] @meli_proxyy #4"
       - "[Hysteria2] @Daily_Configs #1"
@@ -179,6 +180,8 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] telegram--MTMVPN 11"
       - "[Hysteria2] telegram--MTMVPN 15"
+      - "[Hysteria2] All--@V2ray_Alpha-1"
+      - "[Hysteria2] All--@V2ray_Alpha-2"
       - "[Hysteria2] All-@V2rayAlpha--6 #1"
       - "[Hysteria2] All-@V2rayAlpha--2 #1"
       - "[Hysteria2] @FreakConfig"
@@ -192,6 +195,7 @@ proxy-groups:
       - "[Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] telegram--MTMVPN 6"
       - "[Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] All--@V2ray_Alpha-4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -202,7 +206,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] All--@V2rayAlpha--2"
       - "[Hysteria2] @Daily_Configs #3"
-      - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما #1"
+      - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @sunflowerplato🌻 #5"
       - "[Hysteria2] All-@V2rayAlpha--17"
       - "[SS] tg频道:@ripaojiedian"
@@ -211,8 +215,8 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] CN_speednode_0002"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -221,9 +225,9 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] CN_speednode_0003"
-      - "[SS] 🇻🇳 越南|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[SS] 🇻🇳 越南|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0002"
       - "[Vless] 🇺🇦 UA_speednode_0008"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
@@ -259,7 +263,6 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
-      - "[Hysteria2] All-@V2rayAlpha--11 #1"
       - "[Hysteria2] @meli_proxyy #3"
       - "[Hysteria2] @meli_proxyy #4"
       - "[Hysteria2] @Daily_Configs #1"
@@ -271,6 +274,8 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] telegram--MTMVPN 11"
       - "[Hysteria2] telegram--MTMVPN 15"
+      - "[Hysteria2] All--@V2ray_Alpha-1"
+      - "[Hysteria2] All--@V2ray_Alpha-2"
       - "[Hysteria2] All-@V2rayAlpha--6 #1"
       - "[Hysteria2] All-@V2rayAlpha--2 #1"
       - "[Hysteria2] @FreakConfig"
@@ -284,6 +289,7 @@ proxy-groups:
       - "[Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] telegram--MTMVPN 6"
       - "[Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] All--@V2ray_Alpha-4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -294,7 +300,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] All--@V2rayAlpha--2"
       - "[Hysteria2] @Daily_Configs #3"
-      - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما #1"
+      - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @sunflowerplato🌻 #5"
       - "[Hysteria2] All-@V2rayAlpha--17"
       - "[SS] tg频道:@ripaojiedian"
@@ -303,8 +309,8 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] CN_speednode_0002"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -313,9 +319,9 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] CN_speednode_0003"
-      - "[SS] 🇻🇳 越南|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[SS] 🇻🇳 越南|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0002"
       - "[Vless] 🇺🇦 UA_speednode_0008"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
@@ -352,7 +358,6 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
-      - "[Hysteria2] All-@V2rayAlpha--11 #1"
       - "[Hysteria2] @meli_proxyy #3"
       - "[Hysteria2] @meli_proxyy #4"
       - "[Hysteria2] @Daily_Configs #1"
@@ -364,6 +369,8 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] telegram--MTMVPN 11"
       - "[Hysteria2] telegram--MTMVPN 15"
+      - "[Hysteria2] All--@V2ray_Alpha-1"
+      - "[Hysteria2] All--@V2ray_Alpha-2"
       - "[Hysteria2] All-@V2rayAlpha--6 #1"
       - "[Hysteria2] All-@V2rayAlpha--2 #1"
       - "[Hysteria2] @FreakConfig"
@@ -377,6 +384,7 @@ proxy-groups:
       - "[Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] telegram--MTMVPN 6"
       - "[Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] All--@V2ray_Alpha-4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -387,7 +395,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] All--@V2rayAlpha--2"
       - "[Hysteria2] @Daily_Configs #3"
-      - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما #1"
+      - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @sunflowerplato🌻 #5"
       - "[Hysteria2] All-@V2rayAlpha--17"
       - "[SS] tg频道:@ripaojiedian"
@@ -396,8 +404,8 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] CN_speednode_0002"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -406,9 +414,9 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] CN_speednode_0003"
-      - "[SS] 🇻🇳 越南|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[SS] 🇻🇳 越南|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0002"
       - "[Vless] 🇺🇦 UA_speednode_0008"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
@@ -457,7 +465,6 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
-      - "[Hysteria2] All-@V2rayAlpha--11 #1"
       - "[Hysteria2] @meli_proxyy #3"
       - "[Hysteria2] @meli_proxyy #4"
       - "[Hysteria2] @Daily_Configs #1"
@@ -469,6 +476,8 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] telegram--MTMVPN 11"
       - "[Hysteria2] telegram--MTMVPN 15"
+      - "[Hysteria2] All--@V2ray_Alpha-1"
+      - "[Hysteria2] All--@V2ray_Alpha-2"
       - "[Hysteria2] All-@V2rayAlpha--6 #1"
       - "[Hysteria2] All-@V2rayAlpha--2 #1"
       - "[Hysteria2] @FreakConfig"
@@ -482,6 +491,7 @@ proxy-groups:
       - "[Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] telegram--MTMVPN 6"
       - "[Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] All--@V2ray_Alpha-4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -492,7 +502,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] All--@V2rayAlpha--2"
       - "[Hysteria2] @Daily_Configs #3"
-      - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما #1"
+      - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @sunflowerplato🌻 #5"
       - "[Hysteria2] All-@V2rayAlpha--17"
       - "[SS] tg频道:@ripaojiedian"
@@ -501,8 +511,8 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] CN_speednode_0002"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -511,9 +521,9 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] CN_speednode_0003"
-      - "[SS] 🇻🇳 越南|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[SS] 🇻🇳 越南|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0002"
       - "[Vless] 🇺🇦 UA_speednode_0008"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
@@ -525,6 +535,8 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
@@ -560,7 +572,6 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
-      - "[Hysteria2] All-@V2rayAlpha--11 #1"
       - "[Hysteria2] @meli_proxyy #3"
       - "[Hysteria2] @meli_proxyy #4"
       - "[Hysteria2] @Daily_Configs #1"
@@ -572,6 +583,8 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] telegram--MTMVPN 11"
       - "[Hysteria2] telegram--MTMVPN 15"
+      - "[Hysteria2] All--@V2ray_Alpha-1"
+      - "[Hysteria2] All--@V2ray_Alpha-2"
       - "[Hysteria2] All-@V2rayAlpha--6 #1"
       - "[Hysteria2] All-@V2rayAlpha--2 #1"
       - "[Hysteria2] @FreakConfig"
@@ -585,6 +598,7 @@ proxy-groups:
       - "[Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] telegram--MTMVPN 6"
       - "[Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] All--@V2ray_Alpha-4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -595,7 +609,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] All--@V2rayAlpha--2"
       - "[Hysteria2] @Daily_Configs #3"
-      - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما #1"
+      - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @sunflowerplato🌻 #5"
       - "[Hysteria2] All-@V2rayAlpha--17"
       - "[SS] tg频道:@ripaojiedian"
@@ -604,8 +618,8 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] CN_speednode_0002"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -614,9 +628,9 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] CN_speednode_0003"
-      - "[SS] 🇻🇳 越南|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[SS] 🇻🇳 越南|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0002"
       - "[Vless] 🇺🇦 UA_speednode_0008"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
@@ -652,7 +666,6 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
-      - "[Hysteria2] All-@V2rayAlpha--11 #1"
       - "[Hysteria2] @meli_proxyy #3"
       - "[Hysteria2] @meli_proxyy #4"
       - "[Hysteria2] @Daily_Configs #1"
@@ -664,6 +677,8 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] telegram--MTMVPN 11"
       - "[Hysteria2] telegram--MTMVPN 15"
+      - "[Hysteria2] All--@V2ray_Alpha-1"
+      - "[Hysteria2] All--@V2ray_Alpha-2"
       - "[Hysteria2] All-@V2rayAlpha--6 #1"
       - "[Hysteria2] All-@V2rayAlpha--2 #1"
       - "[Hysteria2] @FreakConfig"
@@ -677,6 +692,7 @@ proxy-groups:
       - "[Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] telegram--MTMVPN 6"
       - "[Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] All--@V2ray_Alpha-4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -687,7 +703,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] All--@V2rayAlpha--2"
       - "[Hysteria2] @Daily_Configs #3"
-      - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما #1"
+      - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @sunflowerplato🌻 #5"
       - "[Hysteria2] All-@V2rayAlpha--17"
       - "[SS] tg频道:@ripaojiedian"
@@ -696,8 +712,8 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] CN_speednode_0002"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -706,9 +722,9 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] CN_speednode_0003"
-      - "[SS] 🇻🇳 越南|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[SS] 🇻🇳 越南|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0002"
       - "[Vless] 🇺🇦 UA_speednode_0008"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
@@ -745,7 +761,6 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
-      - "[Hysteria2] All-@V2rayAlpha--11 #1"
       - "[Hysteria2] @meli_proxyy #3"
       - "[Hysteria2] @meli_proxyy #4"
       - "[Hysteria2] @Daily_Configs #1"
@@ -757,6 +772,8 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] telegram--MTMVPN 11"
       - "[Hysteria2] telegram--MTMVPN 15"
+      - "[Hysteria2] All--@V2ray_Alpha-1"
+      - "[Hysteria2] All--@V2ray_Alpha-2"
       - "[Hysteria2] All-@V2rayAlpha--6 #1"
       - "[Hysteria2] All-@V2rayAlpha--2 #1"
       - "[Hysteria2] @FreakConfig"
@@ -770,6 +787,7 @@ proxy-groups:
       - "[Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] telegram--MTMVPN 6"
       - "[Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] All--@V2ray_Alpha-4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -780,7 +798,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] All--@V2rayAlpha--2"
       - "[Hysteria2] @Daily_Configs #3"
-      - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما #1"
+      - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @sunflowerplato🌻 #5"
       - "[Hysteria2] All-@V2rayAlpha--17"
       - "[SS] tg频道:@ripaojiedian"
@@ -789,8 +807,8 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] CN_speednode_0002"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -799,9 +817,9 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] CN_speednode_0003"
-      - "[SS] 🇻🇳 越南|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[SS] 🇻🇳 越南|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0002"
       - "[Vless] 🇺🇦 UA_speednode_0008"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
@@ -847,7 +865,6 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
       - "[Hysteria2] 🇺🇸 usa-telegram-@ISVvpn"
-      - "[Hysteria2] All-@V2rayAlpha--11 #1"
       - "[Hysteria2] @meli_proxyy #3"
       - "[Hysteria2] @meli_proxyy #4"
       - "[Hysteria2] @Daily_Configs #1"
@@ -859,6 +876,8 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--8 #2"
       - "[Hysteria2] telegram--MTMVPN 11"
       - "[Hysteria2] telegram--MTMVPN 15"
+      - "[Hysteria2] All--@V2ray_Alpha-1"
+      - "[Hysteria2] All--@V2ray_Alpha-2"
       - "[Hysteria2] All-@V2rayAlpha--6 #1"
       - "[Hysteria2] All-@V2rayAlpha--2 #1"
       - "[Hysteria2] @FreakConfig"
@@ -872,6 +891,7 @@ proxy-groups:
       - "[Hysteria2] telegram--MTMVPN 2"
       - "[Hysteria2] telegram--MTMVPN 6"
       - "[Hysteria2] telegram--MTMVPN 22"
+      - "[Hysteria2] All--@V2ray_Alpha-4"
       - "[Hysteria2] @FreakConfig 3"
       - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما"
       - "[Hysteria2] All-@V2rayAlpha--1"
@@ -882,7 +902,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] All--@V2rayAlpha--2"
       - "[Hysteria2] @Daily_Configs #3"
-      - "[Hysteria2] ✅ @vistav2ray  👈👈کانال ما #1"
+      - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @sunflowerplato🌻 #5"
       - "[Hysteria2] All-@V2rayAlpha--17"
       - "[SS] tg频道:@ripaojiedian"
@@ -891,8 +911,8 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] CN_speednode_0002"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
@@ -901,9 +921,9 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] CN_speednode_0003"
-      - "[SS] 🇻🇳 越南|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[SS] 🇻🇳 越南|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[Trojan] CN_speednode_0002"
       - "[Vless] 🇺🇦 UA_speednode_0008"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
