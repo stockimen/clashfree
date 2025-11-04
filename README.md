@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-04 16:55:22  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-04 20:50:58  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -143,7 +143,7 @@ proxies:
   - {name: "[Hysteria2] telegram-@ISVvpn #2", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: f872db91-57c2-41c7-aad0-561b4cb674bf, auth: f872db91-57c2-41c7-aad0-561b4cb674bf, skip-cert-verify: false}
   - {name: "[Hysteria2] @V2rayNG3 #18", server: 62.60.231.189, port: 12123, type: hysteria2, password: f8e40931bbb827df, auth: f8e40931bbb827df, sni: www.bing.com, skip-cert-verify: false, obfs: salamander, obfs-password: dbc688df29e582d3}
   - {name: "[Hysteria2] All--@V2rayAlpha--2", server: de2.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] @Daily_Configs #2", server: de3.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @sunflowerplato🌻 #4", server: de3.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] All--@V2rayAlpha--3", server: nl1.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig #2", server: us1.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @FreakConfig #3", server: us2.oomz.ru, port: 30000, type: hysteria2, password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, auth: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1, sni: bing.com, skip-cert-verify: false}
@@ -278,7 +278,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] @V2rayNG3 #18"
       - "[Hysteria2] All--@V2rayAlpha--2"
-      - "[Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] @sunflowerplato🌻 #4"
       - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @FreakConfig #2"
       - "[Hysteria2] @FreakConfig #3"
@@ -412,7 +412,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] @V2rayNG3 #18"
       - "[Hysteria2] All--@V2rayAlpha--2"
-      - "[Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] @sunflowerplato🌻 #4"
       - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @FreakConfig #2"
       - "[Hysteria2] @FreakConfig #3"
@@ -547,7 +547,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] @V2rayNG3 #18"
       - "[Hysteria2] All--@V2rayAlpha--2"
-      - "[Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] @sunflowerplato🌻 #4"
       - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @FreakConfig #2"
       - "[Hysteria2] @FreakConfig #3"
@@ -694,7 +694,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] @V2rayNG3 #18"
       - "[Hysteria2] All--@V2rayAlpha--2"
-      - "[Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] @sunflowerplato🌻 #4"
       - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @FreakConfig #2"
       - "[Hysteria2] @FreakConfig #3"
@@ -841,7 +841,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] @V2rayNG3 #18"
       - "[Hysteria2] All--@V2rayAlpha--2"
-      - "[Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] @sunflowerplato🌻 #4"
       - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @FreakConfig #2"
       - "[Hysteria2] @FreakConfig #3"
@@ -975,7 +975,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] @V2rayNG3 #18"
       - "[Hysteria2] All--@V2rayAlpha--2"
-      - "[Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] @sunflowerplato🌻 #4"
       - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @FreakConfig #2"
       - "[Hysteria2] @FreakConfig #3"
@@ -1110,7 +1110,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] @V2rayNG3 #18"
       - "[Hysteria2] All--@V2rayAlpha--2"
-      - "[Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] @sunflowerplato🌻 #4"
       - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @FreakConfig #2"
       - "[Hysteria2] @FreakConfig #3"
@@ -1254,7 +1254,7 @@ proxy-groups:
       - "[Hysteria2] telegram-@ISVvpn #2"
       - "[Hysteria2] @V2rayNG3 #18"
       - "[Hysteria2] All--@V2rayAlpha--2"
-      - "[Hysteria2] @Daily_Configs #2"
+      - "[Hysteria2] @sunflowerplato🌻 #4"
       - "[Hysteria2] All--@V2rayAlpha--3"
       - "[Hysteria2] @FreakConfig #2"
       - "[Hysteria2] @FreakConfig #3"
