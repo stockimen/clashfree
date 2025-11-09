@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-09 16:50:16  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-09 20:48:43  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -47,6 +47,7 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #5", server: 206.71.158.37, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "[Hysteria2] @NoForcedheaven", server: 46.62.152.236, port: 443, type: hysteria2, password: a2678c97b8d79059, auth: a2678c97b8d79059, skip-cert-verify: false, obfs: salamander, obfs-password: 9242a8bf}
   - {name: "[Hysteria2] @Mr_Config_Group✌️", server: chervhill.hajalii.com, port: 29662, type: hysteria2, password: 10822856-7452-43ec-b35b-6f24ea33530f, auth: 10822856-7452-43ec-b35b-6f24ea33530f, sni: chervhill.hajalii.com, skip-cert-verify: false, obfs: salamander, obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon}
   - {name: "[Hysteria2] @V2rayNG3", server: 192.3.85.237, port: 443, type: hysteria2, password: 123456, auth: 123456, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @V2rayNG3 #1", server: gb.gomeow.online, port: 20309, type: hysteria2, password: 15cca331-9e92-449d-93b0-25f82203595f, auth: 15cca331-9e92-449d-93b0-25f82203595f, sni: gb.gomeow.online, skip-cert-verify: false}
@@ -93,7 +94,7 @@ proxies:
   - {name: "[Hysteria2] @FreakConfig", server: 206.71.158.23, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
   - {name: "[Hysteria2] @FreakConfig #1", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram--%3E%40Ln2Ray, auth: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
   - {name: "[Hysteria2] @FreakConfig #3", server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
-  - {name: "[Hysteria2] @FreakConfig #4", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
+  - {name: "[Hysteria2] @V2rayAlpha--All-3", server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] @Daily_Configs #1", server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
   - {name: "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #1", server: 81.168.83.89, port: 2083, type: hysteria2, password: YwuvGJk36B, auth: YwuvGJk36B, sni: kotlet.arshiacomplus.dpdns.org, skip-cert-verify: false, obfs: salamander, obfs-password: khameniiko@smad@ret}
   - {name: "[Hysteria2] @Selinc #5", server: nl2.oomz.ru, port: 30000, type: hysteria2, password: ab858115-e0ab-4cb7-8e65-0804c35e52d5, auth: ab858115-e0ab-4cb7-8e65-0804c35e52d5, sni: bing.com, skip-cert-verify: false}
@@ -107,8 +108,8 @@ proxies:
   - {name: "[Hysteria2] WiFi-@V2rayAlpha--7", server: qing-es.mxtn.net, port: 443, type: hysteria2, password: c3054d61-c708-4594-9797-f50acd24de2a, auth: c3054d61-c708-4594-9797-f50acd24de2a, skip-cert-verify: false}
   - {name: "[Hysteria2] @sunflowerplato🌻 #3", server: qing-kz.mxtn.net, port: 443, type: hysteria2, password: c3054d61-c708-4594-9797-f50acd24de2a, auth: c3054d61-c708-4594-9797-f50acd24de2a, skip-cert-verify: false}
   - {name: "[Hysteria2] WiFi-@V2rayAlpha--6", server: qing-lu.mxtn.net, port: 443, type: hysteria2, password: c3054d61-c708-4594-9797-f50acd24de2a, auth: c3054d61-c708-4594-9797-f50acd24de2a, skip-cert-verify: false}
-  - {name: "[Hysteria2] @FreakConfig #6", server: sb1.oomz.ru, port: 30000, type: hysteria2, password: d3da4e16-9bef-4e54-9bd9-960d32740392, auth: d3da4e16-9bef-4e54-9bd9-960d32740392, sni: bing.com, skip-cert-verify: false}
-  - {name: "[Hysteria2] @FreakConfig #7", server: sb2.oomz.ru, port: 30000, type: hysteria2, password: d3da4e16-9bef-4e54-9bd9-960d32740392, auth: d3da4e16-9bef-4e54-9bd9-960d32740392, sni: bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @FreakConfig #5", server: sb1.oomz.ru, port: 30000, type: hysteria2, password: d3da4e16-9bef-4e54-9bd9-960d32740392, auth: d3da4e16-9bef-4e54-9bd9-960d32740392, sni: bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] @FreakConfig #6", server: sb2.oomz.ru, port: 30000, type: hysteria2, password: d3da4e16-9bef-4e54-9bd9-960d32740392, auth: d3da4e16-9bef-4e54-9bd9-960d32740392, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] @V2rayNG3 #16", server: 46.17.41.189, port: 50717, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] All--@V2rayAlpha--1", server: 51.159.111.32, port: 5355, type: hysteria2, password: dongtaiwang.com, auth: dongtaiwang.com, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] telegram-@ISVvpn #2", server: us-nb-01.linlujs.pw, port: 25684, type: hysteria2, password: f872db91-57c2-41c7-aad0-561b4cb674bf, auth: f872db91-57c2-41c7-aad0-561b4cb674bf, skip-cert-verify: false}
@@ -154,6 +155,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #5"
+      - "[Hysteria2] @NoForcedheaven"
       - "[Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] @V2rayNG3"
       - "[Hysteria2] @V2rayNG3 #1"
@@ -200,7 +202,7 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #3"
-      - "[Hysteria2] @FreakConfig #4"
+      - "[Hysteria2] @V2rayAlpha--All-3"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #1"
       - "[Hysteria2] @Selinc #5"
@@ -214,8 +216,8 @@ proxy-groups:
       - "[Hysteria2] WiFi-@V2rayAlpha--7"
       - "[Hysteria2] @sunflowerplato🌻 #3"
       - "[Hysteria2] WiFi-@V2rayAlpha--6"
+      - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] @FreakConfig #7"
       - "[Hysteria2] @V2rayNG3 #16"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] telegram-@ISVvpn #2"
@@ -260,6 +262,7 @@ proxy-groups:
     interval: 300
     proxies:
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #5"
+      - "[Hysteria2] @NoForcedheaven"
       - "[Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] @V2rayNG3"
       - "[Hysteria2] @V2rayNG3 #1"
@@ -306,7 +309,7 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #3"
-      - "[Hysteria2] @FreakConfig #4"
+      - "[Hysteria2] @V2rayAlpha--All-3"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #1"
       - "[Hysteria2] @Selinc #5"
@@ -320,8 +323,8 @@ proxy-groups:
       - "[Hysteria2] WiFi-@V2rayAlpha--7"
       - "[Hysteria2] @sunflowerplato🌻 #3"
       - "[Hysteria2] WiFi-@V2rayAlpha--6"
+      - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] @FreakConfig #7"
       - "[Hysteria2] @V2rayNG3 #16"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] telegram-@ISVvpn #2"
@@ -367,6 +370,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #5"
+      - "[Hysteria2] @NoForcedheaven"
       - "[Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] @V2rayNG3"
       - "[Hysteria2] @V2rayNG3 #1"
@@ -413,7 +417,7 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #3"
-      - "[Hysteria2] @FreakConfig #4"
+      - "[Hysteria2] @V2rayAlpha--All-3"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #1"
       - "[Hysteria2] @Selinc #5"
@@ -427,8 +431,8 @@ proxy-groups:
       - "[Hysteria2] WiFi-@V2rayAlpha--7"
       - "[Hysteria2] @sunflowerplato🌻 #3"
       - "[Hysteria2] WiFi-@V2rayAlpha--6"
+      - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] @FreakConfig #7"
       - "[Hysteria2] @V2rayNG3 #16"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] telegram-@ISVvpn #2"
@@ -486,6 +490,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #5"
+      - "[Hysteria2] @NoForcedheaven"
       - "[Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] @V2rayNG3"
       - "[Hysteria2] @V2rayNG3 #1"
@@ -532,7 +537,7 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #3"
-      - "[Hysteria2] @FreakConfig #4"
+      - "[Hysteria2] @V2rayAlpha--All-3"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #1"
       - "[Hysteria2] @Selinc #5"
@@ -546,8 +551,8 @@ proxy-groups:
       - "[Hysteria2] WiFi-@V2rayAlpha--7"
       - "[Hysteria2] @sunflowerplato🌻 #3"
       - "[Hysteria2] WiFi-@V2rayAlpha--6"
+      - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] @FreakConfig #7"
       - "[Hysteria2] @V2rayNG3 #16"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] telegram-@ISVvpn #2"
@@ -605,6 +610,7 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #5"
+      - "[Hysteria2] @NoForcedheaven"
       - "[Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] @V2rayNG3"
       - "[Hysteria2] @V2rayNG3 #1"
@@ -651,7 +657,7 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #3"
-      - "[Hysteria2] @FreakConfig #4"
+      - "[Hysteria2] @V2rayAlpha--All-3"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #1"
       - "[Hysteria2] @Selinc #5"
@@ -665,8 +671,8 @@ proxy-groups:
       - "[Hysteria2] WiFi-@V2rayAlpha--7"
       - "[Hysteria2] @sunflowerplato🌻 #3"
       - "[Hysteria2] WiFi-@V2rayAlpha--6"
+      - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] @FreakConfig #7"
       - "[Hysteria2] @V2rayNG3 #16"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] telegram-@ISVvpn #2"
@@ -711,6 +717,7 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #5"
+      - "[Hysteria2] @NoForcedheaven"
       - "[Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] @V2rayNG3"
       - "[Hysteria2] @V2rayNG3 #1"
@@ -757,7 +764,7 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #3"
-      - "[Hysteria2] @FreakConfig #4"
+      - "[Hysteria2] @V2rayAlpha--All-3"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #1"
       - "[Hysteria2] @Selinc #5"
@@ -771,8 +778,8 @@ proxy-groups:
       - "[Hysteria2] WiFi-@V2rayAlpha--7"
       - "[Hysteria2] @sunflowerplato🌻 #3"
       - "[Hysteria2] WiFi-@V2rayAlpha--6"
+      - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] @FreakConfig #7"
       - "[Hysteria2] @V2rayNG3 #16"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] telegram-@ISVvpn #2"
@@ -818,6 +825,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #5"
+      - "[Hysteria2] @NoForcedheaven"
       - "[Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] @V2rayNG3"
       - "[Hysteria2] @V2rayNG3 #1"
@@ -864,7 +872,7 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #3"
-      - "[Hysteria2] @FreakConfig #4"
+      - "[Hysteria2] @V2rayAlpha--All-3"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #1"
       - "[Hysteria2] @Selinc #5"
@@ -878,8 +886,8 @@ proxy-groups:
       - "[Hysteria2] WiFi-@V2rayAlpha--7"
       - "[Hysteria2] @sunflowerplato🌻 #3"
       - "[Hysteria2] WiFi-@V2rayAlpha--6"
+      - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] @FreakConfig #7"
       - "[Hysteria2] @V2rayNG3 #16"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] telegram-@ISVvpn #2"
@@ -934,6 +942,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - "[Hysteria2] 🇳🇱 - NL - @freeOnlineVPN #5"
+      - "[Hysteria2] @NoForcedheaven"
       - "[Hysteria2] @Mr_Config_Group✌️"
       - "[Hysteria2] @V2rayNG3"
       - "[Hysteria2] @V2rayNG3 #1"
@@ -980,7 +989,7 @@ proxy-groups:
       - "[Hysteria2] @FreakConfig"
       - "[Hysteria2] @FreakConfig #1"
       - "[Hysteria2] @FreakConfig #3"
-      - "[Hysteria2] @FreakConfig #4"
+      - "[Hysteria2] @V2rayAlpha--All-3"
       - "[Hysteria2] @Daily_Configs #1"
       - "[Hysteria2] 🇬🇧 - GB - @freeOnlineVPN #1"
       - "[Hysteria2] @Selinc #5"
@@ -994,8 +1003,8 @@ proxy-groups:
       - "[Hysteria2] WiFi-@V2rayAlpha--7"
       - "[Hysteria2] @sunflowerplato🌻 #3"
       - "[Hysteria2] WiFi-@V2rayAlpha--6"
+      - "[Hysteria2] @FreakConfig #5"
       - "[Hysteria2] @FreakConfig #6"
-      - "[Hysteria2] @FreakConfig #7"
       - "[Hysteria2] @V2rayNG3 #16"
       - "[Hysteria2] All--@V2rayAlpha--1"
       - "[Hysteria2] telegram-@ISVvpn #2"
