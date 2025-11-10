@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-10 16:55:37  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-10 20:52:08  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -55,6 +55,13 @@ proxies:
   - {name: "[Hysteria2] @V2rayNG3 #2", server: 109.120.135.123, port: 12122, type: hysteria2, password: 22f2c759db51b3d0, auth: 22f2c759db51b3d0, sni: www.bing.com, skip-cert-verify: false, obfs: salamander, obfs-password: de8287cd33b05fa3}
   - {name: "[Hysteria2] @sunflowerplato🌻", server: 129.153.59.26, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, sni: www.bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@V2rayAlpha--15", server: 40.233.82.111, port: 30300, type: hysteria2, password: 2429bee3-e0c1-47dd-b420-75e6512b184b, auth: 2429bee3-e0c1-47dd-b420-75e6512b184b, sni: www.bing.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All-@V2ray_Alpha--7", server: amsterdam.nezhasu.com, port: 443, type: hysteria2, password: 2b195c17-5ff5-4b0d-a809-210b92212394, auth: 2b195c17-5ff5-4b0d-a809-210b92212394, sni: Amsterdam.nezhasu.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All-@V2ray_Alpha--5", server: falankefu1.nezhasu.com, port: 443, type: hysteria2, password: 2b195c17-5ff5-4b0d-a809-210b92212394, auth: 2b195c17-5ff5-4b0d-a809-210b92212394, sni: falankefu1.nezhasu.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All-@V2ray_Alpha--1", server: lundun1.nezhasu.com, port: 443, type: hysteria2, password: 2b195c17-5ff5-4b0d-a809-210b92212394, auth: 2b195c17-5ff5-4b0d-a809-210b92212394, sni: lundun1.nezhasu.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All-@V2ray_Alpha--2", server: lundun2.nezhasu.com, port: 443, type: hysteria2, password: 2b195c17-5ff5-4b0d-a809-210b92212394, auth: 2b195c17-5ff5-4b0d-a809-210b92212394, sni: lundun2.nezhasu.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All-@V2ray_Alpha--3", server: lundun3.nezhasu.com, port: 443, type: hysteria2, password: 2b195c17-5ff5-4b0d-a809-210b92212394, auth: 2b195c17-5ff5-4b0d-a809-210b92212394, sni: lundun3.nezhasu.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All-@V2ray_Alpha--4", server: lundun4.nezhasu.com, port: 443, type: hysteria2, password: 2b195c17-5ff5-4b0d-a809-210b92212394, auth: 2b195c17-5ff5-4b0d-a809-210b92212394, sni: lundun4.nezhasu.com, skip-cert-verify: false}
+  - {name: "[Hysteria2] All-@V2ray_Alpha--6", server: marseille-1.nezhasu.com, port: 443, type: hysteria2, password: 2b195c17-5ff5-4b0d-a809-210b92212394, auth: 2b195c17-5ff5-4b0d-a809-210b92212394, sni: marseille-1.nezhasu.com, skip-cert-verify: false}
   - {name: "[Hysteria2] MCI-@V2rayAlpha--2", server: 5.231.70.79, port: 443, type: hysteria2, password: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, auth: 2b67ONZROv%2BfRVMxB94BSw%3D%3D, sni: bing.com, skip-cert-verify: false}
   - {name: "[Hysteria2] https://t.me/Selinc", server: 31.57.241.25, port: 7009, type: hysteria2, password: 30c075af-9555-4671-b70e-43e3cfb2e707, auth: 30c075af-9555-4671-b70e-43e3cfb2e707, sni: d.eans.top, skip-cert-verify: false}
   - {name: "[Hysteria2] All-@V2rayAlpha--3", server: hk.xn--9kqw1xbnu.shop, port: 443, type: hysteria2, password: 4a25ab9e-66e3-435a-97a4-276b5c3a1947, auth: 4a25ab9e-66e3-435a-97a4-276b5c3a1947, skip-cert-verify: false}
@@ -69,7 +76,7 @@ proxies:
   - {name: "[Hysteria2] MCi--@IRAN_V2RAY1 #3", server: dir.cybsecguru.com, port: 35000, type: hysteria2, password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c, auth: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] All-@V2rayAlpha--7", server: 206.71.158.40, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, auth: 680210f5-3b5f-4947-9983-e508a15cf169, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] All-@V2rayAlpha--8 #1", server: 206.71.158.41, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, auth: 680210f5-3b5f-4947-9983-e508a15cf169, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
-  - {name: "[Hysteria2] All-@V2ray_Alpha--2", server: dir.cybsecguru.com, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, auth: 680210f5-3b5f-4947-9983-e508a15cf169, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
+  - {name: "[Hysteria2] All-@V2ray_Alpha--2 #1", server: dir.cybsecguru.com, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, auth: 680210f5-3b5f-4947-9983-e508a15cf169, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] telegram-@ISVvpn", server: fra-nb-02.linlujs.pw, port: 29854, type: hysteria2, password: 6803bc9b-1157-431b-8f73-970a6deb741f, auth: 6803bc9b-1157-431b-8f73-970a6deb741f, skip-cert-verify: false}
   - {name: "[Hysteria2] telegram-@ISVvpn #1", server: fra-nb-01.linlujs.pw, port: 24568, type: hysteria2, password: 682c7978-e3eb-44e0-924c-607144495681, auth: 682c7978-e3eb-44e0-924c-607144495681, skip-cert-verify: false}
   - {name: "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:...", server: fra-nb-01.linlujs.pw, port: 24568, type: hysteria2, password: 70197404-7b40-45e4-bb9c-8bc8995012ae, auth: 70197404-7b40-45e4-bb9c-8bc8995012ae, skip-cert-verify: false}
@@ -156,6 +163,13 @@ proxy-groups:
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] All-@V2rayAlpha--15"
+      - "[Hysteria2] All-@V2ray_Alpha--7"
+      - "[Hysteria2] All-@V2ray_Alpha--5"
+      - "[Hysteria2] All-@V2ray_Alpha--1"
+      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--3"
+      - "[Hysteria2] All-@V2ray_Alpha--4"
+      - "[Hysteria2] All-@V2ray_Alpha--6"
       - "[Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] https://t.me/Selinc"
       - "[Hysteria2] All-@V2rayAlpha--3"
@@ -170,7 +184,7 @@ proxy-groups:
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
-      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--2 #1"
       - "[Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
@@ -256,6 +270,13 @@ proxy-groups:
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] All-@V2rayAlpha--15"
+      - "[Hysteria2] All-@V2ray_Alpha--7"
+      - "[Hysteria2] All-@V2ray_Alpha--5"
+      - "[Hysteria2] All-@V2ray_Alpha--1"
+      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--3"
+      - "[Hysteria2] All-@V2ray_Alpha--4"
+      - "[Hysteria2] All-@V2ray_Alpha--6"
       - "[Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] https://t.me/Selinc"
       - "[Hysteria2] All-@V2rayAlpha--3"
@@ -270,7 +291,7 @@ proxy-groups:
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
-      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--2 #1"
       - "[Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
@@ -357,6 +378,13 @@ proxy-groups:
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] All-@V2rayAlpha--15"
+      - "[Hysteria2] All-@V2ray_Alpha--7"
+      - "[Hysteria2] All-@V2ray_Alpha--5"
+      - "[Hysteria2] All-@V2ray_Alpha--1"
+      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--3"
+      - "[Hysteria2] All-@V2ray_Alpha--4"
+      - "[Hysteria2] All-@V2ray_Alpha--6"
       - "[Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] https://t.me/Selinc"
       - "[Hysteria2] All-@V2rayAlpha--3"
@@ -371,7 +399,7 @@ proxy-groups:
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
-      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--2 #1"
       - "[Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
@@ -470,6 +498,13 @@ proxy-groups:
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] All-@V2rayAlpha--15"
+      - "[Hysteria2] All-@V2ray_Alpha--7"
+      - "[Hysteria2] All-@V2ray_Alpha--5"
+      - "[Hysteria2] All-@V2ray_Alpha--1"
+      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--3"
+      - "[Hysteria2] All-@V2ray_Alpha--4"
+      - "[Hysteria2] All-@V2ray_Alpha--6"
       - "[Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] https://t.me/Selinc"
       - "[Hysteria2] All-@V2rayAlpha--3"
@@ -484,7 +519,7 @@ proxy-groups:
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
-      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--2 #1"
       - "[Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
@@ -583,6 +618,13 @@ proxy-groups:
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] All-@V2rayAlpha--15"
+      - "[Hysteria2] All-@V2ray_Alpha--7"
+      - "[Hysteria2] All-@V2ray_Alpha--5"
+      - "[Hysteria2] All-@V2ray_Alpha--1"
+      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--3"
+      - "[Hysteria2] All-@V2ray_Alpha--4"
+      - "[Hysteria2] All-@V2ray_Alpha--6"
       - "[Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] https://t.me/Selinc"
       - "[Hysteria2] All-@V2rayAlpha--3"
@@ -597,7 +639,7 @@ proxy-groups:
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
-      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--2 #1"
       - "[Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
@@ -683,6 +725,13 @@ proxy-groups:
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] All-@V2rayAlpha--15"
+      - "[Hysteria2] All-@V2ray_Alpha--7"
+      - "[Hysteria2] All-@V2ray_Alpha--5"
+      - "[Hysteria2] All-@V2ray_Alpha--1"
+      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--3"
+      - "[Hysteria2] All-@V2ray_Alpha--4"
+      - "[Hysteria2] All-@V2ray_Alpha--6"
       - "[Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] https://t.me/Selinc"
       - "[Hysteria2] All-@V2rayAlpha--3"
@@ -697,7 +746,7 @@ proxy-groups:
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
-      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--2 #1"
       - "[Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
@@ -784,6 +833,13 @@ proxy-groups:
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] All-@V2rayAlpha--15"
+      - "[Hysteria2] All-@V2ray_Alpha--7"
+      - "[Hysteria2] All-@V2ray_Alpha--5"
+      - "[Hysteria2] All-@V2ray_Alpha--1"
+      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--3"
+      - "[Hysteria2] All-@V2ray_Alpha--4"
+      - "[Hysteria2] All-@V2ray_Alpha--6"
       - "[Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] https://t.me/Selinc"
       - "[Hysteria2] All-@V2rayAlpha--3"
@@ -798,7 +854,7 @@ proxy-groups:
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
-      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--2 #1"
       - "[Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
@@ -894,6 +950,13 @@ proxy-groups:
       - "[Hysteria2] @V2rayNG3 #2"
       - "[Hysteria2] @sunflowerplato🌻"
       - "[Hysteria2] All-@V2rayAlpha--15"
+      - "[Hysteria2] All-@V2ray_Alpha--7"
+      - "[Hysteria2] All-@V2ray_Alpha--5"
+      - "[Hysteria2] All-@V2ray_Alpha--1"
+      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--3"
+      - "[Hysteria2] All-@V2ray_Alpha--4"
+      - "[Hysteria2] All-@V2ray_Alpha--6"
       - "[Hysteria2] MCI-@V2rayAlpha--2"
       - "[Hysteria2] https://t.me/Selinc"
       - "[Hysteria2] All-@V2rayAlpha--3"
@@ -908,7 +971,7 @@ proxy-groups:
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
-      - "[Hysteria2] All-@V2ray_Alpha--2"
+      - "[Hysteria2] All-@V2ray_Alpha--2 #1"
       - "[Hysteria2] telegram-@ISVvpn"
       - "[Hysteria2] telegram-@ISVvpn #1"
       - "[Hysteria2] 🇩🇪 DE-telegram-@ISVvpn  🌐 لوکیشن:..."
