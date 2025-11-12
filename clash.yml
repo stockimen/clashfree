@@ -33,6 +33,7 @@ proxies:
   - {name: "[Hysteria2] All-@V2rayAlpha--11", server: 206.71.158.41, port: 35000, type: hysteria2, password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c, auth: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] MCi--@IRAN_V2RAY1 #1", server: 77.90.41.197, port: 35000, type: hysteria2, password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c, auth: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] MCi--@IRAN_V2RAY1 #3", server: dir.cybsecguru.com, port: 35000, type: hysteria2, password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c, auth: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
+  - {name: "[Hysteria2] r♡ya", server: dir.lightnright.com, port: 989, type: hysteria2, password: 6202ab997f570a6a180ae980b41f5789, auth: 6202ab997f570a6a180ae980b41f5789, sni: jnir-x.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi"}
   - {name: "[Hysteria2] All-@V2rayAlpha--7", server: 206.71.158.40, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, auth: 680210f5-3b5f-4947-9983-e508a15cf169, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] All-@V2rayAlpha--8 #1", server: 206.71.158.41, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, auth: 680210f5-3b5f-4947-9983-e508a15cf169, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
   - {name: "[Hysteria2] All-@V2ray_Alpha--2 #1", server: dir.cybsecguru.com, port: 35000, type: hysteria2, password: 680210f5-3b5f-4947-9983-e508a15cf169, auth: 680210f5-3b5f-4947-9983-e508a15cf169, sni: jnir.pichondan.com, skip-cert-verify: false, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"}
@@ -100,11 +101,10 @@ proxies:
   - {name: "[Trojan] 🇺🇸 美国2|@ripaojiedian", server: 117.172.176.25, port: 4054, type: trojan, password: e4e262d453466988575c397a30562337, sni: www.nintendogames.net, skip-cert-verify: false}
   - {name: "[Trojan] 🇺🇸 美国3|@ripaojiedian", server: 116.49.237.130, port: 2173, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
   - {name: "[SS] tg频道:@ripaojiedian 2", server: 3.9.17.198, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
-  - {name: "[Trojan] CN_speednode_0009", server: 36.151.251.38, port: 38799, type: trojan, password: BxceQaOe, sni: t.me/ripaojiedian, skip-cert-verify: false}
-  - {name: "[Trojan] CN_speednode_0012", server: 36.151.251.38, port: 38799, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
-  - {name: "[Trojan] HK_speednode_0023", server: 203.198.122.129, port: 443, type: trojan, password: BxceQaOe, sni: 203.198.122.129, skip-cert-verify: false}
-  - {name: "[Vless] SI_speednode_0026", server: fl-3-direct.djarbnet.ru, port: 443, type: vless, uuid: cc67ca7f-064e-4117-ac31-a66d5728a11c, tls: false, skip-cert-verify: false, servername: fl-3-direct.djarbnet.ru, network: ws, ws-opts: {path: /getupdatessecurity=tls, headers: {Host: fl-3-direct.djarbnet.ru}}}
-  - {name: "[Trojan] US_speednode_0028", server: 51.45.27.162, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: "[Trojan] HK_speednode_0004", server: 116.49.237.130, port: 4569, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
+  - {name: "[Trojan] NL_speednode_0006", server: 194.147.115.149, port: 443, type: trojan, password: c2d6a850-7e35-44f5-ab9f-8299f6f8c72b, sni: joss.dus.biz.id, skip-cert-verify: false, network: ws, ws-opts: {path: /Free-VPN-CF-Geo-Project/194.147.115.149=443, headers: {Host: joss.dus.biz.id}}}
+  - {name: "[Trojan] PL_speednode_0007", server: 45.144.48.158, port: 8443, type: trojan, password: 49d416e1-4cec-41e1-bff6-3748c466f275, sni: joss.dus.biz.id, skip-cert-verify: false, network: ws, ws-opts: {path: /Free-VPN-CF-Geo-Project/45.144.48.158=8443, headers: {Host: joss.dus.biz.id}}}
+  - {name: "[Trojan] RU_speednode_0009", server: 213.159.208.88, port: 2053, type: trojan, password: 14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2, sni: joss.dus.biz.id, skip-cert-verify: false, network: ws, ws-opts: {path: /Free-VPN-CF-Geo-Project/213.159.208.88=2053, headers: {Host: joss.dus.biz.id}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🔰 节点选择
@@ -140,6 +140,7 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--11"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #1"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
+      - "[Hysteria2] r♡ya"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
       - "[Hysteria2] All-@V2ray_Alpha--2 #1"
@@ -207,11 +208,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0009"
-      - "[Trojan] CN_speednode_0012"
-      - "[Trojan] HK_speednode_0023"
-      - "[Vless] SI_speednode_0026"
-      - "[Trojan] US_speednode_0028"
+      - "[Trojan] HK_speednode_0004"
+      - "[Trojan] NL_speednode_0006"
+      - "[Trojan] PL_speednode_0007"
+      - "[Trojan] RU_speednode_0009"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
@@ -246,6 +246,7 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--11"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #1"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
+      - "[Hysteria2] r♡ya"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
       - "[Hysteria2] All-@V2ray_Alpha--2 #1"
@@ -313,11 +314,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0009"
-      - "[Trojan] CN_speednode_0012"
-      - "[Trojan] HK_speednode_0023"
-      - "[Vless] SI_speednode_0026"
-      - "[Trojan] US_speednode_0028"
+      - "[Trojan] HK_speednode_0004"
+      - "[Trojan] NL_speednode_0006"
+      - "[Trojan] PL_speednode_0007"
+      - "[Trojan] RU_speednode_0009"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
@@ -353,6 +353,7 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--11"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #1"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
+      - "[Hysteria2] r♡ya"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
       - "[Hysteria2] All-@V2ray_Alpha--2 #1"
@@ -420,11 +421,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0009"
-      - "[Trojan] CN_speednode_0012"
-      - "[Trojan] HK_speednode_0023"
-      - "[Vless] SI_speednode_0026"
-      - "[Trojan] US_speednode_0028"
+      - "[Trojan] HK_speednode_0004"
+      - "[Trojan] NL_speednode_0006"
+      - "[Trojan] PL_speednode_0007"
+      - "[Trojan] RU_speednode_0009"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
@@ -472,6 +472,7 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--11"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #1"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
+      - "[Hysteria2] r♡ya"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
       - "[Hysteria2] All-@V2ray_Alpha--2 #1"
@@ -539,11 +540,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0009"
-      - "[Trojan] CN_speednode_0012"
-      - "[Trojan] HK_speednode_0023"
-      - "[Vless] SI_speednode_0026"
-      - "[Trojan] US_speednode_0028"
+      - "[Trojan] HK_speednode_0004"
+      - "[Trojan] NL_speednode_0006"
+      - "[Trojan] PL_speednode_0007"
+      - "[Trojan] RU_speednode_0009"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
@@ -589,6 +589,7 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--11"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #1"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
+      - "[Hysteria2] r♡ya"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
       - "[Hysteria2] All-@V2ray_Alpha--2 #1"
@@ -656,11 +657,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0009"
-      - "[Trojan] CN_speednode_0012"
-      - "[Trojan] HK_speednode_0023"
-      - "[Vless] SI_speednode_0026"
-      - "[Trojan] US_speednode_0028"
+      - "[Trojan] HK_speednode_0004"
+      - "[Trojan] NL_speednode_0006"
+      - "[Trojan] PL_speednode_0007"
+      - "[Trojan] RU_speednode_0009"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
@@ -695,6 +695,7 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--11"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #1"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
+      - "[Hysteria2] r♡ya"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
       - "[Hysteria2] All-@V2ray_Alpha--2 #1"
@@ -762,11 +763,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0009"
-      - "[Trojan] CN_speednode_0012"
-      - "[Trojan] HK_speednode_0023"
-      - "[Vless] SI_speednode_0026"
-      - "[Trojan] US_speednode_0028"
+      - "[Trojan] HK_speednode_0004"
+      - "[Trojan] NL_speednode_0006"
+      - "[Trojan] PL_speednode_0007"
+      - "[Trojan] RU_speednode_0009"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
@@ -802,6 +802,7 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--11"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #1"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
+      - "[Hysteria2] r♡ya"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
       - "[Hysteria2] All-@V2ray_Alpha--2 #1"
@@ -869,11 +870,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0009"
-      - "[Trojan] CN_speednode_0012"
-      - "[Trojan] HK_speednode_0023"
-      - "[Vless] SI_speednode_0026"
-      - "[Trojan] US_speednode_0028"
+      - "[Trojan] HK_speednode_0004"
+      - "[Trojan] NL_speednode_0006"
+      - "[Trojan] PL_speednode_0007"
+      - "[Trojan] RU_speednode_0009"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
@@ -918,6 +918,7 @@ proxy-groups:
       - "[Hysteria2] All-@V2rayAlpha--11"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #1"
       - "[Hysteria2] MCi--@IRAN_V2RAY1 #3"
+      - "[Hysteria2] r♡ya"
       - "[Hysteria2] All-@V2rayAlpha--7"
       - "[Hysteria2] All-@V2rayAlpha--8 #1"
       - "[Hysteria2] All-@V2ray_Alpha--2 #1"
@@ -985,11 +986,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
-      - "[Trojan] CN_speednode_0009"
-      - "[Trojan] CN_speednode_0012"
-      - "[Trojan] HK_speednode_0023"
-      - "[Vless] SI_speednode_0026"
-      - "[Trojan] US_speednode_0028"
+      - "[Trojan] HK_speednode_0004"
+      - "[Trojan] NL_speednode_0006"
+      - "[Trojan] PL_speednode_0007"
+      - "[Trojan] RU_speednode_0009"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
