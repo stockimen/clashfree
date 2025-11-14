@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-13 20:51:11  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-14 02:22:21  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -160,20 +160,24 @@ proxies:
   - {name: "[Trojan] 🇭🇰 香港3|@ripaojiedian", server: 58.152.110.9, port: 443, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
   - {name: "[Trojan] 🇭🇰 香港4|@ripaojiedian", server: 203.198.122.97, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
   - {name: "[Trojan] 🇭🇰 香港5|@ripaojiedian", server: 219.77.239.35, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
-  - {name: "[Trojan] 🇭🇰 香港6|@ripaojiedian", server: 118.253.166.237, port: 49213, type: trojan, password: 50a99183-2543-40bd-98a2-12bbc6ecf882, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
-  - {name: "[SS] 🇭🇰 香港7|@ripaojiedian", server: oshk02.mynode.me, port: 2000, type: ss, cipher: chacha20-ietf, password: passwd}
-  - {name: "[Trojan] 🇯🇵 日本|@ripaojiedian", server: 36.150.215.246, port: 2145, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
-  - {name: "[Trojan] 🇯🇵 日本2|@ripaojiedian", server: 160.16.204.136, port: 1334, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: "[Trojan] 🇯🇵 日本3|@ripaojiedian", server: 160.16.214.6, port: 4095, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: "[VMess] 🇯🇵 日本4|@ripaojiedian", server: 175.29.22.101, port: 28016, type: vmess, uuid: d2540325-9ad6-33d7-be86-259b5bba4ef8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: "[Trojan] 🇸🇬 新加坡|@ripaojiedian", server: 160.16.106.144, port: 2760, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: "[Trojan] 🇸🇬 新加坡2|@ripaojiedian", server: 160.16.106.144, port: 127, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[SS] 🇭🇰 香港6|@ripaojiedian", server: 103.149.182.158, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456}
+  - {name: "[VMess] 🇭🇰 香港7|@ripaojiedian", server: onecat-jp.03ezhg0qsa.download, port: 25007, type: vmess, uuid: 69749298-6821-3358-b6d3-1d18d8642cba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[Trojan] 🇯🇵 日本|@ripaojiedian", server: 36.150.215.246, port: 4011, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
+  - {name: "[Trojan] 🇯🇵 日本2|@ripaojiedian", server: 160.16.132.158, port: 1334, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[Trojan] 🇯🇵 日本3|@ripaojiedian", server: 160.16.196.59, port: 3169, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[VMess] 🇯🇵 日本4|@ripaojiedian", server: 114.98.183.61, port: 47083, type: vmess, uuid: b3fa070f-5511-48be-934b-f632f6b8a7c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[VMess] 🇰🇷 韩国|@ripaojiedian", server: 114.98.183.61, port: 47093, type: vmess, uuid: b3fa070f-5511-48be-934b-f632f6b8a7c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[Trojan] 🇸🇬 新加坡|@ripaojiedian", server: 160.16.81.84, port: 2760, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[Trojan] 🇸🇬 新加坡2|@ripaojiedian", server: 160.16.124.55, port: 5553, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
   - {name: "[Trojan] 🇸🇬 新加坡3|@ripaojiedian", server: 116.49.237.130, port: 2753, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
-  - {name: "[Trojan] 🇺🇸 美国|@ripaojiedian", server: 160.16.68.250, port: 2890, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: "[Trojan] 🇺🇸 美国|@ripaojiedian", server: 160.16.107.37, port: 4211, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
   - {name: "[Trojan] 🇺🇸 美国2|@ripaojiedian", server: 117.172.176.25, port: 4054, type: trojan, password: 2274c52572e721086f8bd8f88984643c, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: "[Trojan] 🇺🇸 美国3|@ripaojiedian", server: 36.150.215.243, port: 19220, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
+  - {name: "[Trojan] 🇺🇸 美国3|@ripaojiedian", server: 116.49.237.130, port: 4094, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
   - {name: "[SS] tg频道:@ripaojiedian 2", server: 3.9.17.198, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
-  - {name: "[VMess] 🇯🇵 日本4|@ripaojiedian 2", server: 175.29.22.101, port: 28016, type: vmess, uuid: d2540325-9ad6-33d7-be86-259b5bba4ef8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[SS] 🇭🇰 香港6|@ripaojiedian 2", server: 103.149.182.158, port: 8388, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY}
+  - {name: "[VMess] 🇭🇰 香港7|@ripaojiedian 2", server: onecat-jp.03ezhg0qsa.download, port: 25007, type: vmess, uuid: 69749298-6821-3358-b6d3-1d18d8642cba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[VMess] 🇯🇵 日本4|@ripaojiedian 2", server: 114.98.183.61, port: 47083, type: vmess, uuid: b3fa070f-5511-48be-934b-f632f6b8a7c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: "[VMess] 🇰🇷 韩国|@ripaojiedian 2", server: 114.98.183.61, port: 47093, type: vmess, uuid: b3fa070f-5511-48be-934b-f632f6b8a7c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "[Trojan] BE_speednode_0001", server: 34.22.190.30, port: 443, type: trojan, password: 88701884-7690-4b79-ac5d-36d299e05e83, sni: joss.dus.biz.id, skip-cert-verify: false, network: ws, ws-opts: {path: /Free-VPN-CF-Geo-Project/34.22.190.30=443, headers: {Host: joss.dus.biz.id}}}
   - {name: "[Trojan] IL_speednode_0008", server: 94.131.114.50, port: 81, type: trojan, password: a5a3350e-6ea2-4e12-ae84-20db849ce1fc, sni: joss.dus.biz.id, skip-cert-verify: false, network: ws, ws-opts: {path: /Free-VPN-CF-Geo-Project/94.131.114.50=81, headers: {Host: joss.dus.biz.id}}}
   - {name: "[Trojan] NL_speednode_0015", server: 86.107.197.239, port: 443, type: trojan, password: 5ad5fe82-6b60-4f59-977b-93910ef7a9ca, sni: joss.dus.biz.id, skip-cert-verify: false, network: ws, ws-opts: {path: /Free-VPN-CF-Geo-Project/86.107.197.239=443, headers: {Host: joss.dus.biz.id}}}
@@ -182,7 +186,6 @@ proxies:
   - {name: "[Trojan] SE_speednode_0020", server: 77.221.141.207, port: 443, type: trojan, password: edeff73d-065d-4b0a-b848-aad9d3380223, sni: joss.dus.biz.id, skip-cert-verify: false, network: ws, ws-opts: {path: /Free-VPN-CF-Geo-Project/77.221.141.207=443, headers: {Host: joss.dus.biz.id}}}
   - {name: "[Vless] US_speednode_0025", server: br.pouriau.com, port: 2052, type: vless, uuid: bc4ee22b-87f5-4bc0-b0f5-3cd802d716e2, tls: false, skip-cert-verify: false, servername: rosiassn.digikala.com.snnapfood.ir.varzesh3.com.shobb.ir.kdvhgkri558rvhnfjrdghriuygfkrdhihifjdfjssiedhfgjung2.bonyadedocker.ir.2.xziba.com., network: ws, ws-opts: {path: "/---ping---www.speedtest.net?ed=2080", headers: {Host: rosiassn.digikala.com.snnapfood.ir.varzesh3.com.shobb.ir.kdvhgkri558rvhnfjrdghriuygfkrdhihifjdfjssiedhfgjung2.bonyadedocker.ir.2.xziba.com.}}}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
-  - {name: "[SS] 🇭🇰 香港7|@ripaojiedian 2", server: oshk02.mynode.me, port: 2000, type: ss, cipher: chacha20-ietf, password: passwd, plugin: obfs, plugin-opts: {mode: http, host: 31832-qOf3ahM8.download.microsoft.com}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -303,12 +306,13 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] 🇭🇰 香港6|@ripaojiedian"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡3|@ripaojiedian"
@@ -316,7 +320,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[Trojan] BE_speednode_0001"
       - "[Trojan] IL_speednode_0008"
       - "[Trojan] NL_speednode_0015"
@@ -325,7 +332,6 @@ proxy-groups:
       - "[Trojan] SE_speednode_0020"
       - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -445,12 +451,13 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] 🇭🇰 香港6|@ripaojiedian"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡3|@ripaojiedian"
@@ -458,7 +465,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[Trojan] BE_speednode_0001"
       - "[Trojan] IL_speednode_0008"
       - "[Trojan] NL_speednode_0015"
@@ -467,7 +477,6 @@ proxy-groups:
       - "[Trojan] SE_speednode_0020"
       - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -588,12 +597,13 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] 🇭🇰 香港6|@ripaojiedian"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡3|@ripaojiedian"
@@ -601,7 +611,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[Trojan] BE_speednode_0001"
       - "[Trojan] IL_speednode_0008"
       - "[Trojan] NL_speednode_0015"
@@ -610,7 +623,6 @@ proxy-groups:
       - "[Trojan] SE_speednode_0020"
       - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -743,12 +755,13 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] 🇭🇰 香港6|@ripaojiedian"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡3|@ripaojiedian"
@@ -756,7 +769,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[Trojan] BE_speednode_0001"
       - "[Trojan] IL_speednode_0008"
       - "[Trojan] NL_speednode_0015"
@@ -765,7 +781,6 @@ proxy-groups:
       - "[Trojan] SE_speednode_0020"
       - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -775,10 +790,11 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] 🇭🇰 香港6|@ripaojiedian"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian 2"
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
@@ -899,12 +915,13 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] 🇭🇰 香港6|@ripaojiedian"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡3|@ripaojiedian"
@@ -912,7 +929,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[Trojan] BE_speednode_0001"
       - "[Trojan] IL_speednode_0008"
       - "[Trojan] NL_speednode_0015"
@@ -921,7 +941,6 @@ proxy-groups:
       - "[Trojan] SE_speednode_0020"
       - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -1041,12 +1060,13 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] 🇭🇰 香港6|@ripaojiedian"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡3|@ripaojiedian"
@@ -1054,7 +1074,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[Trojan] BE_speednode_0001"
       - "[Trojan] IL_speednode_0008"
       - "[Trojan] NL_speednode_0015"
@@ -1063,7 +1086,6 @@ proxy-groups:
       - "[Trojan] SE_speednode_0020"
       - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1184,12 +1206,13 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] 🇭🇰 香港6|@ripaojiedian"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡3|@ripaojiedian"
@@ -1197,7 +1220,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[Trojan] BE_speednode_0001"
       - "[Trojan] IL_speednode_0008"
       - "[Trojan] NL_speednode_0015"
@@ -1206,7 +1232,6 @@ proxy-groups:
       - "[Trojan] SE_speednode_0020"
       - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1336,12 +1361,13 @@ proxy-groups:
       - "[Trojan] 🇭🇰 香港3|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港4|@ripaojiedian"
       - "[Trojan] 🇭🇰 香港5|@ripaojiedian"
-      - "[Trojan] 🇭🇰 香港6|@ripaojiedian"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本2|@ripaojiedian"
       - "[Trojan] 🇯🇵 日本3|@ripaojiedian"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡2|@ripaojiedian"
       - "[Trojan] 🇸🇬 新加坡3|@ripaojiedian"
@@ -1349,7 +1375,10 @@ proxy-groups:
       - "[Trojan] 🇺🇸 美国2|@ripaojiedian"
       - "[Trojan] 🇺🇸 美国3|@ripaojiedian"
       - "[SS] tg频道:@ripaojiedian 2"
+      - "[SS] 🇭🇰 香港6|@ripaojiedian 2"
+      - "[VMess] 🇭🇰 香港7|@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
+      - "[VMess] 🇰🇷 韩国|@ripaojiedian 2"
       - "[Trojan] BE_speednode_0001"
       - "[Trojan] IL_speednode_0008"
       - "[Trojan] NL_speednode_0015"
@@ -1358,7 +1387,6 @@ proxy-groups:
       - "[Trojan] SE_speednode_0020"
       - "[Vless] US_speednode_0025"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
-      - "[SS] 🇭🇰 香港7|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
