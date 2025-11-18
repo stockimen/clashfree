@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-18 13:19:43  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-11-18 16:56:52  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -188,7 +188,11 @@ proxies:
   - {name: "[SS] tg频道:@ripaojiedian 2", server: 3.9.17.198, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU}
   - {name: "[VMess] 🇯🇵 日本4|@ripaojiedian 2", server: 178.157.57.166, port: 15003, type: vmess, uuid: edf4c847-3164-4d63-ab9b-c98acba96f1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: "[SS] 🇻🇳 越南|@ripaojiedian 2", server: 103.186.154.225, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW}
-  - {name: "[Vless] RU_speednode_0013", server: 81.161.98.228, port: 1443, type: vless, uuid: 00f02ab2-6f2d-449f-a089-d182a2fac59a, tls: false, skip-cert-verify: false, servername: cdn.filterai.ru, network: ws, ws-opts: {path: /websocketplsecurity=tls, headers: {Host: cdn.filterai.ru}}}
+  - {name: "[Trojan] CH_speednode_0001", server: 194.87.18.124, port: 443, type: trojan, password: 019a8c1f-3d28-74e8-8a8e-40045d7ec77f, sni: www.bilibili.com, skip-cert-verify: false}
+  - {name: "[Trojan] IL_speednode_0006", server: 45.144.172.243, port: 443, type: trojan, password: 019a8c1f-3d28-74e8-8a8e-40045d7ec77f, sni: www.bilibili.com, skip-cert-verify: false}
+  - {name: "[Vless] RU_speednode_0012", server: 81.161.98.228, port: 1443, type: vless, uuid: 00f02ab2-6f2d-449f-a089-d182a2fac59a, tls: false, skip-cert-verify: false, servername: cdn.filterai.ru, network: ws, ws-opts: {path: /websocketplsecurity=tls, headers: {Host: cdn.filterai.ru}}}
+  - {name: "[Trojan] US_speednode_0013", server: 108.165.255.5, port: 443, type: trojan, password: 019a8c1f-3d28-74e8-8a8e-40045d7ec77f, sni: www.bilibili.com, skip-cert-verify: false}
+  - {name: "[Trojan] US_speednode_0014", server: 96.126.190.132, port: 443, type: trojan, password: 019a8c1f-3d28-74e8-8a8e-40045d7ec77f, sni: www.bilibili.com, skip-cert-verify: false}
   - {name: "[SS] 🇭🇰 香港2|@ripaojiedian 2", server: 103.103.245.158, port: 443, type: ss, cipher: aes-256-gcm, password: ccf426f1fe78, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: newroot2v1.dsjsapp.com, path: /zksuapgx, tls: true, mux: true, skip-cert-verify: false}}
 proxy-groups:
   - name: 🔰 节点选择
@@ -338,7 +342,11 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] RU_speednode_0013"
+      - "[Trojan] CH_speednode_0001"
+      - "[Trojan] IL_speednode_0006"
+      - "[Vless] RU_speednode_0012"
+      - "[Trojan] US_speednode_0013"
+      - "[Trojan] US_speednode_0014"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ♻️ 自动选择
     type: url-test
@@ -487,7 +495,11 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] RU_speednode_0013"
+      - "[Trojan] CH_speednode_0001"
+      - "[Trojan] IL_speednode_0006"
+      - "[Vless] RU_speednode_0012"
+      - "[Trojan] US_speednode_0013"
+      - "[Trojan] US_speednode_0014"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎥 NETFLIX
     type: select
@@ -637,7 +649,11 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] RU_speednode_0013"
+      - "[Trojan] CH_speednode_0001"
+      - "[Trojan] IL_speednode_0006"
+      - "[Vless] RU_speednode_0012"
+      - "[Trojan] US_speednode_0013"
+      - "[Trojan] US_speednode_0014"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: ⛔️ 广告拦截
     type: select
@@ -799,7 +815,11 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] RU_speednode_0013"
+      - "[Trojan] CH_speednode_0001"
+      - "[Trojan] IL_speednode_0006"
+      - "[Vless] RU_speednode_0012"
+      - "[Trojan] US_speednode_0013"
+      - "[Trojan] US_speednode_0014"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🌏 国内媒体
     type: select
@@ -959,7 +979,11 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] RU_speednode_0013"
+      - "[Trojan] CH_speednode_0001"
+      - "[Trojan] IL_speednode_0006"
+      - "[Vless] RU_speednode_0012"
+      - "[Trojan] US_speednode_0013"
+      - "[Trojan] US_speednode_0014"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 📲 电报信息
     type: select
@@ -1108,7 +1132,11 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] RU_speednode_0013"
+      - "[Trojan] CH_speednode_0001"
+      - "[Trojan] IL_speednode_0006"
+      - "[Vless] RU_speednode_0012"
+      - "[Trojan] US_speednode_0013"
+      - "[Trojan] US_speednode_0014"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🍎 苹果服务
     type: select
@@ -1258,7 +1286,11 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] RU_speednode_0013"
+      - "[Trojan] CH_speednode_0001"
+      - "[Trojan] IL_speednode_0006"
+      - "[Vless] RU_speednode_0012"
+      - "[Trojan] US_speednode_0013"
+      - "[Trojan] US_speednode_0014"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
   - name: 🎯 全球直连
     type: select
@@ -1417,7 +1449,11 @@ proxy-groups:
       - "[SS] tg频道:@ripaojiedian 2"
       - "[VMess] 🇯🇵 日本4|@ripaojiedian 2"
       - "[SS] 🇻🇳 越南|@ripaojiedian 2"
-      - "[Vless] RU_speednode_0013"
+      - "[Trojan] CH_speednode_0001"
+      - "[Trojan] IL_speednode_0006"
+      - "[Vless] RU_speednode_0012"
+      - "[Trojan] US_speednode_0013"
+      - "[Trojan] US_speednode_0014"
       - "[SS] 🇭🇰 香港2|@ripaojiedian 2"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
