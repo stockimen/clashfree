@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-12-18 13:23:20  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2025-12-18 20:51:15  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -46,85 +46,78 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇬🇧 GB SS-01 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 🇩🇪 DE VLESS-02 | free-nodes, server: 185.235.241.132, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
-  - {name: 🇩🇪 DE VLESS-03 | free-nodes, server: 185.235.241.122, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
-  - {name: 🇬🇧 GB SS-04 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 🇩🇪 DE TROJAN-05 | free-nodes, server: 18.157.205.172, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, alpn: [http%2F1.1], skip-cert-verify: false}
-  - {name: 🇬🇧 GB VLESS-06 | free-nodes, server: 212.134.174.249, port: 48778, type: vless, uuid: 92d12a33-19c1-487c-b7e0-122014793fce, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: W8s0O7u6tZqZcYjy53w-_O2PZyO_HjUNIJTKFNMkyQM, short-id: "cc82826f" }, servername: apple.com, client-fingerprint: chrome, network: tcp}
-  - {name: 未知 VLESS-07 | free-nodes, server: sv1.avaaal.ir, port: 12559, type: vless, uuid: f1ea701d-e33b-4606-955b-3d788b8b8860, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [skyroom.online]}}}
-  - {name: 未知 SS-08 | free-nodes, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇬🇧 GB SS-09 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 未知 VLESS-10 | free-nodes, server: 141.98.169.101, port: 443, type: vless, uuid: 50343a81-a35e-44b9-a6a6-0b7dd6711ed4, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ufkipews, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI"}}}
-  - {name: 🇬🇧 GB VLESS-11 | free-nodes, server: 185.218.3.9, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
-  - {name: 🇩🇪 DE VLESS-12 | free-nodes, server: 185.235.241.117, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
-  - {name: 未知 VLESS-13 | free-nodes, server: 81.27.100.89, port: 4655, type: vless, uuid: 82f9beee-a609-47f2-9142-14c25258dc0b, tls: false, tfo: false, skip-cert-verify: false, network: tcp}
-  - {name: 🇺🇸 US VLESS-14 | free-nodes, server: 64.188.115.219, port: 443, type: vless, uuid: 0ea84d1f-2687-467d-97dd-ed8d5e8f3f42, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: lH-huUA9Ek_XYglIopgfGL3lJ-qn8rXK8iG1tlXrxls, short-id: "1c" }, servername: web.max.ru, client-fingerprint: chrome, network: tcp}
-  - {name: 🇬🇧 GB SS-15 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 🇺🇸 US SS-16 | free-nodes, server: 217.60.249.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0eC4ZBvStOgQEzTpCYjWN5}
-  - {name: 🇩🇪 DE SS-17 | free-nodes, server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl}
-  - {name: 🇷🇺 RU VLESS-18 | free-nodes, server: 109.248.203.71, port: 443, type: vless, uuid: 6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: PfxP7-Pvot9Y8z5boZwuG3Afyb_zdm0C2HCZezNMTiQ, short-id: "85225c27630d023f" }, servername: www.google.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇭🇰 HK TROJAN-19 | free-nodes, server: 112.118.116.8, port: 443, type: trojan, password: e2722c0fb503f8a592436c12bce0509a, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: 未知 VLESS-20 | free-nodes, server: sv1.avaaal.ir, port: 12559, type: vless, uuid: f1ea701d-e33b-4606-955b-3d788b8b8860, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [skyroom.online]}}}
-  - {name: 未知 VLESS-21 | free-nodes, server: 103.90.75.252, port: 3001, type: vless, uuid: 61757901-3818-46c7-8482-683fa7f6ba10, tls: false, tfo: false, skip-cert-verify: false, network: tcp}
-  - {name: 🇫🇷 FR TROJAN-22 | free-nodes, server: 52.47.143.44, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, alpn: [http%2F1.1], skip-cert-verify: false}
-  - {name: 🇬🇧 GB VLESS-23 | free-nodes, server: 64.227.47.120, port: 443, type: vless, uuid: 912eacc1-42b4-4d0f-a8ba-abb825c1d468, tls: true, tfo: false, skip-cert-verify: false, servername: api.avito.ru, network: ws, ws-opts: {path: /ulptgqws, headers: {Host: api.avito.ru}}}
-  - {name: 🇩🇪 DE VLESS-24 | free-nodes, server: 94.131.110.108, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
-  - {name: 🇬🇧 GB VLESS-25 | free-nodes, server: 209.97.183.92, port: 443, type: vless, uuid: 9e5646ba-c661-41cd-8321-a164139b12cf, tls: true, tfo: false, skip-cert-verify: false, servername: fuck.rkn, network: ws, ws-opts: {path: /wwkmrkws, headers: {Host: fuck.rkn}}}
-  - {name: 🇬🇧 GB VLESS-26 | free-nodes, server: 134.209.25.162, port: 443, type: vless, uuid: cd94bc5e-3a8b-4b12-9651-8b7ef803c52c, tls: true, tfo: false, skip-cert-verify: false, servername: io.ozone.ru, network: ws, ws-opts: {path: /axtdgmws, headers: {Host: io.ozone.ru}}}
-  - {name: 🇺🇸 US VLESS-27 | free-nodes, server: root.api-music-fa.com, port: 2053, type: vless, uuid: db162b74-0da8-4c69-8b17-2d89defabc24, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /J5aLQOY1R9ONWYCM, headers: {Host: root.api-music-fa.com}}}
-  - {name: 🇩🇪 DE VLESS-33 | free-nodes, server: 49.13.203.113, port: 2050, type: vless, uuid: 44dd59b7-a153-44de-8b62-c2affe0fff02, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: Tua_E2HKPrVU1Xikr5b0v0uKKUjpAnG5w8UjqfoEnkI, short-id: "35d64c10241d8efc" }, servername: canva.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇸 US TROJAN-38 | free-nodes, server: 107.174.82.102.sslip.io, port: 443, type: trojan, password: bb824a22-b7ce-427b-9ed6-1adf0751da02, sni: 107.174.82.102.sslip.io, skip-cert-verify: false, network: ws, ws-opts: {path: /gXKGj8a1tp1nNbZEcRugowKV, headers: {Host: 107.174.82.102.sslip.io}}}
-  - {name: 🇩🇪 DE VLESS-39 | free-nodes, server: 46.224.141.141, port: 2025, type: vless, uuid: 49b3e9b9-dedb-4abd-ac4d-05bc64e7edcb, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: hGlEVjlgkbHz7APkZPO6ZV3WEtCJW3Wkdx7xOISyP3Y, short-id: "d9" }, servername: miro.com, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12}}
-  - {name: 🇩🇪 DE VLESS-45 | free-nodes, server: 178.154.205.131, port: 443, type: vless, uuid: fd4b0117-d752-46fd-9a94-21a21e360fdb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs, short-id: "672ff0" }, servername: ads.x5.ru, client-fingerprint: chrome, network: tcp}
-  - {name: 🇭🇰 HK TROJAN-46 | free-nodes, server: 58.152.30.31, port: 443, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: false}
-  - {name: 🇬🇧 GB SS-62 | free-nodes, server: 51.195.203.247, port: 8443, type: ss, cipher: chacha20-ietf-poly1305, password: OMOpV2XCoMOBYsKGAjLDmsKkw6bDpMOkdVhtD15fwpQqw70AN8Krw6AyH8OaCQ==}
-  - {name: 未知 VLESS-64 | free-nodes, server: betty.ns.cloudflare.com, port: 443, type: vless, uuid: d64620c6-2ec3-4da7-a151-febd14d7824e, tls: true, tfo: false, skip-cert-verify: false, servername: 639014902535774186.supra-amsjh.info, network: ws, ws-opts: {path: /rdwnyews, headers: {Host: 639014902535774186.supra-amsjh.info}}}
-  - {name: 🇬🇧 GB VLESS-71 | free-nodes, server: 134.209.31.137, port: 443, type: vless, uuid: 5815b555-9907-45ae-94f2-e0c0af7860e3, tls: true, tfo: false, skip-cert-verify: false, servername: www.vk.com, network: ws, ws-opts: {path: /nyslkrws, headers: {Host: www.vk.com}}}
-  - {name: 🇩🇪 DE VLESS-76 | free-nodes, server: 185.235.241.127, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
-  - {name: 🇩🇪 DE VLESS-79 | free-nodes, server: 185.235.241.97, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
-  - {name: 🇩🇪 DE VLESS-81 | free-nodes, server: 185.235.241.129, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
-  - {name: 未知 SS-82 | free-nodes, server: 46.246.96.30, port: 31561, type: ss, cipher: chacha20-ietf-poly1305, password: hc8LMJew3Fl9MbcFCoFgT0}
-  - {name: 🇩🇪 DE VLESS-83 | free-nodes, server: 91.98.193.27, port: 443, type: vless, uuid: 2ee2a715-d541-416a-8713-d66567448c2e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 未知 VLESS-89 | free-nodes, server: 185.136.132.171, port: 24170, type: vless, uuid: fe21e399-ec6f-4cb5-8441-e911178665b1, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: VsmNi1ZMXVOwhCWpbCp51w-D_DzrxWX4jgfpcU0S9G4, short-id: "2fb2106a629b" }, servername: speedtest.net, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇸 US VLESS-90 | free-nodes, server: 156.229.161.107, port: 10001, type: vless, uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4, short-id: "fb2c6678" }, servername: www.icloud.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇭🇰 HK TROJAN-91 | free-nodes, server: 219.79.214.159, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
-  - {name: 未知 SS-93 | free-nodes, server: 138.124.67.26, port: 25572, type: ss, cipher: chacha20-ietf-poly1305, password: nqcIfYHlpMn3jzqkNDjKaG}
-  - {name: 未知 SS-95 | free-nodes, server: 194.156.103.148, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: qdpM4ROvoLtayi7NN9DIId}
-  - {name: 未知 SS-97 | free-nodes, server: 5.181.21.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gKYygTcRYhc3skc2x6tZ073lYz0DnieX}
-  - {name: 🇫🇷 FR TROJAN-100 | free-nodes, server: 195.154.202.25, port: 58290, type: trojan, password: 90y2l3mu48d10uy3ibad, sni: ads.x5.ru, skip-cert-verify: false}
-  - {name: 未知 VLESS-101 | free-nodes, server: zula.ir, port: 443, type: vless, uuid: 73856b73-19d2-47e6-b991-5eaa421161ea, tls: true, alpn: [http/1.1], tfo: false, skip-cert-verify: false, servername: aEZA3HoSTpHAseCoNDuCtSofarnEWcAMpvLWS.MMogAmES.iR., network: ws, ws-opts: {path: "/admin?ed=1024", headers: {Host: aEZA3HoSTpHAseCoNDuCtSofarnEWcAMpvLWS.MMogAmES.iR.}}}
-  - {name: 🇩🇪 DE VLESS-102 | free-nodes, server: www.speedtest.net, port: 443, type: vless, uuid: 73856b73-19d2-47e6-b991-5eaa421161ea, tls: true, alpn: [http/1.1], tfo: false, skip-cert-verify: false, servername: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR., network: ws, ws-opts: {path: "/admin?ed=1024", headers: {Host: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR.}}}
-  - {name: 🇭🇰 HK SS-103 | free-nodes, server: 194.246.114.101, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk}
-  - {name: 🇩🇪 DE VLESS-105 | free-nodes, server: 91.98.148.160, port: 443, type: vless, uuid: 2ee2a715-d541-416a-8713-d66567448c2e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 🇩🇪 DE VLESS-106 | free-nodes, server: 91.107.130.214, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 🇺🇸 US VLESS-107 | free-nodes, server: support.zoom.us, port: 2096, type: vless, uuid: fba4e0e0-118c-431f-9f6a-4cfc99f39de8, tls: true, alpn: [h3], tfo: false, skip-cert-verify: false, servername: zoom.seaseus.pp.ua, client-fingerprint: chrome, network: ws, ws-opts: {path: /seaseus, headers: {Host: zoom.seaseus.pp.ua}}}
-  - {name: 🇩🇪 DE VLESS-108 | free-nodes, server: newsletter.mydailynews.info, port: 443, type: vless, uuid: 7578f457-0f1f-416d-b136-f833f4544e24, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: newsletter.mydailynews.info}}}
-  - {name: 🇩🇪 DE VLESS-109 | free-nodes, server: V2ngnet.heloisfood.ir, port: 4488, type: vless, uuid: 0d25085e-b6c4-410a-b206-4dde607cff6c, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet"}}
-  - {name: TR TROJAN-110 | free-nodes, server: 146.70.90.195, port: 57452, type: trojan, password: t1k169n5zmvvwn96r9ft, sni: api-yandex.maps.ru, skip-cert-verify: false}
-  - {name: TR SS-111 | free-nodes, server: 94.131.123.236, port: 5223, type: ss, cipher: chacha20-ietf-poly1305, password: 3IJj3PFglv7UJNkX9ugR59}
-  - {name: 未知 SS-112 | free-nodes, server: 193.29.139.150, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 未知 SS-113 | free-nodes, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇺🇸 US SS-114 | free-nodes, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 未知 SS-01 | free-nodes, server: se1.opensocks.site, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ODIzO}
+  - {name: 🇩🇪 DE SS-02 | free-nodes, server: 38.60.250.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 未知 SS-03 | free-nodes, server: 45.12.136.170, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: l668XHPejoSNNuD66BYzyehaCpZexiF7}
+  - {name: 未知 SS-04 | free-nodes, server: 145.249.109.121, port: 25512, type: ss, cipher: chacha20-ietf-poly1305, password: smSMfR9jqLgMkHuQtxSIWh}
+  - {name: 🇺🇸 US SS-05 | free-nodes, server: us1.opensocks.site, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: N2NkO}
+  - {name: 🇨🇦 CA SS-06 | free-nodes, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇨🇦 CA SS-07 | free-nodes, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇫🇷 FR TROJAN-08 | free-nodes, server: 35.181.129.195, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, alpn: [http%2F1.1], skip-cert-verify: false}
+  - {name: 🇺🇸 US SS-10 | free-nodes, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 未知 SS-11 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 未知 SS-13 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 🇫🇷 FR TROJAN-14 | free-nodes, server: 13.37.153.87, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, alpn: [http%2F1.1], skip-cert-verify: false}
+  - {name: 🇺🇸 US SS-15 | free-nodes, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 🇩🇪 DE VLESS-16 | free-nodes, server: 185.235.241.132, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
+  - {name: 🇩🇪 DE VLESS-17 | free-nodes, server: 185.235.241.122, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
+  - {name: 🇬🇧 GB VLESS-18 | free-nodes, server: 212.134.174.249, port: 48778, type: vless, uuid: 92d12a33-19c1-487c-b7e0-122014793fce, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: W8s0O7u6tZqZcYjy53w-_O2PZyO_HjUNIJTKFNMkyQM, short-id: "cc82826f" }, servername: apple.com, client-fingerprint: chrome, network: tcp}
+  - {name: 未知 SS-19 | free-nodes, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 未知 VLESS-20 | free-nodes, server: 141.98.169.101, port: 443, type: vless, uuid: 50343a81-a35e-44b9-a6a6-0b7dd6711ed4, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ufkipews, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI"}}}
+  - {name: 🇬🇧 GB VLESS-21 | free-nodes, server: 185.218.3.9, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
+  - {name: 🇩🇪 DE VLESS-22 | free-nodes, server: 185.235.241.117, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
+  - {name: 🇺🇸 US SS-23 | free-nodes, server: 217.60.249.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0eC4ZBvStOgQEzTpCYjWN5}
+  - {name: 🇩🇪 DE SS-24 | free-nodes, server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl}
+  - {name: 🇷🇺 RU VLESS-25 | free-nodes, server: 109.248.203.71, port: 443, type: vless, uuid: 6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: PfxP7-Pvot9Y8z5boZwuG3Afyb_zdm0C2HCZezNMTiQ, short-id: "85225c27630d023f" }, servername: www.google.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇩🇪 DE VLESS-26 | free-nodes, server: 46.224.114.237, port: 32284, type: vless, uuid: 47a07989-3b11-466f-a562-59d2f2b285f3, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@napsternetv20@napsternetv20@napsternetv20}}
+  - {name: 🇭🇰 HK TROJAN-27 | free-nodes, server: 112.118.116.8, port: 443, type: trojan, password: e2722c0fb503f8a592436c12bce0509a, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: 未知 VLESS-28 | free-nodes, server: 103.90.75.252, port: 3001, type: vless, uuid: 61757901-3818-46c7-8482-683fa7f6ba10, tls: false, tfo: false, skip-cert-verify: false, network: tcp}
+  - {name: 🇩🇪 DE VLESS-29 | free-nodes, server: 178.154.205.131, port: 443, type: vless, uuid: fd4b0117-d752-46fd-9a94-21a21e360fdb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs, short-id: "672ff0" }, servername: ads.x5.ru, client-fingerprint: chrome, network: tcp}
+  - {name: 未知 VLESS-30 | free-nodes, server: 64.227.47.120, port: 443, type: vless, uuid: 912eacc1-42b4-4d0f-a8ba-abb825c1d468, tls: true, tfo: false, skip-cert-verify: false, servername: api.avito.ru, network: ws, ws-opts: {path: /ulptgqws, headers: {Host: api.avito.ru}}}
+  - {name: 🇺🇸 US TROJAN-44 | free-nodes, server: 107.174.82.102.sslip.io, port: 443, type: trojan, password: bb824a22-b7ce-427b-9ed6-1adf0751da02, sni: 107.174.82.102.sslip.io, skip-cert-verify: false, network: ws, ws-opts: {path: /gXKGj8a1tp1nNbZEcRugowKV, headers: {Host: 107.174.82.102.sslip.io}}}
+  - {name: 🇭🇰 HK TROJAN-50 | free-nodes, server: 58.152.30.31, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
+  - {name: 🇬🇧 GB SS-66 | free-nodes, server: 51.195.203.247, port: 8443, type: ss, cipher: chacha20-ietf-poly1305, password: OMOpV2XCoMOBYsKGAjLDmsKkw6bDpMOkdVhtD15fwpQqw70AN8Krw6AyH8OaCQ==}
+  - {name: 未知 VLESS-68 | free-nodes, server: betty.ns.cloudflare.com, port: 443, type: vless, uuid: d64620c6-2ec3-4da7-a151-febd14d7824e, tls: true, tfo: false, skip-cert-verify: false, servername: 639014902535774186.supra-amsjh.info, network: ws, ws-opts: {path: /rdwnyews, headers: {Host: 639014902535774186.supra-amsjh.info}}}
+  - {name: 🇬🇧 GB VLESS-75 | free-nodes, server: 134.209.31.137, port: 443, type: vless, uuid: 5815b555-9907-45ae-94f2-e0c0af7860e3, tls: true, tfo: false, skip-cert-verify: false, servername: www.vk.com, network: ws, ws-opts: {path: /nyslkrws, headers: {Host: www.vk.com}}}
+  - {name: 🇩🇪 DE VLESS-81 | free-nodes, server: 185.235.241.127, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
+  - {name: 🇩🇪 DE VLESS-84 | free-nodes, server: 185.235.241.97, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
+  - {name: 🇩🇪 DE VLESS-85 | free-nodes, server: 185.235.241.129, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
+  - {name: 未知 SS-86 | free-nodes, server: 46.246.96.30, port: 31561, type: ss, cipher: chacha20-ietf-poly1305, password: hc8LMJew3Fl9MbcFCoFgT0}
+  - {name: 未知 VLESS-93 | free-nodes, server: 185.136.132.171, port: 24170, type: vless, uuid: fe21e399-ec6f-4cb5-8441-e911178665b1, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: VsmNi1ZMXVOwhCWpbCp51w-D_DzrxWX4jgfpcU0S9G4, short-id: "2fb2106a629b" }, servername: speedtest.net, client-fingerprint: chrome, network: tcp}
+  - {name: 🇺🇸 US VLESS-94 | free-nodes, server: 156.229.161.107, port: 10001, type: vless, uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4, short-id: "fb2c6678" }, servername: www.icloud.com, client-fingerprint: chrome, network: tcp}
+  - {name: TR TROJAN-96 | free-nodes, server: 219.79.214.159, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
+  - {name: 未知 SS-98 | free-nodes, server: 138.124.67.26, port: 25572, type: ss, cipher: chacha20-ietf-poly1305, password: nqcIfYHlpMn3jzqkNDjKaG}
+  - {name: 未知 SS-100 | free-nodes, server: 194.156.103.148, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: qdpM4ROvoLtayi7NN9DIId}
+  - {name: 未知 SS-102 | free-nodes, server: 5.181.21.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gKYygTcRYhc3skc2x6tZ073lYz0DnieX}
+  - {name: 🇩🇪 DE VLESS-105 | free-nodes, server: www.speedtest.net, port: 443, type: vless, uuid: 73856b73-19d2-47e6-b991-5eaa421161ea, tls: true, alpn: [http/1.1], tfo: false, skip-cert-verify: false, servername: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR., network: ws, ws-opts: {path: "/admin?ed=1024", headers: {Host: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR.}}}
+  - {name: 🇭🇰 HK SS-106 | free-nodes, server: 194.246.114.101, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk}
+  - {name: 🇩🇪 DE VLESS-108 | free-nodes, server: 91.98.148.160, port: 443, type: vless, uuid: 2ee2a715-d541-416a-8713-d66567448c2e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 未知 VLESS-109 | free-nodes, server: 91.107.130.214, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇺🇸 US VLESS-110 | free-nodes, server: support.zoom.us, port: 2096, type: vless, uuid: fba4e0e0-118c-431f-9f6a-4cfc99f39de8, tls: true, alpn: [h3], tfo: false, skip-cert-verify: false, servername: zoom.seaseus.pp.ua, client-fingerprint: chrome, network: ws, ws-opts: {path: /seaseus, headers: {Host: zoom.seaseus.pp.ua}}}
+  - {name: 🇩🇪 DE VLESS-112 | free-nodes, server: masterserver1.heloisfood.ir, port: 6423, type: vless, uuid: 0d25085e-b6c4-410a-b206-4dde607cff6c, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1"}}
+  - {name: 未知 SS-113 | free-nodes, server: 193.29.139.150, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 未知 SS-114 | free-nodes, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
   - {name: 🇩🇪 DE VLESS-115 | free-nodes, server: brenna.ns.cloudflare.com, port: 443, type: vless, uuid: 1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63, tls: true, tfo: false, skip-cert-verify: false, servername: terazhedi.info, network: ws, ws-opts: {path: /sghiyws, headers: {Host: terazhedi.info}}}
   - {name: 未知 SS-117 | free-nodes, server: 193.29.139.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
   - {name: 🇺🇸 US SS-118 | free-nodes, server: 69.30.251.122, port: 51004, type: ss, cipher: chacha20-ietf-poly1305, password: 245f2c1d-a317-45a8-b230-e420566a7f62}
-  - {name: 🇷🇺 RU VLESS-119 | free-nodes, server: 217.16.24.170, port: 443, type: vless, uuid: a91e64f0-9295-499d-bf4a-661ad99d4938, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ, short-id: "5540e44a53c3d01c" }, servername: api-maps.yandex.ru, client-fingerprint: chrome, network: tcp}
-  - {name: 🇸🇬 SG SS-120 | free-nodes, server: 95.173.218.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 未知 SS-121 | free-nodes, server: 45.12.144.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: LQyAUItafUmmO3EZZx9UbiX6IGydSBgL}
-  - {name: 未知 SS-122 | free-nodes, server: 107.174.114.71, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 595HLF3fHUuw0McM51tpvPygSIB1uf4D}
-  - {name: 未知 VLESS-123 | free-nodes, server: 94.131.100.167, port: 443, type: vless, uuid: cf691676-f3e8-4e83-ad05-399638e0e010, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /czoxqsws}}
-  - {name: 🇩🇪 DE VLESS-124 | free-nodes, server: 91.107.179.81, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 🇩🇪 DE VLESS-127 | free-nodes, server: 91.107.169.78, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 未知 VLESS-128 | free-nodes, server: clyde.ns.cloudflare.com, port: 443, type: vless, uuid: 02e46039-200d-4ae4-ac90-b0d619f72034, tls: true, tfo: false, skip-cert-verify: false, servername: redlabell.info, network: ws, ws-opts: {path: /aafeuws, headers: {Host: redlabell.info}}}
-  - {name: 未知 SS-129 | free-nodes, server: 5.182.37.87, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Oy4TsrxfaJExUIhlcSqHpVQIWIFM2jZR}
-  - {name: 未知 SS-131 | free-nodes, server: 193.29.139.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇯🇵 JP SS-132 | free-nodes, server: 5.253.41.46, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: xgoOsyyBv2Yn4w0hSqjsNqf5IGbIETZ6}
-  - {name: 🇯🇵 JP VLESS-133 | free-nodes, server: 138.2.50.155, port: 38487, type: vless, uuid: bc9a8522-d884-41cd-de9c-9a29812b55ef, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY}, servername: icloud.cdn-apple.com, client-fingerprint: chrome, network: tcp}
-  - {name: 未知 SS-134 | free-nodes, server: 185.47.253.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 未知 SS-135 | free-nodes, server: 212.102.54.45, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 未知 SS-138 | free-nodes, server: 38.54.4.87, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 未知 VLESS-139 | free-nodes, server: 217.16.24.170, port: 8443, type: vless, uuid: a91e64f0-9295-499d-bf4a-661ad99d4938, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ, short-id: "5540e44a53c3d01c" }, servername: api-maps.yandex.ru, client-fingerprint: chrome, network: tcp}
+  - {name: 🇩🇪 DE VLESS-119 | free-nodes, server: 89.23.123.8, port: 4443, type: vless, uuid: 0a587061-6ccb-407c-86b8-c7d78b6bee5e, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE, short-id: "aa7e96542880027a" }, servername: github.com, client-fingerprint: chrome, network: tcp}
+  - {name: 未知 SS-120 | free-nodes, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇷🇺 RU VLESS-121 | free-nodes, server: 217.16.24.170, port: 443, type: vless, uuid: a91e64f0-9295-499d-bf4a-661ad99d4938, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ, short-id: "5540e44a53c3d01c" }, servername: api-maps.yandex.ru, client-fingerprint: chrome, network: tcp}
+  - {name: 🇸🇬 SG SS-122 | free-nodes, server: 95.173.218.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 未知 SS-123 | free-nodes, server: 45.12.144.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: LQyAUItafUmmO3EZZx9UbiX6IGydSBgL}
+  - {name: 未知 SS-124 | free-nodes, server: 107.174.114.71, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 595HLF3fHUuw0McM51tpvPygSIB1uf4D}
+  - {name: 未知 VLESS-125 | free-nodes, server: 94.131.100.167, port: 443, type: vless, uuid: cf691676-f3e8-4e83-ad05-399638e0e010, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /czoxqsws}}
+  - {name: 未知 VLESS-126 | free-nodes, server: 91.107.179.81, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇩🇪 DE VLESS-129 | free-nodes, server: 91.107.169.78, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 未知 SS-130 | free-nodes, server: 5.182.37.87, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Oy4TsrxfaJExUIhlcSqHpVQIWIFM2jZR}
+  - {name: 未知 SS-132 | free-nodes, server: 193.29.139.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇯🇵 JP SS-133 | free-nodes, server: 5.253.41.46, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: xgoOsyyBv2Yn4w0hSqjsNqf5IGbIETZ6}
+  - {name: 🇯🇵 JP VLESS-134 | free-nodes, server: 138.2.50.155, port: 38487, type: vless, uuid: bc9a8522-d884-41cd-de9c-9a29812b55ef, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY}, servername: icloud.cdn-apple.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇭🇰 HK VLESS-135 | free-nodes, server: n1761184273.mv7wh.tech, port: 443, type: vless, uuid: a4c6bbd7-6ea5-44b2-9829-08f5ae615d49, tls: true, tfo: false, skip-cert-verify: false, client-fingerprint: chrome, network: ws, ws-opts: {path: /a4c6bbd7-6ea5-44b2-9829-08f5ae615d49, headers: {Host: n1761184273.mv7wh.tech}}}
+  - {name: 未知 SS-136 | free-nodes, server: 185.47.253.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 未知 SS-137 | free-nodes, server: 212.102.54.45, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇺🇸 US VLESS-140 | free-nodes, server: ovhwuxian.pai50288.uk, port: 8443, type: vless, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, tls: true, tfo: false, skip-cert-verify: false, servername: ovhwuxian.pai50288.uk, client-fingerprint: random, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}}
+  - {name: 未知 SS-141 | free-nodes, server: 38.54.4.87, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -137,170 +130,156 @@ proxy-groups:
   - name: ☑️ 手动切换
     type: select
     proxies:
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 📹 油管视频
     type: select
     proxies:
@@ -321,169 +300,155 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 🤖 OpenAi
     type: select
     proxies:
@@ -497,254 +462,233 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -767,109 +711,103 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 🇭🇰 香港节点
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 HK TROJAN-19 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
   - name: 🇺🇲 美国节点
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 150
     proxies:
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
 rules:
   - PROCESS-NAME,cfnat-android-arm64,🎯 全球直连
   - PROCESS-NAME,cfnat-darwin-amd64,🎯 全球直连
@@ -4466,85 +4404,78 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇬🇧 GB SS-01 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 🇩🇪 DE VLESS-02 | free-nodes, server: 185.235.241.132, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
-  - {name: 🇩🇪 DE VLESS-03 | free-nodes, server: 185.235.241.122, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
-  - {name: 🇬🇧 GB SS-04 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 🇩🇪 DE TROJAN-05 | free-nodes, server: 18.157.205.172, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, alpn: [http%2F1.1], skip-cert-verify: false}
-  - {name: 🇬🇧 GB VLESS-06 | free-nodes, server: 212.134.174.249, port: 48778, type: vless, uuid: 92d12a33-19c1-487c-b7e0-122014793fce, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: W8s0O7u6tZqZcYjy53w-_O2PZyO_HjUNIJTKFNMkyQM, short-id: "cc82826f" }, servername: apple.com, client-fingerprint: chrome, network: tcp}
-  - {name: 未知 VLESS-07 | free-nodes, server: sv1.avaaal.ir, port: 12559, type: vless, uuid: f1ea701d-e33b-4606-955b-3d788b8b8860, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [skyroom.online]}}}
-  - {name: 未知 SS-08 | free-nodes, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇬🇧 GB SS-09 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 未知 VLESS-10 | free-nodes, server: 141.98.169.101, port: 443, type: vless, uuid: 50343a81-a35e-44b9-a6a6-0b7dd6711ed4, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ufkipews, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI"}}}
-  - {name: 🇬🇧 GB VLESS-11 | free-nodes, server: 185.218.3.9, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
-  - {name: 🇩🇪 DE VLESS-12 | free-nodes, server: 185.235.241.117, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
-  - {name: 未知 VLESS-13 | free-nodes, server: 81.27.100.89, port: 4655, type: vless, uuid: 82f9beee-a609-47f2-9142-14c25258dc0b, tls: false, tfo: false, skip-cert-verify: false, network: tcp}
-  - {name: 🇺🇸 US VLESS-14 | free-nodes, server: 64.188.115.219, port: 443, type: vless, uuid: 0ea84d1f-2687-467d-97dd-ed8d5e8f3f42, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: lH-huUA9Ek_XYglIopgfGL3lJ-qn8rXK8iG1tlXrxls, short-id: "1c" }, servername: web.max.ru, client-fingerprint: chrome, network: tcp}
-  - {name: 🇬🇧 GB SS-15 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
-  - {name: 🇺🇸 US SS-16 | free-nodes, server: 217.60.249.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0eC4ZBvStOgQEzTpCYjWN5}
-  - {name: 🇩🇪 DE SS-17 | free-nodes, server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl}
-  - {name: 🇷🇺 RU VLESS-18 | free-nodes, server: 109.248.203.71, port: 443, type: vless, uuid: 6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: PfxP7-Pvot9Y8z5boZwuG3Afyb_zdm0C2HCZezNMTiQ, short-id: "85225c27630d023f" }, servername: www.google.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇭🇰 HK TROJAN-19 | free-nodes, server: 112.118.116.8, port: 443, type: trojan, password: e2722c0fb503f8a592436c12bce0509a, sni: www.nintendogames.net, skip-cert-verify: false}
-  - {name: 未知 VLESS-20 | free-nodes, server: sv1.avaaal.ir, port: 12559, type: vless, uuid: f1ea701d-e33b-4606-955b-3d788b8b8860, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [skyroom.online]}}}
-  - {name: 未知 VLESS-21 | free-nodes, server: 103.90.75.252, port: 3001, type: vless, uuid: 61757901-3818-46c7-8482-683fa7f6ba10, tls: false, tfo: false, skip-cert-verify: false, network: tcp}
-  - {name: 🇫🇷 FR TROJAN-22 | free-nodes, server: 52.47.143.44, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, alpn: [http%2F1.1], skip-cert-verify: false}
-  - {name: 🇬🇧 GB VLESS-23 | free-nodes, server: 64.227.47.120, port: 443, type: vless, uuid: 912eacc1-42b4-4d0f-a8ba-abb825c1d468, tls: true, tfo: false, skip-cert-verify: false, servername: api.avito.ru, network: ws, ws-opts: {path: /ulptgqws, headers: {Host: api.avito.ru}}}
-  - {name: 🇩🇪 DE VLESS-24 | free-nodes, server: 94.131.110.108, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
-  - {name: 🇬🇧 GB VLESS-25 | free-nodes, server: 209.97.183.92, port: 443, type: vless, uuid: 9e5646ba-c661-41cd-8321-a164139b12cf, tls: true, tfo: false, skip-cert-verify: false, servername: fuck.rkn, network: ws, ws-opts: {path: /wwkmrkws, headers: {Host: fuck.rkn}}}
-  - {name: 🇬🇧 GB VLESS-26 | free-nodes, server: 134.209.25.162, port: 443, type: vless, uuid: cd94bc5e-3a8b-4b12-9651-8b7ef803c52c, tls: true, tfo: false, skip-cert-verify: false, servername: io.ozone.ru, network: ws, ws-opts: {path: /axtdgmws, headers: {Host: io.ozone.ru}}}
-  - {name: 🇺🇸 US VLESS-27 | free-nodes, server: root.api-music-fa.com, port: 2053, type: vless, uuid: db162b74-0da8-4c69-8b17-2d89defabc24, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /J5aLQOY1R9ONWYCM, headers: {Host: root.api-music-fa.com}}}
-  - {name: 🇩🇪 DE VLESS-33 | free-nodes, server: 49.13.203.113, port: 2050, type: vless, uuid: 44dd59b7-a153-44de-8b62-c2affe0fff02, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: Tua_E2HKPrVU1Xikr5b0v0uKKUjpAnG5w8UjqfoEnkI, short-id: "35d64c10241d8efc" }, servername: canva.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇸 US TROJAN-38 | free-nodes, server: 107.174.82.102.sslip.io, port: 443, type: trojan, password: bb824a22-b7ce-427b-9ed6-1adf0751da02, sni: 107.174.82.102.sslip.io, skip-cert-verify: false, network: ws, ws-opts: {path: /gXKGj8a1tp1nNbZEcRugowKV, headers: {Host: 107.174.82.102.sslip.io}}}
-  - {name: 🇩🇪 DE VLESS-39 | free-nodes, server: 46.224.141.141, port: 2025, type: vless, uuid: 49b3e9b9-dedb-4abd-ac4d-05bc64e7edcb, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: hGlEVjlgkbHz7APkZPO6ZV3WEtCJW3Wkdx7xOISyP3Y, short-id: "d9" }, servername: miro.com, client-fingerprint: chrome, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12---Join---Arshiavpn12}}
-  - {name: 🇩🇪 DE VLESS-45 | free-nodes, server: 178.154.205.131, port: 443, type: vless, uuid: fd4b0117-d752-46fd-9a94-21a21e360fdb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs, short-id: "672ff0" }, servername: ads.x5.ru, client-fingerprint: chrome, network: tcp}
-  - {name: 🇭🇰 HK TROJAN-46 | free-nodes, server: 58.152.30.31, port: 443, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: false}
-  - {name: 🇬🇧 GB SS-62 | free-nodes, server: 51.195.203.247, port: 8443, type: ss, cipher: chacha20-ietf-poly1305, password: OMOpV2XCoMOBYsKGAjLDmsKkw6bDpMOkdVhtD15fwpQqw70AN8Krw6AyH8OaCQ==}
-  - {name: 未知 VLESS-64 | free-nodes, server: betty.ns.cloudflare.com, port: 443, type: vless, uuid: d64620c6-2ec3-4da7-a151-febd14d7824e, tls: true, tfo: false, skip-cert-verify: false, servername: 639014902535774186.supra-amsjh.info, network: ws, ws-opts: {path: /rdwnyews, headers: {Host: 639014902535774186.supra-amsjh.info}}}
-  - {name: 🇬🇧 GB VLESS-71 | free-nodes, server: 134.209.31.137, port: 443, type: vless, uuid: 5815b555-9907-45ae-94f2-e0c0af7860e3, tls: true, tfo: false, skip-cert-verify: false, servername: www.vk.com, network: ws, ws-opts: {path: /nyslkrws, headers: {Host: www.vk.com}}}
-  - {name: 🇩🇪 DE VLESS-76 | free-nodes, server: 185.235.241.127, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
-  - {name: 🇩🇪 DE VLESS-79 | free-nodes, server: 185.235.241.97, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
-  - {name: 🇩🇪 DE VLESS-81 | free-nodes, server: 185.235.241.129, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
-  - {name: 未知 SS-82 | free-nodes, server: 46.246.96.30, port: 31561, type: ss, cipher: chacha20-ietf-poly1305, password: hc8LMJew3Fl9MbcFCoFgT0}
-  - {name: 🇩🇪 DE VLESS-83 | free-nodes, server: 91.98.193.27, port: 443, type: vless, uuid: 2ee2a715-d541-416a-8713-d66567448c2e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 未知 VLESS-89 | free-nodes, server: 185.136.132.171, port: 24170, type: vless, uuid: fe21e399-ec6f-4cb5-8441-e911178665b1, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: VsmNi1ZMXVOwhCWpbCp51w-D_DzrxWX4jgfpcU0S9G4, short-id: "2fb2106a629b" }, servername: speedtest.net, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇸 US VLESS-90 | free-nodes, server: 156.229.161.107, port: 10001, type: vless, uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4, short-id: "fb2c6678" }, servername: www.icloud.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇭🇰 HK TROJAN-91 | free-nodes, server: 219.79.214.159, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
-  - {name: 未知 SS-93 | free-nodes, server: 138.124.67.26, port: 25572, type: ss, cipher: chacha20-ietf-poly1305, password: nqcIfYHlpMn3jzqkNDjKaG}
-  - {name: 未知 SS-95 | free-nodes, server: 194.156.103.148, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: qdpM4ROvoLtayi7NN9DIId}
-  - {name: 未知 SS-97 | free-nodes, server: 5.181.21.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gKYygTcRYhc3skc2x6tZ073lYz0DnieX}
-  - {name: 🇫🇷 FR TROJAN-100 | free-nodes, server: 195.154.202.25, port: 58290, type: trojan, password: 90y2l3mu48d10uy3ibad, sni: ads.x5.ru, skip-cert-verify: false}
-  - {name: 未知 VLESS-101 | free-nodes, server: zula.ir, port: 443, type: vless, uuid: 73856b73-19d2-47e6-b991-5eaa421161ea, tls: true, alpn: [http/1.1], tfo: false, skip-cert-verify: false, servername: aEZA3HoSTpHAseCoNDuCtSofarnEWcAMpvLWS.MMogAmES.iR., network: ws, ws-opts: {path: "/admin?ed=1024", headers: {Host: aEZA3HoSTpHAseCoNDuCtSofarnEWcAMpvLWS.MMogAmES.iR.}}}
-  - {name: 🇩🇪 DE VLESS-102 | free-nodes, server: www.speedtest.net, port: 443, type: vless, uuid: 73856b73-19d2-47e6-b991-5eaa421161ea, tls: true, alpn: [http/1.1], tfo: false, skip-cert-verify: false, servername: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR., network: ws, ws-opts: {path: "/admin?ed=1024", headers: {Host: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR.}}}
-  - {name: 🇭🇰 HK SS-103 | free-nodes, server: 194.246.114.101, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk}
-  - {name: 🇩🇪 DE VLESS-105 | free-nodes, server: 91.98.148.160, port: 443, type: vless, uuid: 2ee2a715-d541-416a-8713-d66567448c2e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 🇩🇪 DE VLESS-106 | free-nodes, server: 91.107.130.214, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 🇺🇸 US VLESS-107 | free-nodes, server: support.zoom.us, port: 2096, type: vless, uuid: fba4e0e0-118c-431f-9f6a-4cfc99f39de8, tls: true, alpn: [h3], tfo: false, skip-cert-verify: false, servername: zoom.seaseus.pp.ua, client-fingerprint: chrome, network: ws, ws-opts: {path: /seaseus, headers: {Host: zoom.seaseus.pp.ua}}}
-  - {name: 🇩🇪 DE VLESS-108 | free-nodes, server: newsletter.mydailynews.info, port: 443, type: vless, uuid: 7578f457-0f1f-416d-b136-f833f4544e24, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: newsletter.mydailynews.info}}}
-  - {name: 🇩🇪 DE VLESS-109 | free-nodes, server: V2ngnet.heloisfood.ir, port: 4488, type: vless, uuid: 0d25085e-b6c4-410a-b206-4dde607cff6c, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet"}}
-  - {name: TR TROJAN-110 | free-nodes, server: 146.70.90.195, port: 57452, type: trojan, password: t1k169n5zmvvwn96r9ft, sni: api-yandex.maps.ru, skip-cert-verify: false}
-  - {name: TR SS-111 | free-nodes, server: 94.131.123.236, port: 5223, type: ss, cipher: chacha20-ietf-poly1305, password: 3IJj3PFglv7UJNkX9ugR59}
-  - {name: 未知 SS-112 | free-nodes, server: 193.29.139.150, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 未知 SS-113 | free-nodes, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇺🇸 US SS-114 | free-nodes, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 未知 SS-01 | free-nodes, server: se1.opensocks.site, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ODIzO}
+  - {name: 🇩🇪 DE SS-02 | free-nodes, server: 38.60.250.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 未知 SS-03 | free-nodes, server: 45.12.136.170, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: l668XHPejoSNNuD66BYzyehaCpZexiF7}
+  - {name: 未知 SS-04 | free-nodes, server: 145.249.109.121, port: 25512, type: ss, cipher: chacha20-ietf-poly1305, password: smSMfR9jqLgMkHuQtxSIWh}
+  - {name: 🇺🇸 US SS-05 | free-nodes, server: us1.opensocks.site, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: N2NkO}
+  - {name: 🇨🇦 CA SS-06 | free-nodes, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇨🇦 CA SS-07 | free-nodes, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇫🇷 FR TROJAN-08 | free-nodes, server: 35.181.129.195, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, alpn: [http%2F1.1], skip-cert-verify: false}
+  - {name: 🇺🇸 US SS-10 | free-nodes, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 未知 SS-11 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 未知 SS-13 | free-nodes, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 🇫🇷 FR TROJAN-14 | free-nodes, server: 13.37.153.87, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, alpn: [http%2F1.1], skip-cert-verify: false}
+  - {name: 🇺🇸 US SS-15 | free-nodes, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==}
+  - {name: 🇩🇪 DE VLESS-16 | free-nodes, server: 185.235.241.132, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
+  - {name: 🇩🇪 DE VLESS-17 | free-nodes, server: 185.235.241.122, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
+  - {name: 🇬🇧 GB VLESS-18 | free-nodes, server: 212.134.174.249, port: 48778, type: vless, uuid: 92d12a33-19c1-487c-b7e0-122014793fce, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: W8s0O7u6tZqZcYjy53w-_O2PZyO_HjUNIJTKFNMkyQM, short-id: "cc82826f" }, servername: apple.com, client-fingerprint: chrome, network: tcp}
+  - {name: 未知 SS-19 | free-nodes, server: 185.213.23.63, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 未知 VLESS-20 | free-nodes, server: 141.98.169.101, port: 443, type: vless, uuid: 50343a81-a35e-44b9-a6a6-0b7dd6711ed4, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /ufkipews, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI"}}}
+  - {name: 🇬🇧 GB VLESS-21 | free-nodes, server: 185.218.3.9, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
+  - {name: 🇩🇪 DE VLESS-22 | free-nodes, server: 185.235.241.117, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hormoz}}
+  - {name: 🇺🇸 US SS-23 | free-nodes, server: 217.60.249.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0eC4ZBvStOgQEzTpCYjWN5}
+  - {name: 🇩🇪 DE SS-24 | free-nodes, server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl}
+  - {name: 🇷🇺 RU VLESS-25 | free-nodes, server: 109.248.203.71, port: 443, type: vless, uuid: 6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: PfxP7-Pvot9Y8z5boZwuG3Afyb_zdm0C2HCZezNMTiQ, short-id: "85225c27630d023f" }, servername: www.google.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇩🇪 DE VLESS-26 | free-nodes, server: 46.224.114.237, port: 32284, type: vless, uuid: 47a07989-3b11-466f-a562-59d2f2b285f3, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@napsternetv20@napsternetv20@napsternetv20}}
+  - {name: 🇭🇰 HK TROJAN-27 | free-nodes, server: 112.118.116.8, port: 443, type: trojan, password: e2722c0fb503f8a592436c12bce0509a, sni: www.nintendogames.net, skip-cert-verify: false}
+  - {name: 未知 VLESS-28 | free-nodes, server: 103.90.75.252, port: 3001, type: vless, uuid: 61757901-3818-46c7-8482-683fa7f6ba10, tls: false, tfo: false, skip-cert-verify: false, network: tcp}
+  - {name: 🇩🇪 DE VLESS-29 | free-nodes, server: 178.154.205.131, port: 443, type: vless, uuid: fd4b0117-d752-46fd-9a94-21a21e360fdb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs, short-id: "672ff0" }, servername: ads.x5.ru, client-fingerprint: chrome, network: tcp}
+  - {name: 未知 VLESS-30 | free-nodes, server: 64.227.47.120, port: 443, type: vless, uuid: 912eacc1-42b4-4d0f-a8ba-abb825c1d468, tls: true, tfo: false, skip-cert-verify: false, servername: api.avito.ru, network: ws, ws-opts: {path: /ulptgqws, headers: {Host: api.avito.ru}}}
+  - {name: 🇺🇸 US TROJAN-44 | free-nodes, server: 107.174.82.102.sslip.io, port: 443, type: trojan, password: bb824a22-b7ce-427b-9ed6-1adf0751da02, sni: 107.174.82.102.sslip.io, skip-cert-verify: false, network: ws, ws-opts: {path: /gXKGj8a1tp1nNbZEcRugowKV, headers: {Host: 107.174.82.102.sslip.io}}}
+  - {name: 🇭🇰 HK TROJAN-50 | free-nodes, server: 58.152.30.31, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
+  - {name: 🇬🇧 GB SS-66 | free-nodes, server: 51.195.203.247, port: 8443, type: ss, cipher: chacha20-ietf-poly1305, password: OMOpV2XCoMOBYsKGAjLDmsKkw6bDpMOkdVhtD15fwpQqw70AN8Krw6AyH8OaCQ==}
+  - {name: 未知 VLESS-68 | free-nodes, server: betty.ns.cloudflare.com, port: 443, type: vless, uuid: d64620c6-2ec3-4da7-a151-febd14d7824e, tls: true, tfo: false, skip-cert-verify: false, servername: 639014902535774186.supra-amsjh.info, network: ws, ws-opts: {path: /rdwnyews, headers: {Host: 639014902535774186.supra-amsjh.info}}}
+  - {name: 🇬🇧 GB VLESS-75 | free-nodes, server: 134.209.31.137, port: 443, type: vless, uuid: 5815b555-9907-45ae-94f2-e0c0af7860e3, tls: true, tfo: false, skip-cert-verify: false, servername: www.vk.com, network: ws, ws-opts: {path: /nyslkrws, headers: {Host: www.vk.com}}}
+  - {name: 🇩🇪 DE VLESS-81 | free-nodes, server: 185.235.241.127, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
+  - {name: 🇩🇪 DE VLESS-84 | free-nodes, server: 185.235.241.97, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
+  - {name: 🇩🇪 DE VLESS-85 | free-nodes, server: 185.235.241.129, port: 443, type: vless, uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a, tls: true, tfo: false, skip-cert-verify: false, servername: github.com, network: ws, ws-opts: {path: /hormoz, headers: {Host: github.com}}}
+  - {name: 未知 SS-86 | free-nodes, server: 46.246.96.30, port: 31561, type: ss, cipher: chacha20-ietf-poly1305, password: hc8LMJew3Fl9MbcFCoFgT0}
+  - {name: 未知 VLESS-93 | free-nodes, server: 185.136.132.171, port: 24170, type: vless, uuid: fe21e399-ec6f-4cb5-8441-e911178665b1, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: VsmNi1ZMXVOwhCWpbCp51w-D_DzrxWX4jgfpcU0S9G4, short-id: "2fb2106a629b" }, servername: speedtest.net, client-fingerprint: chrome, network: tcp}
+  - {name: 🇺🇸 US VLESS-94 | free-nodes, server: 156.229.161.107, port: 10001, type: vless, uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4, short-id: "fb2c6678" }, servername: www.icloud.com, client-fingerprint: chrome, network: tcp}
+  - {name: TR TROJAN-96 | free-nodes, server: 219.79.214.159, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false}
+  - {name: 未知 SS-98 | free-nodes, server: 138.124.67.26, port: 25572, type: ss, cipher: chacha20-ietf-poly1305, password: nqcIfYHlpMn3jzqkNDjKaG}
+  - {name: 未知 SS-100 | free-nodes, server: 194.156.103.148, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: qdpM4ROvoLtayi7NN9DIId}
+  - {name: 未知 SS-102 | free-nodes, server: 5.181.21.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gKYygTcRYhc3skc2x6tZ073lYz0DnieX}
+  - {name: 🇩🇪 DE VLESS-105 | free-nodes, server: www.speedtest.net, port: 443, type: vless, uuid: 73856b73-19d2-47e6-b991-5eaa421161ea, tls: true, alpn: [http/1.1], tfo: false, skip-cert-verify: false, servername: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR., network: ws, ws-opts: {path: "/admin?ed=1024", headers: {Host: DigiOCmaMooSHawSFOrVisitINGmAMaVlwS.MMogAmES.iR.}}}
+  - {name: 🇭🇰 HK SS-106 | free-nodes, server: 194.246.114.101, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk}
+  - {name: 🇩🇪 DE VLESS-108 | free-nodes, server: 91.98.148.160, port: 443, type: vless, uuid: 2ee2a715-d541-416a-8713-d66567448c2e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 未知 VLESS-109 | free-nodes, server: 91.107.130.214, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇺🇸 US VLESS-110 | free-nodes, server: support.zoom.us, port: 2096, type: vless, uuid: fba4e0e0-118c-431f-9f6a-4cfc99f39de8, tls: true, alpn: [h3], tfo: false, skip-cert-verify: false, servername: zoom.seaseus.pp.ua, client-fingerprint: chrome, network: ws, ws-opts: {path: /seaseus, headers: {Host: zoom.seaseus.pp.ua}}}
+  - {name: 🇩🇪 DE VLESS-112 | free-nodes, server: masterserver1.heloisfood.ir, port: 6423, type: vless, uuid: 0d25085e-b6c4-410a-b206-4dde607cff6c, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1--%40MaSTeRSeRVeR1"}}
+  - {name: 未知 SS-113 | free-nodes, server: 193.29.139.150, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 未知 SS-114 | free-nodes, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
   - {name: 🇩🇪 DE VLESS-115 | free-nodes, server: brenna.ns.cloudflare.com, port: 443, type: vless, uuid: 1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63, tls: true, tfo: false, skip-cert-verify: false, servername: terazhedi.info, network: ws, ws-opts: {path: /sghiyws, headers: {Host: terazhedi.info}}}
   - {name: 未知 SS-117 | free-nodes, server: 193.29.139.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
   - {name: 🇺🇸 US SS-118 | free-nodes, server: 69.30.251.122, port: 51004, type: ss, cipher: chacha20-ietf-poly1305, password: 245f2c1d-a317-45a8-b230-e420566a7f62}
-  - {name: 🇷🇺 RU VLESS-119 | free-nodes, server: 217.16.24.170, port: 443, type: vless, uuid: a91e64f0-9295-499d-bf4a-661ad99d4938, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ, short-id: "5540e44a53c3d01c" }, servername: api-maps.yandex.ru, client-fingerprint: chrome, network: tcp}
-  - {name: 🇸🇬 SG SS-120 | free-nodes, server: 95.173.218.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 未知 SS-121 | free-nodes, server: 45.12.144.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: LQyAUItafUmmO3EZZx9UbiX6IGydSBgL}
-  - {name: 未知 SS-122 | free-nodes, server: 107.174.114.71, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 595HLF3fHUuw0McM51tpvPygSIB1uf4D}
-  - {name: 未知 VLESS-123 | free-nodes, server: 94.131.100.167, port: 443, type: vless, uuid: cf691676-f3e8-4e83-ad05-399638e0e010, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /czoxqsws}}
-  - {name: 🇩🇪 DE VLESS-124 | free-nodes, server: 91.107.179.81, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 🇩🇪 DE VLESS-127 | free-nodes, server: 91.107.169.78, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
-  - {name: 未知 VLESS-128 | free-nodes, server: clyde.ns.cloudflare.com, port: 443, type: vless, uuid: 02e46039-200d-4ae4-ac90-b0d619f72034, tls: true, tfo: false, skip-cert-verify: false, servername: redlabell.info, network: ws, ws-opts: {path: /aafeuws, headers: {Host: redlabell.info}}}
-  - {name: 未知 SS-129 | free-nodes, server: 5.182.37.87, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Oy4TsrxfaJExUIhlcSqHpVQIWIFM2jZR}
-  - {name: 未知 SS-131 | free-nodes, server: 193.29.139.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
-  - {name: 🇯🇵 JP SS-132 | free-nodes, server: 5.253.41.46, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: xgoOsyyBv2Yn4w0hSqjsNqf5IGbIETZ6}
-  - {name: 🇯🇵 JP VLESS-133 | free-nodes, server: 138.2.50.155, port: 38487, type: vless, uuid: bc9a8522-d884-41cd-de9c-9a29812b55ef, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY}, servername: icloud.cdn-apple.com, client-fingerprint: chrome, network: tcp}
-  - {name: 未知 SS-134 | free-nodes, server: 185.47.253.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 未知 SS-135 | free-nodes, server: 212.102.54.45, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 未知 SS-138 | free-nodes, server: 38.54.4.87, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 未知 VLESS-139 | free-nodes, server: 217.16.24.170, port: 8443, type: vless, uuid: a91e64f0-9295-499d-bf4a-661ad99d4938, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ, short-id: "5540e44a53c3d01c" }, servername: api-maps.yandex.ru, client-fingerprint: chrome, network: tcp}
+  - {name: 🇩🇪 DE VLESS-119 | free-nodes, server: 89.23.123.8, port: 4443, type: vless, uuid: 0a587061-6ccb-407c-86b8-c7d78b6bee5e, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE, short-id: "aa7e96542880027a" }, servername: github.com, client-fingerprint: chrome, network: tcp}
+  - {name: 未知 SS-120 | free-nodes, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇷🇺 RU VLESS-121 | free-nodes, server: 217.16.24.170, port: 443, type: vless, uuid: a91e64f0-9295-499d-bf4a-661ad99d4938, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: 8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ, short-id: "5540e44a53c3d01c" }, servername: api-maps.yandex.ru, client-fingerprint: chrome, network: tcp}
+  - {name: 🇸🇬 SG SS-122 | free-nodes, server: 95.173.218.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 未知 SS-123 | free-nodes, server: 45.12.144.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: LQyAUItafUmmO3EZZx9UbiX6IGydSBgL}
+  - {name: 未知 SS-124 | free-nodes, server: 107.174.114.71, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 595HLF3fHUuw0McM51tpvPygSIB1uf4D}
+  - {name: 未知 VLESS-125 | free-nodes, server: 94.131.100.167, port: 443, type: vless, uuid: cf691676-f3e8-4e83-ad05-399638e0e010, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /czoxqsws}}
+  - {name: 未知 VLESS-126 | free-nodes, server: 91.107.179.81, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 🇩🇪 DE VLESS-129 | free-nodes, server: 91.107.169.78, port: 41647, type: vless, uuid: e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}}
+  - {name: 未知 SS-130 | free-nodes, server: 5.182.37.87, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Oy4TsrxfaJExUIhlcSqHpVQIWIFM2jZR}
+  - {name: 未知 SS-132 | free-nodes, server: 193.29.139.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A}
+  - {name: 🇯🇵 JP SS-133 | free-nodes, server: 5.253.41.46, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: xgoOsyyBv2Yn4w0hSqjsNqf5IGbIETZ6}
+  - {name: 🇯🇵 JP VLESS-134 | free-nodes, server: 138.2.50.155, port: 38487, type: vless, uuid: bc9a8522-d884-41cd-de9c-9a29812b55ef, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY}, servername: icloud.cdn-apple.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇭🇰 HK VLESS-135 | free-nodes, server: n1761184273.mv7wh.tech, port: 443, type: vless, uuid: a4c6bbd7-6ea5-44b2-9829-08f5ae615d49, tls: true, tfo: false, skip-cert-verify: false, client-fingerprint: chrome, network: ws, ws-opts: {path: /a4c6bbd7-6ea5-44b2-9829-08f5ae615d49, headers: {Host: n1761184273.mv7wh.tech}}}
+  - {name: 未知 SS-136 | free-nodes, server: 185.47.253.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: 未知 SS-137 | free-nodes, server: 212.102.54.45, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
+  - {name: 🇺🇸 US VLESS-140 | free-nodes, server: ovhwuxian.pai50288.uk, port: 8443, type: vless, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, tls: true, tfo: false, skip-cert-verify: false, servername: ovhwuxian.pai50288.uk, client-fingerprint: random, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}}
+  - {name: 未知 SS-141 | free-nodes, server: 38.54.4.87, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -4557,170 +4488,156 @@ proxy-groups:
   - name: ☑️ 手动切换
     type: select
     proxies:
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 📹 油管视频
     type: select
     proxies:
@@ -4741,169 +4658,155 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 🤖 OpenAi
     type: select
     proxies:
@@ -4917,254 +4820,233 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -5187,109 +5069,103 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 GB SS-01 | free-nodes
-      - 🇩🇪 DE VLESS-02 | free-nodes
-      - 🇩🇪 DE VLESS-03 | free-nodes
-      - 🇬🇧 GB SS-04 | free-nodes
-      - 🇩🇪 DE TROJAN-05 | free-nodes
-      - 🇬🇧 GB VLESS-06 | free-nodes
-      - 未知 VLESS-07 | free-nodes
-      - 未知 SS-08 | free-nodes
-      - 🇬🇧 GB SS-09 | free-nodes
-      - 未知 VLESS-10 | free-nodes
-      - 🇬🇧 GB VLESS-11 | free-nodes
-      - 🇩🇪 DE VLESS-12 | free-nodes
-      - 未知 VLESS-13 | free-nodes
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇬🇧 GB SS-15 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇩🇪 DE SS-17 | free-nodes
-      - 🇷🇺 RU VLESS-18 | free-nodes
-      - 🇭🇰 HK TROJAN-19 | free-nodes
+      - 未知 SS-01 | free-nodes
+      - 🇩🇪 DE SS-02 | free-nodes
+      - 未知 SS-03 | free-nodes
+      - 未知 SS-04 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇨🇦 CA SS-06 | free-nodes
+      - 🇨🇦 CA SS-07 | free-nodes
+      - 🇫🇷 FR TROJAN-08 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 未知 SS-11 | free-nodes
+      - 未知 SS-13 | free-nodes
+      - 🇫🇷 FR TROJAN-14 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇩🇪 DE VLESS-16 | free-nodes
+      - 🇩🇪 DE VLESS-17 | free-nodes
+      - 🇬🇧 GB VLESS-18 | free-nodes
+      - 未知 SS-19 | free-nodes
       - 未知 VLESS-20 | free-nodes
-      - 未知 VLESS-21 | free-nodes
-      - 🇫🇷 FR TROJAN-22 | free-nodes
-      - 🇬🇧 GB VLESS-23 | free-nodes
-      - 🇩🇪 DE VLESS-24 | free-nodes
-      - 🇬🇧 GB VLESS-25 | free-nodes
-      - 🇬🇧 GB VLESS-26 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇩🇪 DE VLESS-33 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇩🇪 DE VLESS-39 | free-nodes
-      - 🇩🇪 DE VLESS-45 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇬🇧 GB SS-62 | free-nodes
-      - 未知 VLESS-64 | free-nodes
-      - 🇬🇧 GB VLESS-71 | free-nodes
-      - 🇩🇪 DE VLESS-76 | free-nodes
-      - 🇩🇪 DE VLESS-79 | free-nodes
+      - 🇬🇧 GB VLESS-21 | free-nodes
+      - 🇩🇪 DE VLESS-22 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇩🇪 DE SS-24 | free-nodes
+      - 🇷🇺 RU VLESS-25 | free-nodes
+      - 🇩🇪 DE VLESS-26 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 未知 VLESS-28 | free-nodes
+      - 🇩🇪 DE VLESS-29 | free-nodes
+      - 未知 VLESS-30 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇬🇧 GB SS-66 | free-nodes
+      - 未知 VLESS-68 | free-nodes
+      - 🇬🇧 GB VLESS-75 | free-nodes
       - 🇩🇪 DE VLESS-81 | free-nodes
-      - 未知 SS-82 | free-nodes
-      - 🇩🇪 DE VLESS-83 | free-nodes
-      - 未知 VLESS-89 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 未知 SS-93 | free-nodes
-      - 未知 SS-95 | free-nodes
-      - 未知 SS-97 | free-nodes
-      - 🇫🇷 FR TROJAN-100 | free-nodes
-      - 未知 VLESS-101 | free-nodes
-      - 🇩🇪 DE VLESS-102 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇩🇪 DE VLESS-84 | free-nodes
+      - 🇩🇪 DE VLESS-85 | free-nodes
+      - 未知 SS-86 | free-nodes
+      - 未知 VLESS-93 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - TR TROJAN-96 | free-nodes
+      - 未知 SS-98 | free-nodes
+      - 未知 SS-100 | free-nodes
+      - 未知 SS-102 | free-nodes
       - 🇩🇪 DE VLESS-105 | free-nodes
-      - 🇩🇪 DE VLESS-106 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
       - 🇩🇪 DE VLESS-108 | free-nodes
-      - 🇩🇪 DE VLESS-109 | free-nodes
-      - TR TROJAN-110 | free-nodes
-      - TR SS-111 | free-nodes
-      - 未知 SS-112 | free-nodes
+      - 未知 VLESS-109 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
+      - 🇩🇪 DE VLESS-112 | free-nodes
       - 未知 SS-113 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 未知 SS-114 | free-nodes
       - 🇩🇪 DE VLESS-115 | free-nodes
       - 未知 SS-117 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
-      - 🇷🇺 RU VLESS-119 | free-nodes
-      - 🇸🇬 SG SS-120 | free-nodes
-      - 未知 SS-121 | free-nodes
-      - 未知 SS-122 | free-nodes
-      - 未知 VLESS-123 | free-nodes
-      - 🇩🇪 DE VLESS-124 | free-nodes
-      - 🇩🇪 DE VLESS-127 | free-nodes
-      - 未知 VLESS-128 | free-nodes
-      - 未知 SS-129 | free-nodes
-      - 未知 SS-131 | free-nodes
-      - 🇯🇵 JP SS-132 | free-nodes
-      - 🇯🇵 JP VLESS-133 | free-nodes
-      - 未知 SS-134 | free-nodes
-      - 未知 SS-135 | free-nodes
-      - 未知 SS-138 | free-nodes
-      - 未知 VLESS-139 | free-nodes
+      - 🇩🇪 DE VLESS-119 | free-nodes
+      - 未知 SS-120 | free-nodes
+      - 🇷🇺 RU VLESS-121 | free-nodes
+      - 🇸🇬 SG SS-122 | free-nodes
+      - 未知 SS-123 | free-nodes
+      - 未知 SS-124 | free-nodes
+      - 未知 VLESS-125 | free-nodes
+      - 未知 VLESS-126 | free-nodes
+      - 🇩🇪 DE VLESS-129 | free-nodes
+      - 未知 SS-130 | free-nodes
+      - 未知 SS-132 | free-nodes
+      - 🇯🇵 JP SS-133 | free-nodes
+      - 🇯🇵 JP VLESS-134 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
+      - 未知 SS-136 | free-nodes
+      - 未知 SS-137 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
+      - 未知 SS-141 | free-nodes
   - name: 🇭🇰 香港节点
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 HK TROJAN-19 | free-nodes
-      - 🇭🇰 HK TROJAN-46 | free-nodes
-      - 🇭🇰 HK TROJAN-91 | free-nodes
-      - 🇭🇰 HK SS-103 | free-nodes
+      - 🇭🇰 HK TROJAN-27 | free-nodes
+      - 🇭🇰 HK TROJAN-50 | free-nodes
+      - 🇭🇰 HK SS-106 | free-nodes
+      - 🇭🇰 HK VLESS-135 | free-nodes
   - name: 🇺🇲 美国节点
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 150
     proxies:
-      - 🇺🇸 US VLESS-14 | free-nodes
-      - 🇺🇸 US SS-16 | free-nodes
-      - 🇺🇸 US VLESS-27 | free-nodes
-      - 🇺🇸 US TROJAN-38 | free-nodes
-      - 🇺🇸 US VLESS-90 | free-nodes
-      - 🇺🇸 US VLESS-107 | free-nodes
-      - 🇺🇸 US SS-114 | free-nodes
+      - 🇺🇸 US SS-05 | free-nodes
+      - 🇺🇸 US SS-10 | free-nodes
+      - 🇺🇸 US SS-15 | free-nodes
+      - 🇺🇸 US SS-23 | free-nodes
+      - 🇺🇸 US TROJAN-44 | free-nodes
+      - 🇺🇸 US VLESS-94 | free-nodes
+      - 🇺🇸 US VLESS-110 | free-nodes
       - 🇺🇸 US SS-118 | free-nodes
+      - 🇺🇸 US VLESS-140 | free-nodes
 rules:
   - PROCESS-NAME,cfnat-android-arm64,🎯 全球直连
   - PROCESS-NAME,cfnat-darwin-amd64,🎯 全球直连
