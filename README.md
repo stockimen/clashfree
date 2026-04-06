@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-04-06 21:57:32  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-04-07 01:30:01  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## 客户端：
@@ -42,7 +42,7 @@
 网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 九折优惠码：3UJuVnqS
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-## 免费clash节点分享  <a href="https://github.com/free-nodes/clashfree/blob/main/clash20260406.yml" target="_blank">点击下载</a>
+## 免费clash节点分享  <a href="https://github.com/free-nodes/clashfree/blob/main/clash20260407.yml" target="_blank">点击下载</a>
 ```  
 port: 7890
 socks-port: 7891
