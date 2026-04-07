@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-04-08 01:39:24  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-04-08 05:28:51  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## 客户端：
@@ -190,8 +190,8 @@ proxies:
   - {name: 未知 SS-139 | free-nodes, server: www.ccgfw.top, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
   - {name: 未知 SS-140 | free-nodes, server: www.ccgfw.top, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
   - {name: 未知 SS-141 | free-nodes, server: www.ccgfw.top, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
-  - {name: 未知 VLESS-142 | free-nodes, server: s504.okgg.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u9c18s504.okgg.top, client-fingerprint: random, network: tcp}
-  - {name: 🇺🇸 US VLESS-143 | free-nodes, server: s111.okgfw.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u42a9s111.okgfw.top, client-fingerprint: random, network: tcp}
+  - {name: 🇺🇸 US VLESS-142 | free-nodes, server: s111.okgfw.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u42a9s111.okgfw.top, client-fingerprint: random, network: tcp}
+  - {name: 未知 VLESS-143 | free-nodes, server: s504.okgg.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u9c18s504.okgg.top, client-fingerprint: random, network: tcp}
   - {name: 🇬🇧 GB VLESS-144 | free-nodes, server: s644.ccgfw.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541ud3c8s644.ccgfw.top, client-fingerprint: random, network: tcp}
   - {name: 🇺🇸 US VLESS-145 | free-nodes, server: s531.ccgfw.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, skip-cert-verify: false, servername: u711541u9042s531.ccgfw.top, client-fingerprint: ios, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}}
   - {name: 🇭🇰 HK VLESS-146 | free-nodes, server: ipv6s315.okgg.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u0c14ipv6s315.okgg.top, client-fingerprint: random, network: tcp}
@@ -377,8 +377,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -558,8 +558,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -753,8 +753,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -933,8 +933,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -1121,8 +1121,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -1301,8 +1301,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -1482,8 +1482,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -1679,8 +1679,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -1745,7 +1745,7 @@ proxy-groups:
       - 🇺🇸 US VLESS-110 | free-nodes
       - 🇺🇸 US VLESS-129 | free-nodes
       - 🇺🇸 US VLESS-130 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇺🇸 US VLESS-150 | free-nodes
       - 🇺🇸 US VLESS-151 | free-nodes
@@ -5494,8 +5494,8 @@ proxies:
   - {name: 未知 SS-139 | free-nodes, server: www.ccgfw.top, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
   - {name: 未知 SS-140 | free-nodes, server: www.ccgfw.top, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
   - {name: 未知 SS-141 | free-nodes, server: www.ccgfw.top, port: 443, type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3}
-  - {name: 未知 VLESS-142 | free-nodes, server: s504.okgg.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u9c18s504.okgg.top, client-fingerprint: random, network: tcp}
-  - {name: 🇺🇸 US VLESS-143 | free-nodes, server: s111.okgfw.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u42a9s111.okgfw.top, client-fingerprint: random, network: tcp}
+  - {name: 🇺🇸 US VLESS-142 | free-nodes, server: s111.okgfw.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u42a9s111.okgfw.top, client-fingerprint: random, network: tcp}
+  - {name: 未知 VLESS-143 | free-nodes, server: s504.okgg.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u9c18s504.okgg.top, client-fingerprint: random, network: tcp}
   - {name: 🇬🇧 GB VLESS-144 | free-nodes, server: s644.ccgfw.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541ud3c8s644.ccgfw.top, client-fingerprint: random, network: tcp}
   - {name: 🇺🇸 US VLESS-145 | free-nodes, server: s531.ccgfw.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, skip-cert-verify: false, servername: u711541u9042s531.ccgfw.top, client-fingerprint: ios, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}}
   - {name: 🇭🇰 HK VLESS-146 | free-nodes, server: ipv6s315.okgg.top, port: 443, type: vless, uuid: 872624ac-aa40-39b1-8232-f7270812c234, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u711541u0c14ipv6s315.okgg.top, client-fingerprint: random, network: tcp}
@@ -5681,8 +5681,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -5862,8 +5862,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -6057,8 +6057,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -6237,8 +6237,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -6425,8 +6425,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -6605,8 +6605,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -6786,8 +6786,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -6983,8 +6983,8 @@ proxy-groups:
       - 未知 SS-139 | free-nodes
       - 未知 SS-140 | free-nodes
       - 未知 SS-141 | free-nodes
-      - 未知 VLESS-142 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
+      - 未知 VLESS-143 | free-nodes
       - 🇬🇧 GB VLESS-144 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇭🇰 HK VLESS-146 | free-nodes
@@ -7049,7 +7049,7 @@ proxy-groups:
       - 🇺🇸 US VLESS-110 | free-nodes
       - 🇺🇸 US VLESS-129 | free-nodes
       - 🇺🇸 US VLESS-130 | free-nodes
-      - 🇺🇸 US VLESS-143 | free-nodes
+      - 🇺🇸 US VLESS-142 | free-nodes
       - 🇺🇸 US VLESS-145 | free-nodes
       - 🇺🇸 US VLESS-150 | free-nodes
       - 🇺🇸 US VLESS-151 | free-nodes
