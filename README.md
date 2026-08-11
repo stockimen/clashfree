@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-08-11 05:24:39  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-08-11 08:45:53  
 
 
 
@@ -12,7 +12,7 @@
 
 - 上方订阅地址二维码
 
-  <img src="https://raw.githubusercontent.com/free-nodes/clashfree/main/sub.png" style="zoom:50%;" />
+  ![](https://raw.githubusercontent.com/free-nodes/clashfree/main/sub.png)
 
 ## 高速机场推荐1:【 ORYMI 】
 
@@ -48,8 +48,6 @@
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
 
 
-
-**👉[免费、实用的在线工具](https://tools12345.com/)**
 
 ## 📊 Clash客户端及教程汇总
 
