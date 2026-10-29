@@ -1,4 +1,4 @@
-# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-10-29 14:27:32  
+# clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程 每日更新  更新时间 2026-10-29 23:32:40  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## 客户端：
@@ -14727,6 +14727,11 @@ rules:
   - DOMAIN,qtenv2l0t.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN,mp74x2rt8m.lqn0m.adobestats.io,🍃 应用净化
   - DOMAIN,2ecmaybww.61ro5.adobestats.io,🍃 应用净化
+  - DOMAIN,us9ud3c2amrc.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,ht3lca63hmr0.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,b4ugswhrwd.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,ow2vr73mg.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,bxx3yvikejb.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN-SUFFIX,tonec.com,🍃 应用净化
   - DOMAIN-SUFFIX,registeridm.com,🍃 应用净化
   - DOMAIN-SUFFIX,internetdownloadmanager.com,🍃 应用净化
@@ -22492,6 +22497,11 @@ rules:
   - DOMAIN,qtenv2l0t.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN,mp74x2rt8m.lqn0m.adobestats.io,🍃 应用净化
   - DOMAIN,2ecmaybww.61ro5.adobestats.io,🍃 应用净化
+  - DOMAIN,us9ud3c2amrc.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,ht3lca63hmr0.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,b4ugswhrwd.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,ow2vr73mg.u0op6.adobestats.io,🍃 应用净化
+  - DOMAIN,bxx3yvikejb.u0op6.adobestats.io,🍃 应用净化
   - DOMAIN-SUFFIX,tonec.com,🍃 应用净化
   - DOMAIN-SUFFIX,registeridm.com,🍃 应用净化
   - DOMAIN-SUFFIX,internetdownloadmanager.com,🍃 应用净化
